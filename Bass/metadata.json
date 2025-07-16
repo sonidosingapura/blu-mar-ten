@@ -1,0 +1,572 @@
+{
+  "1": {
+    "name": "19_Bass",
+    "filename": "19_Bass_6A.wav",
+    "length": 0.97,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 0.5
+  },
+  "2": {
+    "name": "Arabian_Sub",
+    "filename": "Arabian_Sub_6A.wav",
+    "length": 1.1,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 0.5
+  },
+  "3": {
+    "name": "Aura_Bass",
+    "filename": "Aura_Bass_9B.wav",
+    "length": 1.2,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9B",
+    "key": "G",
+    "bars": 1
+  },
+  "4": {
+    "name": "Beta_Bass",
+    "filename": "Beta_Bass_11A.wav",
+    "length": 4.02,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 2
+  },
+  "5": {
+    "name": "Blue_Bass",
+    "filename": "Blue_Bass_8A.wav",
+    "length": 1.49,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 1
+  },
+  "6": {
+    "name": "Boo_Bass",
+    "filename": "Boo_Bass_1A.wav",
+    "length": 1.23,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 1
+  },
+  "7": {
+    "name": "Bouncer_Bass",
+    "filename": "Bouncer_Bass_2B.wav",
+    "length": 0.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2B",
+    "key": "Gb",
+    "bars": 0.5
+  },
+  "8": {
+    "name": "Calm_Bass",
+    "filename": "Calm_Bass_8A.wav",
+    "length": 1.75,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 1
+  },
+  "9": {
+    "name": "Chain_Bass_2",
+    "filename": "Chain_Bass_2_9A.wav",
+    "length": 1.06,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 0.5
+  },
+  "10": {
+    "name": "Chain_Bass",
+    "filename": "Chain_Bass_4A.wav",
+    "length": 1.05,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 0.5
+  },
+  "11": {
+    "name": "Champion_Sub",
+    "filename": "Champion_Sub_10A.wav",
+    "length": 0.75,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 0.5
+  },
+  "12": {
+    "name": "Difference_Bass",
+    "filename": "Difference_Bass_1A.wav",
+    "length": 0.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 0.5
+  },
+  "13": {
+    "name": "Dred_Bass",
+    "filename": "Dred_Bass_4A.wav",
+    "length": 1.37,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 1
+  },
+  "14": {
+    "name": "Drumz_Reese",
+    "filename": "Drumz_Reese.wav",
+    "length": 1.58,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "15": {
+    "name": "Drumz_Sub",
+    "filename": "Drumz_Sub_3B.wav",
+    "length": 3.11,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3B",
+    "key": "Db",
+    "bars": 2
+  },
+  "16": {
+    "name": "Dubplate_Bass",
+    "filename": "Dubplate_Bass_5A.wav",
+    "length": 2.2,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "17": {
+    "name": "Gang_Sub",
+    "filename": "Gang_Sub.wav",
+    "length": 0.88,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 0.5
+  },
+  "18": {
+    "name": "Ganga_Bass",
+    "filename": "Ganga_Bass_1A.wav",
+    "length": 3.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 2
+  },
+  "19": {
+    "name": "Ghost_Sub",
+    "filename": "Ghost_Sub_9A.wav",
+    "length": 0.88,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 0.5
+  },
+  "20": {
+    "name": "Haze_Bass",
+    "filename": "Haze_Bass_6B.wav",
+    "length": 1.22,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6B",
+    "key": "Bb",
+    "bars": 1
+  },
+  "21": {
+    "name": "Hearing_Bass",
+    "filename": "Hearing_Bass_4A.wav",
+    "length": 1.56,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 1
+  },
+  "22": {
+    "name": "Hurt_U_So_Bass",
+    "filename": "Hurt_U_So_Bass_10A.wav",
+    "length": 0.42,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 0.5
+  },
+  "23": {
+    "name": "Illicit_Bass",
+    "filename": "Illicit_Bass_9B.wav",
+    "length": 0.89,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9B",
+    "key": "G",
+    "bars": 0.5
+  },
+  "24": {
+    "name": "Jazzy_Bass",
+    "filename": "Jazzy_Bass_10A.wav",
+    "length": 0.88,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 0.5
+  },
+  "25": {
+    "name": "Let_Roll_Bass",
+    "filename": "Let_Roll_Bass_2B.wav",
+    "length": 0.75,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2B",
+    "key": "Gb",
+    "bars": 0.5
+  },
+  "26": {
+    "name": "Logik_Bass",
+    "filename": "Logik_Bass_9A.wav",
+    "length": 0.88,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 0.5
+  },
+  "27": {
+    "name": "London_Smooth_Sub",
+    "filename": "London_Smooth_Sub.wav",
+    "length": 0.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 0.5
+  },
+  "28": {
+    "name": "London_Sub",
+    "filename": "London_Sub_1A.wav",
+    "length": 0.85,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 0.5
+  },
+  "29": {
+    "name": "Love_Bass",
+    "filename": "Love_Bass_11B.wav",
+    "length": 1.45,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11B",
+    "key": "A",
+    "bars": 1
+  },
+  "30": {
+    "name": "Meltdown_Bass",
+    "filename": "Meltdown_Bass_9A.wav",
+    "length": 1.77,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 1
+  },
+  "31": {
+    "name": "Metal_Bass",
+    "filename": "Metal_Bass_6A.wav",
+    "length": 2.03,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 2
+  },
+  "32": {
+    "name": "Moomin_808",
+    "filename": "Moomin_808_5A.wav",
+    "length": 0.71,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 0.5
+  },
+  "33": {
+    "name": "Night_Bass",
+    "filename": "Night_Bass_1A.wav",
+    "length": 2.25,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 2
+  },
+  "34": {
+    "name": "Null_Bass",
+    "filename": "Null_Bass_10B.wav",
+    "length": 0.55,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10B",
+    "key": "D",
+    "bars": 0.5
+  },
+  "35": {
+    "name": "Physical_Bass",
+    "filename": "Physical_Bass_8A.wav",
+    "length": 1.12,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 0.5
+  },
+  "36": {
+    "name": "Pressin_Sub",
+    "filename": "Pressin_Sub_4A.wav",
+    "length": 2.4,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "37": {
+    "name": "Rock_Bass",
+    "filename": "Rock_Bass_6B.wav",
+    "length": 1.37,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6B",
+    "key": "Bb",
+    "bars": 1
+  },
+  "38": {
+    "name": "Secrets_Bass",
+    "filename": "Secrets_Bass_4A.wav",
+    "length": 0.34,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 0.5
+  },
+  "39": {
+    "name": "Shoes_Bass",
+    "filename": "Shoes_Bass_5A.wav",
+    "length": 0.76,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 0.5
+  },
+  "40": {
+    "name": "Sweet_Bass",
+    "filename": "Sweet_Bass_6A.wav",
+    "length": 1.34,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 1
+  },
+  "41": {
+    "name": "Swift_Bass",
+    "filename": "Swift_Bass_12B.wav",
+    "length": 0.85,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12B",
+    "key": "E",
+    "bars": 0.5
+  },
+  "42": {
+    "name": "Take_You_Bass",
+    "filename": "Take_You_Bass_1A.wav",
+    "length": 1.57,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 1
+  },
+  "43": {
+    "name": "Technology_Bass",
+    "filename": "Technology_Bass_7A.wav",
+    "length": 2.5,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "44": {
+    "name": "Terrorist_Reese",
+    "filename": "Terrorist_Reese_3A.wav",
+    "length": 2.3,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 2
+  },
+  "45": {
+    "name": "Times_Bass",
+    "filename": "Times_Bass_7A.wav",
+    "length": 0.76,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 0.5
+  },
+  "46": {
+    "name": "Town_808_Bass",
+    "filename": "Town_808_Bass_1A.wav",
+    "length": 0.68,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 0.5
+  },
+  "47": {
+    "name": "Town_Bass",
+    "filename": "Town_Bass_4A.wav",
+    "length": 2.55,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "48": {
+    "name": "Tronik_Bass",
+    "filename": "Tronik_Bass_5B.wav",
+    "length": 1.79,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5B",
+    "key": "Eb",
+    "bars": 1
+  },
+  "49": {
+    "name": "Type_Bass",
+    "filename": "Type_Bass_4B.wav",
+    "length": 0.35,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4B",
+    "key": "Ab",
+    "bars": 0.5
+  },
+  "50": {
+    "name": "Walk_Bass",
+    "filename": "Walk_Bass_5A.wav",
+    "length": 1.08,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 0.5
+  },
+  "51": {
+    "name": "What_Ya_Gonna_Sub",
+    "filename": "What_Ya_Gonna_Sub_1A.wav",
+    "length": 1.76,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 1
+  },
+  "52": {
+    "name": "Wheel_Up_Sub",
+    "filename": "Wheel_Up_Sub.wav",
+    "length": 1.47,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "53": {
+    "name": "Who_Run_Bass",
+    "filename": "Who_Run_Bass_8A.wav",
+    "length": 0.77,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 0.5
+  },
+  "54": {
+    "name": "Will_They_Bass",
+    "filename": "Will_They_Bass.wav",
+    "length": 0.35,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 0.5
+  },
+  "55": {
+    "name": "Will_They_Hi_Bass",
+    "filename": "Will_They_Hi_Bass_5B.wav",
+    "length": 1.8,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5B",
+    "key": "Eb",
+    "bars": 1
+  },
+  "56": {
+    "name": "Worries_Sub",
+    "filename": "Worries_Sub_5A.wav",
+    "length": 1.08,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 0.5
+  },
+  "57": {
+    "name": "Your_Bass",
+    "filename": "Your_Bass_9A.wav",
+    "length": 0.19,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 0.5
+  }
+}

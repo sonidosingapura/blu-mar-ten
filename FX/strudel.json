@@ -1,6 +1,723 @@
 {
-  "_base":"https://raw.githubusercontent.com/sonidosingapura/blu-mar-ten/main/",
-  "fx": [
-    "Aura_Boom_4A.wav","Aura_Rise_3A.wav","Bad_Hit_12B.wav","Bad_Stats_6A.wav","Bad_Tight_Dly_11A.wav","Bang_Blips_4A.wav","Blue_Water_Spin_4A.wav","Bringing_Me_Dolphins_4A.wav","Bronx_Trailer_2A.wav","Calm_Breath_4A.wav","Calm_Downer_7A.wav","Calm_Fake_Mentasm_5A.wav","Centuries_Laser.wav","Centuries_Vocode_5B.wav","Chain_FX_10A.wav","Chain_Hisser_10A.wav","Champion_Scratch_5A.wav","Cool_Bell_4A.wav","Cool_Glass_5A.wav","Cool_Ping_5A.wav","Cosmik_Rev_5A.wav","Cryo_Spider_Synth_11A.wav","Dispatch_Drone_10A.wav","Dope_Hits_2A.wav","Dream_Brass_10A.wav","Dred_Guns.wav","Drumz_Ana_Hit_8A.wav","Effect_Mentasm_12A.wav","Enchanted_Water_2A.wav","Far_Out_Stab_4A.wav","Fluid_Clang_Hit_9A.wav","Fountain_Burble_Synth_5B.wav","Fountain_Splashes_6A.wav","Futureproof_Bells_5A.wav","Games_Beeps_6B.wav","Ganga_Rewind.wav","Gene_Drone_4A.wav","Guess_Wobblescratch_5A.wav","Haze_Hit_11B.wav","Headless_Dly.wav","Headless_Hit_5A.wav","Hear_This_Stretch_7B.wav","Jazz_Thing_Submarine_4B.wav","Jazzy_Mains_Hum_8B.wav","Johnny_Hit.wav","Jungle_Monster_5A.wav","LED_Vocal_Laser_11B.wav","Let_Roll_Spring_Bounce_2B.wav","Let_Roll_Stretch_9A.wav","Links_Perc_5A.wav","Logik_8bit_Hit_1A.wav","Logik_Buzzer_10A.wav","London_Hit_4A.wav","Maintain_Drone_8A.wav","Maintain_Perc_6B.wav","Maintain_Rotator.wav","Marbles_Slide_11A.wav","Maximum_Booty_Fader_3A.wav","Meltdown_Beep_8B.wav","Metal_Mentasm.wav","Metro_Drone_5A.wav","Metropolis_Hiss.wav","Metropolis_Reverse.wav","Mind_Congas_3A.wav","Mind_Drone_2A.wav","Mind_Tube_Vortex_4A.wav","Mind_Wah_9A.wav","Mind_Wind_Down_12A.wav","Mute_Hit_12A.wav","Myriad_Beep_Sine_10B.wav","Myriad_Mechanism_3A.wav","Null_Reload_9A.wav","Null_Scratch_2A.wav","Oh_Hit_10B.wav","Overhead_Hiss_6A.wav","Parallel_Whales_1A.wav","Peace_Whip_7A.wav","Physical_Ssshh_7A.wav","Place_Laser_5A.wav","Portraits_Bird_1A.wav","Portraits_Laser_Hit_12A.wav","Rainfall_Droplet_12A.wav","Reach_Hip_Hit_5A.wav","Reach_Skid_8B.wav","Recharge_Hit_7A.wav","Reflections_Scream.wav","Renegade_Snares_Perc_8A.wav","Renegade_Snares_String_9B.wav","Roll_On_Organ_9A.wav","Secrets_Flute_4A.wav","Secrets_Scrape_4A.wav","Shape_Beep_2A.wav","Shape_Beeps_7B.wav","Shape_Rubber_1A.wav","Shock_Beep_9A.wav","Solution_Breath_8A.wav","Some_Justice_Hit_4A.wav","Sonic_Dolphins_5A.wav","Soul_Atmos_7A.wav","Soul_Hit_8A.wav","Spring_Metal_9A.wav","Stepper_Stretch_6A.wav","Stone_Drone_11B.wav","Stranger_Atmos_7A.wav","Stranger_Hit_4A.wav","Terrain_Howl_10B.wav","Terrorist_Vox_Hit_5A.wav","Tone_Drone_6B.wav","Town_Vinyl_Crackle_6A.wav","Travelling_Scratch_2A.wav","Travelling_Wind_Up_10A.wav","Tronik_Mentasm_6B.wav","Type_Synth_5B.wav","Vapour_Brass_Synth_9A.wav","Walk_Whip_6A.wav","War_Scraper_1A.wav","Warned_Hit_1A.wav","Warned_Hit_2_4A.wav","Wheel_Up_Signal_12A.wav","Your_Spindown_2A.wav"
-  ]
+  "_base": "https://raw.githubusercontent.com/sonidosingapura/blu-mar-ten/main/FX/",
+  "bmt_fx_1": {
+    "f4": "Aura_Boom_4A.wav"
+  },
+  "bmt_aura_boom": {
+    "f4": "Aura_Boom_4A.wav"
+  },
+  "bmt_fx_2": {
+    "bb3": "Aura_Rise_3A.wav"
+  },
+  "bmt_aura_rise": {
+    "bb3": "Aura_Rise_3A.wav"
+  },
+  "bmt_fx_3": {
+    "e3": "Bad_Hit_12B.wav"
+  },
+  "bmt_bad_hit": {
+    "e3": "Bad_Hit_12B.wav"
+  },
+  "bmt_fx_4": {
+    "g2": "Bad_Stats_6A.wav"
+  },
+  "bmt_bad_stats": {
+    "g2": "Bad_Stats_6A.wav"
+  },
+  "bmt_fx_5": {
+    "gb2": "Bad_Tight_Dly_11A.wav"
+  },
+  "bmt_bad_tight_dly": {
+    "gb2": "Bad_Tight_Dly_11A.wav"
+  },
+  "bmt_fx_6": {
+    "f3": "Bang_Blips_4A.wav"
+  },
+  "bmt_bang_blips": {
+    "f3": "Bang_Blips_4A.wav"
+  },
+  "bmt_fx_7": {
+    "f2": "Blue_Water_Spin_4A.wav"
+  },
+  "bmt_blue_water_spin": {
+    "f2": "Blue_Water_Spin_4A.wav"
+  },
+  "bmt_fx_8": {
+    "f4": "Bringing_Me_Dolphins_4A.wav"
+  },
+  "bmt_bringing_me_dolphins": {
+    "f4": "Bringing_Me_Dolphins_4A.wav"
+  },
+  "bmt_fx_9": {
+    "eb4": "Bronx_Trailer_2A.wav"
+  },
+  "bmt_bronx_trailer": {
+    "eb4": "Bronx_Trailer_2A.wav"
+  },
+  "bmt_fx_10": {
+    "f3": "Calm_Breath_4A.wav"
+  },
+  "bmt_calm_breath": {
+    "f3": "Calm_Breath_4A.wav"
+  },
+  "bmt_fx_11": {
+    "d3": "Calm_Downer_7A.wav"
+  },
+  "bmt_calm_downer": {
+    "d3": "Calm_Downer_7A.wav"
+  },
+  "bmt_fx_12": {
+    "c2": "Calm_Fake_Mentasm_5A.wav"
+  },
+  "bmt_calm_fake_mentasm": {
+    "c2": "Calm_Fake_Mentasm_5A.wav"
+  },
+  "bmt_fx_13": {
+    "c2": "Centuries_Laser.wav"
+  },
+  "bmt_centuries_laser": {
+    "c2": "Centuries_Laser.wav"
+  },
+  "bmt_fx_14": {
+    "eb4": "Centuries_Vocode_5B.wav"
+  },
+  "bmt_centuries_vocode": {
+    "eb4": "Centuries_Vocode_5B.wav"
+  },
+  "bmt_fx_15": {
+    "b2": "Chain_FX_10A.wav"
+  },
+  "bmt_chain_fx": {
+    "b2": "Chain_FX_10A.wav"
+  },
+  "bmt_fx_16": {
+    "b3": "Chain_Hisser_10A.wav"
+  },
+  "bmt_chain_hisser": {
+    "b3": "Chain_Hisser_10A.wav"
+  },
+  "bmt_fx_17": {
+    "c2": "Champion_Scratch_5A.wav"
+  },
+  "bmt_champion_scratch": {
+    "c2": "Champion_Scratch_5A.wav"
+  },
+  "bmt_fx_18": {
+    "f4": "Cool_Bell_4A.wav"
+  },
+  "bmt_cool_bell": {
+    "f4": "Cool_Bell_4A.wav"
+  },
+  "bmt_fx_19": {
+    "c2": "Cool_Glass_5A.wav"
+  },
+  "bmt_cool_glass": {
+    "c2": "Cool_Glass_5A.wav"
+  },
+  "bmt_fx_20": {
+    "c2": "Cool_Ping_5A.wav"
+  },
+  "bmt_cool_ping": {
+    "c2": "Cool_Ping_5A.wav"
+  },
+  "bmt_fx_21": {
+    "c3": "Cosmik_Rev_5A.wav"
+  },
+  "bmt_cosmik_rev": {
+    "c3": "Cosmik_Rev_5A.wav"
+  },
+  "bmt_fx_22": {
+    "gb3": "Cryo_Spider_Synth_11A.wav"
+  },
+  "bmt_cryo_spider_synth": {
+    "gb3": "Cryo_Spider_Synth_11A.wav"
+  },
+  "bmt_fx_23": {
+    "b4": "Dispatch_Drone_10A.wav"
+  },
+  "bmt_dispatch_drone": {
+    "b4": "Dispatch_Drone_10A.wav"
+  },
+  "bmt_fx_24": {
+    "eb2": "Dope_Hits_2A.wav"
+  },
+  "bmt_dope_hits": {
+    "eb2": "Dope_Hits_2A.wav"
+  },
+  "bmt_fx_25": {
+    "b4": "Dream_Brass_10A.wav"
+  },
+  "bmt_dream_brass": {
+    "b4": "Dream_Brass_10A.wav"
+  },
+  "bmt_fx_26": {
+    "c3": "Dred_Guns.wav"
+  },
+  "bmt_dred_guns": {
+    "c3": "Dred_Guns.wav"
+  },
+  "bmt_fx_27": {
+    "a2": "Drumz_Ana_Hit_8A.wav"
+  },
+  "bmt_drumz_ana_hit": {
+    "a2": "Drumz_Ana_Hit_8A.wav"
+  },
+  "bmt_fx_28": {
+    "db2": "Effect_Mentasm_12A.wav"
+  },
+  "bmt_effect_mentasm": {
+    "db2": "Effect_Mentasm_12A.wav"
+  },
+  "bmt_fx_29": {
+    "eb4": "Enchanted_Water_2A.wav"
+  },
+  "bmt_enchanted_water": {
+    "eb4": "Enchanted_Water_2A.wav"
+  },
+  "bmt_fx_30": {
+    "f2": "Far_Out_Stab_4A.wav"
+  },
+  "bmt_far_out_stab": {
+    "f2": "Far_Out_Stab_4A.wav"
+  },
+  "bmt_fx_31": {
+    "e4": "Fluid_Clang_Hit_9A.wav"
+  },
+  "bmt_fluid_clang_hit": {
+    "e4": "Fluid_Clang_Hit_9A.wav"
+  },
+  "bmt_fx_32": {
+    "eb4": "Fountain_Burble_Synth_5B.wav"
+  },
+  "bmt_fountain_burble_synth": {
+    "eb4": "Fountain_Burble_Synth_5B.wav"
+  },
+  "bmt_fx_33": {
+    "g4": "Fountain_Splashes_6A.wav"
+  },
+  "bmt_fountain_splashes": {
+    "g4": "Fountain_Splashes_6A.wav"
+  },
+  "bmt_fx_34": {
+    "c4": "Futureproof_Bells_5A.wav"
+  },
+  "bmt_futureproof_bells": {
+    "c4": "Futureproof_Bells_5A.wav"
+  },
+  "bmt_fx_35": {
+    "bb4": "Games_Beeps_6B.wav"
+  },
+  "bmt_games_beeps": {
+    "bb4": "Games_Beeps_6B.wav"
+  },
+  "bmt_fx_36": {
+    "c3": "Ganga_Rewind.wav"
+  },
+  "bmt_ganga_rewind": {
+    "c3": "Ganga_Rewind.wav"
+  },
+  "bmt_fx_37": {
+    "f4": "Gene_Drone_4A.wav"
+  },
+  "bmt_gene_drone": {
+    "f4": "Gene_Drone_4A.wav"
+  },
+  "bmt_fx_38": {
+    "c2": "Guess_Wobblescratch_5A.wav"
+  },
+  "bmt_guess_wobblescratch": {
+    "c2": "Guess_Wobblescratch_5A.wav"
+  },
+  "bmt_fx_39": {
+    "a3": "Haze_Hit_11B.wav"
+  },
+  "bmt_haze_hit": {
+    "a3": "Haze_Hit_11B.wav"
+  },
+  "bmt_fx_40": {
+    "c4": "Headless_Dly.wav"
+  },
+  "bmt_headless_dly": {
+    "c4": "Headless_Dly.wav"
+  },
+  "bmt_fx_41": {
+    "c3": "Headless_Hit_5A.wav"
+  },
+  "bmt_headless_hit": {
+    "c3": "Headless_Hit_5A.wav"
+  },
+  "bmt_fx_42": {
+    "f4": "Hear_This_Stretch_7B.wav"
+  },
+  "bmt_hear_this_stretch": {
+    "f4": "Hear_This_Stretch_7B.wav"
+  },
+  "bmt_fx_43": {
+    "ab3": "Jazz_Thing_Submarine_4B.wav"
+  },
+  "bmt_jazz_thing_submarine": {
+    "ab3": "Jazz_Thing_Submarine_4B.wav"
+  },
+  "bmt_fx_44": {
+    "c2": "Jazzy_Mains_Hum_8B.wav"
+  },
+  "bmt_jazzy_mains_hum": {
+    "c2": "Jazzy_Mains_Hum_8B.wav"
+  },
+  "bmt_fx_45": {
+    "c3": "Johnny_Hit.wav"
+  },
+  "bmt_johnny_hit": {
+    "c3": "Johnny_Hit.wav"
+  },
+  "bmt_fx_46": {
+    "c2": "Jungle_Monster_5A.wav"
+  },
+  "bmt_jungle_monster": {
+    "c2": "Jungle_Monster_5A.wav"
+  },
+  "bmt_fx_47": {
+    "a4": "LED_Vocal_Laser_11B.wav"
+  },
+  "bmt_led_vocal_laser": {
+    "a4": "LED_Vocal_Laser_11B.wav"
+  },
+  "bmt_fx_48": {
+    "gb2": "Let_Roll_Spring_Bounce_2B.wav"
+  },
+  "bmt_let_roll_spring_bounce": {
+    "gb2": "Let_Roll_Spring_Bounce_2B.wav"
+  },
+  "bmt_fx_49": {
+    "e2": "Let_Roll_Stretch_9A.wav"
+  },
+  "bmt_let_roll_stretch": {
+    "e2": "Let_Roll_Stretch_9A.wav"
+  },
+  "bmt_fx_50": {
+    "c4": "Links_Perc_5A.wav"
+  },
+  "bmt_links_perc": {
+    "c4": "Links_Perc_5A.wav"
+  },
+  "bmt_fx_51": {
+    "ab3": "Logik_8bit_Hit_1A.wav"
+  },
+  "bmt_logik_8bit_hit": {
+    "ab3": "Logik_8bit_Hit_1A.wav"
+  },
+  "bmt_fx_52": {
+    "b4": "Logik_Buzzer_10A.wav"
+  },
+  "bmt_logik_buzzer": {
+    "b4": "Logik_Buzzer_10A.wav"
+  },
+  "bmt_fx_53": {
+    "f2": "London_Hit_4A.wav"
+  },
+  "bmt_london_hit": {
+    "f2": "London_Hit_4A.wav"
+  },
+  "bmt_fx_54": {
+    "a3": "Maintain_Drone_8A.wav"
+  },
+  "bmt_maintain_drone": {
+    "a3": "Maintain_Drone_8A.wav"
+  },
+  "bmt_fx_55": {
+    "bb3": "Maintain_Perc_6B.wav"
+  },
+  "bmt_maintain_perc": {
+    "bb3": "Maintain_Perc_6B.wav"
+  },
+  "bmt_fx_56": {
+    "c3": "Maintain_Rotator.wav"
+  },
+  "bmt_maintain_rotator": {
+    "c3": "Maintain_Rotator.wav"
+  },
+  "bmt_fx_57": {
+    "gb2": "Marbles_Slide_11A.wav"
+  },
+  "bmt_marbles_slide": {
+    "gb2": "Marbles_Slide_11A.wav"
+  },
+  "bmt_fx_58": {
+    "bb3": "Maximum_Booty_Fader_3A.wav"
+  },
+  "bmt_maximum_booty_fader": {
+    "bb3": "Maximum_Booty_Fader_3A.wav"
+  },
+  "bmt_fx_59": {
+    "c2": "Meltdown_Beep_8B.wav"
+  },
+  "bmt_meltdown_beep": {
+    "c2": "Meltdown_Beep_8B.wav"
+  },
+  "bmt_fx_60": {
+    "c4": "Metal_Mentasm.wav"
+  },
+  "bmt_metal_mentasm": {
+    "c4": "Metal_Mentasm.wav"
+  },
+  "bmt_fx_61": {
+    "c3": "Metro_Drone_5A.wav"
+  },
+  "bmt_metro_drone": {
+    "c3": "Metro_Drone_5A.wav"
+  },
+  "bmt_fx_62": {
+    "c4": "Metropolis_Hiss.wav"
+  },
+  "bmt_metropolis_hiss": {
+    "c4": "Metropolis_Hiss.wav"
+  },
+  "bmt_fx_63": {
+    "c2": "Metropolis_Reverse.wav"
+  },
+  "bmt_metropolis_reverse": {
+    "c2": "Metropolis_Reverse.wav"
+  },
+  "bmt_fx_64": {
+    "bb3": "Mind_Congas_3A.wav"
+  },
+  "bmt_mind_congas": {
+    "bb3": "Mind_Congas_3A.wav"
+  },
+  "bmt_fx_65": {
+    "eb4": "Mind_Drone_2A.wav"
+  },
+  "bmt_mind_drone": {
+    "eb4": "Mind_Drone_2A.wav"
+  },
+  "bmt_fx_66": {
+    "f4": "Mind_Tube_Vortex_4A.wav"
+  },
+  "bmt_mind_tube_vortex": {
+    "f4": "Mind_Tube_Vortex_4A.wav"
+  },
+  "bmt_fx_67": {
+    "e3": "Mind_Wah_9A.wav"
+  },
+  "bmt_mind_wah": {
+    "e3": "Mind_Wah_9A.wav"
+  },
+  "bmt_fx_68": {
+    "db2": "Mind_Wind_Down_12A.wav"
+  },
+  "bmt_mind_wind_down": {
+    "db2": "Mind_Wind_Down_12A.wav"
+  },
+  "bmt_fx_69": {
+    "db3": "Mute_Hit_12A.wav"
+  },
+  "bmt_mute_hit": {
+    "db3": "Mute_Hit_12A.wav"
+  },
+  "bmt_fx_70": {
+    "d3": "Myriad_Beep_Sine_10B.wav"
+  },
+  "bmt_myriad_beep_sine": {
+    "d3": "Myriad_Beep_Sine_10B.wav"
+  },
+  "bmt_fx_71": {
+    "bb2": "Myriad_Mechanism_3A.wav"
+  },
+  "bmt_myriad_mechanism": {
+    "bb2": "Myriad_Mechanism_3A.wav"
+  },
+  "bmt_fx_72": {
+    "e2": "Null_Reload_9A.wav"
+  },
+  "bmt_null_reload": {
+    "e2": "Null_Reload_9A.wav"
+  },
+  "bmt_fx_73": {
+    "eb2": "Null_Scratch_2A.wav"
+  },
+  "bmt_null_scratch": {
+    "eb2": "Null_Scratch_2A.wav"
+  },
+  "bmt_fx_74": {
+    "d2": "Oh_Hit_10B.wav"
+  },
+  "bmt_oh_hit": {
+    "d2": "Oh_Hit_10B.wav"
+  },
+  "bmt_fx_75": {
+    "g4": "Overhead_Hiss_6A.wav"
+  },
+  "bmt_overhead_hiss": {
+    "g4": "Overhead_Hiss_6A.wav"
+  },
+  "bmt_fx_76": {
+    "ab3": "Parallel_Whales_1A.wav"
+  },
+  "bmt_parallel_whales": {
+    "ab3": "Parallel_Whales_1A.wav"
+  },
+  "bmt_fx_77": {
+    "d2": "Peace_Whip_7A.wav"
+  },
+  "bmt_peace_whip": {
+    "d2": "Peace_Whip_7A.wav"
+  },
+  "bmt_fx_78": {
+    "d3": "Physical_Ssshh_7A.wav"
+  },
+  "bmt_physical_ssshh": {
+    "d3": "Physical_Ssshh_7A.wav"
+  },
+  "bmt_fx_79": {
+    "c3": "Place_Laser_5A.wav"
+  },
+  "bmt_place_laser": {
+    "c3": "Place_Laser_5A.wav"
+  },
+  "bmt_fx_80": {
+    "ab2": "Portraits_Bird_1A.wav"
+  },
+  "bmt_portraits_bird": {
+    "ab2": "Portraits_Bird_1A.wav"
+  },
+  "bmt_fx_81": {
+    "db4": "Portraits_Laser_Hit_12A.wav"
+  },
+  "bmt_portraits_laser_hit": {
+    "db4": "Portraits_Laser_Hit_12A.wav"
+  },
+  "bmt_fx_82": {
+    "db2": "Rainfall_Droplet_12A.wav"
+  },
+  "bmt_rainfall_droplet": {
+    "db2": "Rainfall_Droplet_12A.wav"
+  },
+  "bmt_fx_83": {
+    "c2": "Reach_Hip_Hit_5A.wav"
+  },
+  "bmt_reach_hip_hit": {
+    "c2": "Reach_Hip_Hit_5A.wav"
+  },
+  "bmt_fx_84": {
+    "c2": "Reach_Skid_8B.wav"
+  },
+  "bmt_reach_skid": {
+    "c2": "Reach_Skid_8B.wav"
+  },
+  "bmt_fx_85": {
+    "d2": "Recharge_Hit_7A.wav"
+  },
+  "bmt_recharge_hit": {
+    "d2": "Recharge_Hit_7A.wav"
+  },
+  "bmt_fx_86": {
+    "c4": "Reflections_Scream.wav"
+  },
+  "bmt_reflections_scream": {
+    "c4": "Reflections_Scream.wav"
+  },
+  "bmt_fx_87": {
+    "a2": "Renegade_Snares_Perc_8A.wav"
+  },
+  "bmt_renegade_snares_perc": {
+    "a2": "Renegade_Snares_Perc_8A.wav"
+  },
+  "bmt_fx_88": {
+    "g3": "Renegade_Snares_String_9B.wav"
+  },
+  "bmt_renegade_snares_string": {
+    "g3": "Renegade_Snares_String_9B.wav"
+  },
+  "bmt_fx_89": {
+    "e3": "Roll_On_Organ_9A.wav"
+  },
+  "bmt_roll_on_organ": {
+    "e3": "Roll_On_Organ_9A.wav"
+  },
+  "bmt_fx_90": {
+    "f4": "Secrets_Flute_4A.wav"
+  },
+  "bmt_secrets_flute": {
+    "f4": "Secrets_Flute_4A.wav"
+  },
+  "bmt_fx_91": {
+    "f4": "Secrets_Scrape_4A.wav"
+  },
+  "bmt_secrets_scrape": {
+    "f4": "Secrets_Scrape_4A.wav"
+  },
+  "bmt_fx_92": {
+    "eb2": "Shape_Beep_2A.wav"
+  },
+  "bmt_shape_beep": {
+    "eb2": "Shape_Beep_2A.wav"
+  },
+  "bmt_fx_93": {
+    "f4": "Shape_Beeps_7B.wav"
+  },
+  "bmt_shape_beeps": {
+    "f4": "Shape_Beeps_7B.wav"
+  },
+  "bmt_fx_94": {
+    "ab2": "Shape_Rubber_1A.wav"
+  },
+  "bmt_shape_rubber": {
+    "ab2": "Shape_Rubber_1A.wav"
+  },
+  "bmt_fx_95": {
+    "e2": "Shock_Beep_9A.wav"
+  },
+  "bmt_shock_beep": {
+    "e2": "Shock_Beep_9A.wav"
+  },
+  "bmt_fx_96": {
+    "a2": "Solution_Breath_8A.wav"
+  },
+  "bmt_solution_breath": {
+    "a2": "Solution_Breath_8A.wav"
+  },
+  "bmt_fx_97": {
+    "f3": "Some_Justice_Hit_4A.wav"
+  },
+  "bmt_some_justice_hit": {
+    "f3": "Some_Justice_Hit_4A.wav"
+  },
+  "bmt_fx_98": {
+    "c4": "Sonic_Dolphins_5A.wav"
+  },
+  "bmt_sonic_dolphins": {
+    "c4": "Sonic_Dolphins_5A.wav"
+  },
+  "bmt_fx_99": {
+    "d4": "Soul_Atmos_7A.wav"
+  },
+  "bmt_soul_atmos": {
+    "d4": "Soul_Atmos_7A.wav"
+  },
+  "bmt_fx_100": {
+    "a2": "Soul_Hit_8A.wav"
+  },
+  "bmt_soul_hit": {
+    "a2": "Soul_Hit_8A.wav"
+  },
+  "bmt_fx_101": {
+    "e3": "Spring_Metal_9A.wav"
+  },
+  "bmt_spring_metal": {
+    "e3": "Spring_Metal_9A.wav"
+  },
+  "bmt_fx_102": {
+    "g2": "Stepper_Stretch_6A.wav"
+  },
+  "bmt_stepper_stretch": {
+    "g2": "Stepper_Stretch_6A.wav"
+  },
+  "bmt_fx_103": {
+    "a4": "Stone_Drone_11B.wav"
+  },
+  "bmt_stone_drone": {
+    "a4": "Stone_Drone_11B.wav"
+  },
+  "bmt_fx_104": {
+    "d4": "Stranger_Atmos_7A.wav"
+  },
+  "bmt_stranger_atmos": {
+    "d4": "Stranger_Atmos_7A.wav"
+  },
+  "bmt_fx_105": {
+    "f3": "Stranger_Hit_4A.wav"
+  },
+  "bmt_stranger_hit": {
+    "f3": "Stranger_Hit_4A.wav"
+  },
+  "bmt_fx_106": {
+    "d4": "Terrain_Howl_10B.wav"
+  },
+  "bmt_terrain_howl": {
+    "d4": "Terrain_Howl_10B.wav"
+  },
+  "bmt_fx_107": {
+    "c3": "Terrorist_Vox_Hit_5A.wav"
+  },
+  "bmt_terrorist_vox_hit": {
+    "c3": "Terrorist_Vox_Hit_5A.wav"
+  },
+  "bmt_fx_108": {
+    "bb3": "Tone_Drone_6B.wav"
+  },
+  "bmt_tone_drone": {
+    "bb3": "Tone_Drone_6B.wav"
+  },
+  "bmt_fx_109": {
+    "g4": "Town_Vinyl_Crackle_6A.wav"
+  },
+  "bmt_town_vinyl_crackle": {
+    "g4": "Town_Vinyl_Crackle_6A.wav"
+  },
+  "bmt_fx_110": {
+    "eb2": "Travelling_Scratch_2A.wav"
+  },
+  "bmt_travelling_scratch": {
+    "eb2": "Travelling_Scratch_2A.wav"
+  },
+  "bmt_fx_111": {
+    "b2": "Travelling_Wind_Up_10A.wav"
+  },
+  "bmt_travelling_wind_up": {
+    "b2": "Travelling_Wind_Up_10A.wav"
+  },
+  "bmt_fx_112": {
+    "bb2": "Tronik_Mentasm_6B.wav"
+  },
+  "bmt_tronik_mentasm": {
+    "bb2": "Tronik_Mentasm_6B.wav"
+  },
+  "bmt_fx_113": {
+    "eb2": "Type_Synth_5B.wav"
+  },
+  "bmt_type_synth": {
+    "eb2": "Type_Synth_5B.wav"
+  },
+  "bmt_fx_114": {
+    "e4": "Vapour_Brass_Synth_9A.wav"
+  },
+  "bmt_vapour_brass_synth": {
+    "e4": "Vapour_Brass_Synth_9A.wav"
+  },
+  "bmt_fx_115": {
+    "g2": "Walk_Whip_6A.wav"
+  },
+  "bmt_walk_whip": {
+    "g2": "Walk_Whip_6A.wav"
+  },
+  "bmt_fx_116": {
+    "ab3": "War_Scraper_1A.wav"
+  },
+  "bmt_war_scraper": {
+    "ab3": "War_Scraper_1A.wav"
+  },
+  "bmt_fx_117": {
+    "ab2": "Warned_Hit_1A.wav"
+  },
+  "bmt_warned_hit": {
+    "ab2": "Warned_Hit_1A.wav"
+  },
+  "bmt_fx_118": {
+    "f4": "Warned_Hit_2_4A.wav"
+  },
+  "bmt_warned_hit_2": {
+    "f4": "Warned_Hit_2_4A.wav"
+  },
+  "bmt_fx_119": {
+    "db2": "Wheel_Up_Signal_12A.wav"
+  },
+  "bmt_wheel_up_signal": {
+    "db2": "Wheel_Up_Signal_12A.wav"
+  },
+  "bmt_fx_120": {
+    "eb3": "Your_Spindown_2A.wav"
+  },
+  "bmt_your_spindown": {
+    "eb3": "Your_Spindown_2A.wav"
+  }
 }

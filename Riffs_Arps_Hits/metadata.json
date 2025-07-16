@@ -1,0 +1,1302 @@
+{
+  "1": {
+    "name": "19_Synth",
+    "filename": "19_Synth_4A.wav",
+    "length": 1.55,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "2": {
+    "name": "40_Miles_Glock",
+    "filename": "40_Miles_Glock_9A.wav",
+    "length": 3.56,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "3": {
+    "name": "40_Miles_Piano",
+    "filename": "40_Miles_Piano_3B.wav",
+    "length": 3.84,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3B",
+    "key": "Db",
+    "bars": 2
+  },
+  "4": {
+    "name": "Alpha_Hit",
+    "filename": "Alpha_Hit_4A.wav",
+    "length": 5.44,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 4
+  },
+  "5": {
+    "name": "Alzir_Chord",
+    "filename": "Alzir_Chord_9A.wav",
+    "length": 2.62,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "6": {
+    "name": "Apollo_Hello",
+    "filename": "Apollo_Hello_12A.wav",
+    "length": 6.8,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 4
+  },
+  "7": {
+    "name": "Arabian_Drone",
+    "filename": "Arabian_Drone_5A.wav",
+    "length": 11.73,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "8": {
+    "name": "Atlantis_Harp",
+    "filename": "Atlantis_Harp_6A.wav",
+    "length": 6.1,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 4
+  },
+  "9": {
+    "name": "Awesome_Piano",
+    "filename": "Awesome_Piano_3B.wav",
+    "length": 3.61,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3B",
+    "key": "Db",
+    "bars": 2
+  },
+  "10": {
+    "name": "Bad_Orch_Hit",
+    "filename": "Bad_Orch_Hit_5A.wav",
+    "length": 1.26,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "11": {
+    "name": "Beatnik_Riffs",
+    "filename": "Beatnik_Riffs_5A.wav",
+    "length": 5.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "12": {
+    "name": "Beep_Rhodes",
+    "filename": "Beep_Rhodes_5B.wav",
+    "length": 14.52,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5B",
+    "key": "Eb",
+    "bars": 4
+  },
+  "13": {
+    "name": "Bell_Bells",
+    "filename": "Bell_Bells_5A.wav",
+    "length": 3.06,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "14": {
+    "name": "Bell_Bongos",
+    "filename": "Bell_Bongos_8A.wav",
+    "length": 3.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 4
+  },
+  "15": {
+    "name": "Blue_Synth",
+    "filename": "Blue_Synth_8A.wav",
+    "length": 2.94,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 2
+  },
+  "16": {
+    "name": "Bomb_Rhodes",
+    "filename": "Bomb_Rhodes_4A.wav",
+    "length": 5.62,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 4
+  },
+  "17": {
+    "name": "Bouncer_Stab",
+    "filename": "Bouncer_Stab_1A.wav",
+    "length": 0.88,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 2
+  },
+  "18": {
+    "name": "Breeze_Chord",
+    "filename": "Breeze_Chord_7A.wav",
+    "length": 4.33,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 4
+  },
+  "19": {
+    "name": "Bulldozer_Synths",
+    "filename": "Bulldozer_Synths_3A.wav",
+    "length": 2.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 2
+  },
+  "20": {
+    "name": "Calling_Horn",
+    "filename": "Calling_Horn_2A.wav",
+    "length": 8.64,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 4
+  },
+  "21": {
+    "name": "Calm_String_Hit",
+    "filename": "Calm_String_Hit_9A.wav",
+    "length": 2.06,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "22": {
+    "name": "Camo_Arp",
+    "filename": "Camo_Arp_3A.wav",
+    "length": 5.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 4
+  },
+  "23": {
+    "name": "Careless_Synth",
+    "filename": "Careless_Synth_5A.wav",
+    "length": 6.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "24": {
+    "name": "Change_Chord",
+    "filename": "Change_Chord_7A.wav",
+    "length": 2.29,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "25": {
+    "name": "Chase_Chord",
+    "filename": "Chase_Chord_11A.wav",
+    "length": 5.57,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 4
+  },
+  "26": {
+    "name": "Chime_Bells",
+    "filename": "Chime_Bells_12B.wav",
+    "length": 1.96,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12B",
+    "key": "E",
+    "bars": 2
+  },
+  "27": {
+    "name": "Connected_Flute",
+    "filename": "Connected_Flute_6A.wav",
+    "length": 3.45,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 2
+  },
+  "28": {
+    "name": "Connected_Trumpet",
+    "filename": "Connected_Trumpet_6A.wav",
+    "length": 4.15,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 4
+  },
+  "29": {
+    "name": "Control_Loop",
+    "filename": "Control_Loop_7A.wav",
+    "length": 1.38,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "30": {
+    "name": "Control_Stab",
+    "filename": "Control_Stab_10B.wav",
+    "length": 0.92,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10B",
+    "key": "D",
+    "bars": 2
+  },
+  "31": {
+    "name": "Control_Stab_2",
+    "filename": "Control_Stab_2_6B.wav",
+    "length": 0.93,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6B",
+    "key": "Bb",
+    "bars": 2
+  },
+  "32": {
+    "name": "Darkness_Stabs",
+    "filename": "Darkness_Stabs_7A.wav",
+    "length": 3.32,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "33": {
+    "name": "Deep_Keys",
+    "filename": "Deep_Keys_6A.wav",
+    "length": 5.89,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 4
+  },
+  "34": {
+    "name": "Detroit_Beep_Synth",
+    "filename": "Detroit_Beep_Synth_3A.wav",
+    "length": 3.07,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 2
+  },
+  "35": {
+    "name": "Detroit_Rush",
+    "filename": "Detroit_Rush_6B.wav",
+    "length": 2.7,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6B",
+    "key": "Bb",
+    "bars": 2
+  },
+  "36": {
+    "name": "Detroit_Synth",
+    "filename": "Detroit_Synth_5B.wav",
+    "length": 1.33,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5B",
+    "key": "Eb",
+    "bars": 2
+  },
+  "37": {
+    "name": "Different_Chord",
+    "filename": "Different_Chord_8A.wav",
+    "length": 2.63,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 2
+  },
+  "38": {
+    "name": "Dispatch_Reich",
+    "filename": "Dispatch_Reich_10A.wav",
+    "length": 7.21,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 4
+  },
+  "39": {
+    "name": "Dope_Keys",
+    "filename": "Dope_Keys_2B.wav",
+    "length": 2.64,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2B",
+    "key": "Gb",
+    "bars": 2
+  },
+  "40": {
+    "name": "Dreams_Chord",
+    "filename": "Dreams_Chord_12A.wav",
+    "length": 1.5,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 2
+  },
+  "41": {
+    "name": "Dreams_Pad",
+    "filename": "Dreams_Pad_11A.wav",
+    "length": 6.06,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 4
+  },
+  "42": {
+    "name": "Effect_HardChords",
+    "filename": "Effect_HardChords_5B.wav",
+    "length": 1.56,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5B",
+    "key": "Eb",
+    "bars": 2
+  },
+  "43": {
+    "name": "Effect_Strings",
+    "filename": "Effect_Strings_5A.wav",
+    "length": 2.92,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "44": {
+    "name": "Essential_Synth",
+    "filename": "Essential_Synth_12A.wav",
+    "length": 2.98,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 2
+  },
+  "45": {
+    "name": "Eterna_Clav",
+    "filename": "Eterna_Clav_8A.wav",
+    "length": 0.58,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 2
+  },
+  "46": {
+    "name": "Face_Metal_Hits",
+    "filename": "Face_Metal_Hits_7A.wav",
+    "length": 2.04,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "47": {
+    "name": "Feenin_Piano",
+    "filename": "Feenin_Piano_2A.wav",
+    "length": 5.98,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 4
+  },
+  "48": {
+    "name": "Fire_Stab",
+    "filename": "Fire_Stab_2B.wav",
+    "length": 1.08,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2B",
+    "key": "Gb",
+    "bars": 2
+  },
+  "49": {
+    "name": "Firin_Line_Rhodes",
+    "filename": "Firin_Line_Rhodes_10A.wav",
+    "length": 2.96,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 2
+  },
+  "50": {
+    "name": "Flutes_Flute",
+    "filename": "Flutes_Flute_12A.wav",
+    "length": 1.69,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 2
+  },
+  "51": {
+    "name": "Flutes_Rhodes",
+    "filename": "Flutes_Rhodes_7A.wav",
+    "length": 1.29,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "52": {
+    "name": "Freedom_Orgs",
+    "filename": "Freedom_Orgs_9B.wav",
+    "length": 0.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9B",
+    "key": "G",
+    "bars": 2
+  },
+  "53": {
+    "name": "Ghost_Strings",
+    "filename": "Ghost_Strings_12A.wav",
+    "length": 2.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 2
+  },
+  "54": {
+    "name": "Global_Gtr",
+    "filename": "Global_Gtr_1A.wav",
+    "length": 1.96,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 2
+  },
+  "55": {
+    "name": "God_Chord",
+    "filename": "God_Chord_7A.wav",
+    "length": 3.23,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "56": {
+    "name": "God_Chord_Duo",
+    "filename": "God_Chord_Duo_5A.wav",
+    "length": 0.76,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "57": {
+    "name": "God_Chord_Vox_Pads",
+    "filename": "God_Chord_Vox_Pads_7A.wav",
+    "length": 23.16,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 4
+  },
+  "58": {
+    "name": "Gravitational_Chord",
+    "filename": "Gravitational_Chord_9A.wav",
+    "length": 5.24,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 4
+  },
+  "59": {
+    "name": "Green_Synth",
+    "filename": "Green_Synth_6A.wav",
+    "length": 3.67,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 2
+  },
+  "60": {
+    "name": "Grey_Chord",
+    "filename": "Grey_Chord_11A.wav",
+    "length": 1.24,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 2
+  },
+  "61": {
+    "name": "Head_Keys",
+    "filename": "Head_Keys_3A.wav",
+    "length": 3.75,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 2
+  },
+  "62": {
+    "name": "Headless_Strings",
+    "filename": "Headless_Strings_5A.wav",
+    "length": 1.14,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "63": {
+    "name": "Horizontal_Trumpet",
+    "filename": "Horizontal_Trumpet_7A.wav",
+    "length": 2.43,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "64": {
+    "name": "Horn_Theme",
+    "filename": "Horn_Theme_7B.wav",
+    "length": 5.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7B",
+    "key": "F",
+    "bars": 4
+  },
+  "65": {
+    "name": "Jazz_Thing_Hit",
+    "filename": "Jazz_Thing_Hit_6A.wav",
+    "length": 1.54,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 2
+  },
+  "66": {
+    "name": "Jazzy_Chord",
+    "filename": "Jazzy_Chord_7A.wav",
+    "length": 1.93,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "67": {
+    "name": "Knives_Stab",
+    "filename": "Knives_Stab_10A.wav",
+    "length": 1.6,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 2
+  },
+  "68": {
+    "name": "Let_There_Brass",
+    "filename": "Let_There_Brass_5A.wav",
+    "length": 4.93,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "69": {
+    "name": "Liberty_Chord",
+    "filename": "Liberty_Chord_8A.wav",
+    "length": 0.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 2
+  },
+  "70": {
+    "name": "Lights_Chord",
+    "filename": "Lights_Chord_2A.wav",
+    "length": 1.23,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "71": {
+    "name": "Link_Rhodes_1",
+    "filename": "Link_Rhodes_1_3A.wav",
+    "length": 5.12,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 4
+  },
+  "72": {
+    "name": "Link_Rhodes_2",
+    "filename": "Link_Rhodes_2_3A.wav",
+    "length": 5.36,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 4
+  },
+  "73": {
+    "name": "Little_Roller_Sharp_Pad",
+    "filename": "Little_Roller_Sharp_Pad_3A.wav",
+    "length": 2.88,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 2
+  },
+  "74": {
+    "name": "Love_Arp",
+    "filename": "Love_Arp_9A.wav",
+    "length": 2.04,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "75": {
+    "name": "Mars_Hit",
+    "filename": "Mars_Hit_5A.wav",
+    "length": 5.89,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "76": {
+    "name": "Maximum_Gtr",
+    "filename": "Maximum_Gtr_7A.wav",
+    "length": 2.25,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "77": {
+    "name": "Miss_Me_Piano",
+    "filename": "Miss_Me_Piano_12A.wav",
+    "length": 2.08,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 2
+  },
+  "78": {
+    "name": "Moomin_Piano",
+    "filename": "Moomin_Piano_5A.wav",
+    "length": 4.28,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "79": {
+    "name": "Moves_Rise",
+    "filename": "Moves_Rise_2A.wav",
+    "length": 5.43,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 4
+  },
+  "80": {
+    "name": "Moves_Stutter_Synth",
+    "filename": "Moves_Stutter_Synth_1A.wav",
+    "length": 5.94,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 4
+  },
+  "81": {
+    "name": "Mystical_Chord",
+    "filename": "Mystical_Chord_6A.wav",
+    "length": 2.04,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 2
+  },
+  "82": {
+    "name": "Never_As_Good_Horn",
+    "filename": "Never_As_Good_Horn_8A.wav",
+    "length": 3.11,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 2
+  },
+  "83": {
+    "name": "Night_Train_Gate_Riff",
+    "filename": "Night_Train_Gate_Riff_7A.wav",
+    "length": 1.73,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "84": {
+    "name": "Overcast_Guitar",
+    "filename": "Overcast_Guitar_1B.wav",
+    "length": 5.78,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1B",
+    "key": "B",
+    "bars": 4
+  },
+  "85": {
+    "name": "Overhead_Hit",
+    "filename": "Overhead_Hit_2A.wav",
+    "length": 2.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "86": {
+    "name": "Pesh_Arp",
+    "filename": "Pesh_Arp_10A.wav",
+    "length": 2.59,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 2
+  },
+  "87": {
+    "name": "Pin_Up_Piano",
+    "filename": "Pin_Up_Piano_7B.wav",
+    "length": 1.46,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7B",
+    "key": "F",
+    "bars": 2
+  },
+  "88": {
+    "name": "Place_Synth",
+    "filename": "Place_Synth_2A.wav",
+    "length": 0.53,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "89": {
+    "name": "Playboy_Rhodes",
+    "filename": "Playboy_Rhodes_9A.wav",
+    "length": 6.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 4
+  },
+  "90": {
+    "name": "Possible_Worlds_Whistle",
+    "filename": "Possible_Worlds_Whistle_7A.wav",
+    "length": 4.21,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 4
+  },
+  "91": {
+    "name": "Promenade_Vox_Synths",
+    "filename": "Promenade_Vox_Synths_11B.wav",
+    "length": 5.9,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11B",
+    "key": "A",
+    "bars": 4
+  },
+  "92": {
+    "name": "Raven_Hit",
+    "filename": "Raven_Hit_4A.wav",
+    "length": 2.16,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "93": {
+    "name": "Reckon_String",
+    "filename": "Reckon_String_9A.wav",
+    "length": 4.57,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 4
+  },
+  "94": {
+    "name": "Reed_Breath_Flute",
+    "filename": "Reed_Breath_Flute_5A.wav",
+    "length": 4.73,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "95": {
+    "name": "Reed_Hit",
+    "filename": "Reed_Hit_7A.wav",
+    "length": 10.18,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 4
+  },
+  "96": {
+    "name": "Reel_Funk_Wah",
+    "filename": "Reel_Funk_Wah_10B.wav",
+    "length": 1.09,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10B",
+    "key": "D",
+    "bars": 2
+  },
+  "97": {
+    "name": "Repetoire_Flute",
+    "filename": "Repetoire_Flute_2A.wav",
+    "length": 2.68,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "98": {
+    "name": "Right_Bass_Mentasm",
+    "filename": "Right_Bass_Mentasm_10A.wav",
+    "length": 1.85,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 2
+  },
+  "99": {
+    "name": "Right_Piano",
+    "filename": "Right_Piano_3A.wav",
+    "length": 3.65,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 2
+  },
+  "100": {
+    "name": "Roll_Dancehall",
+    "filename": "Roll_Dancehall_12A.wav",
+    "length": 3.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 2
+  },
+  "101": {
+    "name": "Secrets_Hit",
+    "filename": "Secrets_Hit_7A.wav",
+    "length": 2.77,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "102": {
+    "name": "Sensi_Signal",
+    "filename": "Sensi_Signal_4B.wav",
+    "length": 4.12,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4B",
+    "key": "Ab",
+    "bars": 4
+  },
+  "103": {
+    "name": "Session_Hits",
+    "filename": "Session_Hits_7B.wav",
+    "length": 5.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7B",
+    "key": "F",
+    "bars": 4
+  },
+  "104": {
+    "name": "Session_Shout",
+    "filename": "Session_Shout_4A.wav",
+    "length": 2.75,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "105": {
+    "name": "Sky_Hit",
+    "filename": "Sky_Hit_5A.wav",
+    "length": 2.87,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "106": {
+    "name": "Solar_Chord",
+    "filename": "Solar_Chord_12B.wav",
+    "length": 6.51,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12B",
+    "key": "E",
+    "bars": 4
+  },
+  "107": {
+    "name": "Solar_Gtr_String",
+    "filename": "Solar_Gtr_String_12B.wav",
+    "length": 5.87,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12B",
+    "key": "E",
+    "bars": 4
+  },
+  "108": {
+    "name": "Solution_Synth",
+    "filename": "Solution_Synth_5A.wav",
+    "length": 2.9,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "109": {
+    "name": "Some_Justice_Hardcore_Hit",
+    "filename": "Some_Justice_Hardcore_Hit_10A.wav",
+    "length": 0.64,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 2
+  },
+  "110": {
+    "name": "Sonic_Burble",
+    "filename": "Sonic_Burble_5A.wav",
+    "length": 3.48,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "111": {
+    "name": "Soul_Chord",
+    "filename": "Soul_Chord_4B.wav",
+    "length": 2.43,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4B",
+    "key": "Ab",
+    "bars": 2
+  },
+  "112": {
+    "name": "Sovreign_Guitar",
+    "filename": "Sovreign_Guitar_10A.wav",
+    "length": 2.86,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 2
+  },
+  "113": {
+    "name": "Sovreign_Rhodes",
+    "filename": "Sovreign_Rhodes_10A.wav",
+    "length": 1.97,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 2
+  },
+  "114": {
+    "name": "Sovreign_Wah",
+    "filename": "Sovreign_Wah_5A.wav",
+    "length": 1.43,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "115": {
+    "name": "Spiritual_Keys",
+    "filename": "Spiritual_Keys.wav",
+    "length": 5.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 4
+  },
+  "116": {
+    "name": "Stepper_Keys_2",
+    "filename": "Stepper_Keys_2_11A.wav",
+    "length": 2.57,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 2
+  },
+  "117": {
+    "name": "Stepper_Keys",
+    "filename": "Stepper_Keys_9A.wav",
+    "length": 2.54,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "118": {
+    "name": "Sweet_Arp",
+    "filename": "Sweet_Arp_1A.wav",
+    "length": 1.66,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 2
+  },
+  "119": {
+    "name": "Sweet_Sunshine_Strum",
+    "filename": "Sweet_Sunshine_Strum_5A.wav",
+    "length": 2.75,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "120": {
+    "name": "System_Arps",
+    "filename": "System_Arps_10B.wav",
+    "length": 5.43,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10B",
+    "key": "D",
+    "bars": 4
+  },
+  "121": {
+    "name": "Tear_Lead",
+    "filename": "Tear_Lead_1B.wav",
+    "length": 2.4,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1B",
+    "key": "B",
+    "bars": 2
+  },
+  "122": {
+    "name": "Technology_Ana_Stab",
+    "filename": "Technology_Ana_Stab_5A.wav",
+    "length": 2.52,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "123": {
+    "name": "Ten_Wibble",
+    "filename": "Ten_Wibble_9B.wav",
+    "length": 2.49,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9B",
+    "key": "G",
+    "bars": 2
+  },
+  "124": {
+    "name": "Times_Stab",
+    "filename": "Times_Stab_5B.wav",
+    "length": 0.45,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5B",
+    "key": "Eb",
+    "bars": 2
+  },
+  "125": {
+    "name": "Tip_Stab",
+    "filename": "Tip_Stab_11B.wav",
+    "length": 0.64,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11B",
+    "key": "A",
+    "bars": 2
+  },
+  "126": {
+    "name": "Tone_Tune_Tones",
+    "filename": "Tone_Tune_Tones_7A.wav",
+    "length": 1.75,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "127": {
+    "name": "Traenon_Rhodes",
+    "filename": "Traenon_Rhodes_11B.wav",
+    "length": 4.85,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11B",
+    "key": "A",
+    "bars": 4
+  },
+  "128": {
+    "name": "Vulture_Chord",
+    "filename": "Vulture_Chord_9B.wav",
+    "length": 1.98,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9B",
+    "key": "G",
+    "bars": 2
+  },
+  "129": {
+    "name": "War_Reggae",
+    "filename": "War_Reggae_10A.wav",
+    "length": 2.86,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 2
+  },
+  "130": {
+    "name": "Wash_Flute",
+    "filename": "Wash_Flute_8A.wav",
+    "length": 12.78,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 4
+  }
+}

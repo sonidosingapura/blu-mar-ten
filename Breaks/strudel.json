@@ -1,6 +1,1347 @@
 {
-  "_base":"https://raw.githubusercontent.com/sonidosingapura/blu-mar-ten/main/",
-  "breaks": [
-    "Adrift_Break.wav","Alzir_Break_4A.wav","Angles_Break.wav","Apollo_4A.wav","Arson_Fill_4A.wav","Atlantis_Amen.wav","Back_Break.wav","Back_Break_2_7B.wav","Back_Break_3_7B.wav","Bad_Break_8A.wav","Beep_Break.wav","Beta_Break.wav","Blaze_Break_11A.wav","Blaze_Break_2.wav","Blue_Break_4A.wav","Bonanza_Break.wav","Boo_Break_5A.wav","Boo_Worm_Break_9A.wav","Bouncer_Break_6A.wav","Box_Break_2_6B.wav","Box_Break_3_2B.wav","Box_Break_4_5A.wav","Box_Break_5.wav","Box_Break_6A.wav","Breeze_Break_2A.wav","Bringing_Me_Break_7A.wav","Bronx_Break.wav","Brut_Force_Break.wav","Brut_Force_Fuller_Break_6A.wav","Bulldozer_Amen.wav","Bulldozer_Amen_2_2A.wav","Calling_Break_10A.wav","Calling_Reverse_Break_7A.wav","Camo_Break_3A.wav","Careless_Break_4A.wav","Centuries_Break.wav","Champion_Break_7A.wav","Change_Break_6A.wav","Check_Break_11A.wav","Chopper_Break_6A.wav","Connected_Break_7B.wav","Control_Amen.wav","Control_Amen_2.wav","Control_Break_2.wav","Control_Break_9A.wav","Control_Kick_Break_2A.wav","Control_Kicks_1A.wav","Control_Stutter_Break_7A.wav","Control_Vocal_Break_1A.wav","Cool_Amen_7A.wav","Cool_Break_7A.wav","Cosmik_Break_11A.wav","Cumulus_Break_4A.wav","Darkside_Break_7A.wav","Dayz_Break_9A.wav","Desire_Break_4A.wav","Detroit_Break_5A.wav","Detroit_Percussion_4A.wav","Difference_Break_1_9A.wav","Difference_Break_2_6A.wav","Dispatch_Break_2_2A.wav","Dispatch_Break_6B.wav","Drumz_Amen.wav","Drumz_Amen_Compound_11A.wav","Effect_Break_2_12A.wav","Effect_Break_3_7A.wav","Effect_Break_7A.wav","Enchanted_Break_5A.wav","Essential_Break_8A.wav","Fairlight_Break_9A.wav","Firin_Line_Break_3B.wav","First_Contact_Amen.wav","Flutes_Break_12A.wav","Fountain_Break_4A.wav","Friday_Break_9A.wav","Futureproof_Amen.wav","Games_Amen.wav","Gene_Break_12A.wav","Gene_Break_2.wav","God_Chord_Break_4A.wav","Good_Times_Break.wav","Gravitational_Break.wav","Groove_Therapy_Break_4A.wav","Guess_Break_1A.wav","Haze_Break_6A.wav","Haze_Hybrid_Break.wav","Heaven_Break_5A.wav","Heaven_Carl_Break_5A.wav","Heli_Bongos.wav","Heli_Break_2A.wav","Horn_Break.wav","Hurt_U_So_Break_1A.wav","Imagine_Break_4A.wav","Inner_Break_9A.wav","Intro_Amen.wav","Jazz_Note_Break_10A.wav","Jazz_Note_Break_2.wav","Jazz_Thing_Break.wav","Jazzy_Break_9A.wav","Johnny_Amen_11A.wav","Killa_Break_4A.wav","Let_Roll_Break.wav","Let_There_Break.wav","Let_There_Stutter_Break_6A.wav","Liberty_Amen.wav","Lick_Break_1A.wav","Lights_Break.wav","Limb_Break_9A.wav","Links_Break.wav","Little_Roller_Amen_7B.wav","London_Break_8A.wav","Mach_Break_11A.wav","Machines_Break_11A.wav","Maintain_Break_7A.wav","Marbles_Break_6A.wav","Massive_Amen_2A.wav","Massive_Break.wav","Maximum_Booty_Break.wav","Metropolis_Break_7A.wav","Moths_Break_4A.wav","Mutant_Break_7B.wav","My_Sound_Break_1_2A.wav","My_Sound_Break_2_8A.wav","My_Sound_Break_3_9A.wav","Mystical_Break.wav","Mystique_Break_7A.wav","Night_Break_7A.wav","Night_Compound_Break_7A.wav","Oh_Break_1A.wav","Overcast_Break_4A.wav","Parallel_World_Break_12A.wav","Peace_Sign_Break_2A.wav","Pesh_Break_7A.wav","Physical_Break_2.wav","Physical_Break_4A.wav","Pin_Up_Break.wav","Piper_Break_4A.wav","Place_Break_5A.wav","Playboy_Break_6B.wav","Possible_Worlds_Break_5A.wav","Pressin_Break_8A.wav","Prog_Amen_8A.wav","Prog_Break.wav","Promenade_Break.wav","Quest_Break.wav","Rainfall_Lite_Break.wav","Reach_Break_4A.wav","Reckon_Break_9A.wav","Reel_Funk_Amen_2A.wav","Reel_Funk_Roller_12A.wav","Reflections_Break_7A.wav","Repetoire_Break_6A.wav","Resolution_Break_5A.wav","Revelation_Amen_2A.wav","Ricochet_Break_9A.wav","Right_Break_6A.wav","Rise_Amen_2A.wav","Rock_Amen_12A.wav","Rock_Amen_2_12A.wav","Roll_On_Roll_2_10A.wav","Roll_On_Roll_3.wav","Roll_On_Roll_9A.wav","Rumble_Break_10A.wav","Searchin_Break_2_9A.wav","Searchin_Break_3_9A.wav","Searchin_Break_5A.wav","Seatown_Break_6B.wav","Secrets_Amen_7A.wav","Session_Break_8A.wav","Shock_Break.wav","Shock_Filter_Break.wav","Shoes_Break_4A.wav","Sight_Break_6A.wav","Sky_Break_9A.wav","Solar_Break_11A.wav","Sonic_Amen_7A.wav","Sonic_Break_2_4A.wav","Sonic_Break_4A.wav","Sound_Control_Break.wav","Sound_Murderer_Amen_9A.wav","Sovreign_Break_7B.wav","Space_Age_Break_5A.wav","Stepper_Amen.wav","Stepper_Break.wav","Still_Break_7A.wav","Stone_Break.wav","Sunset_Break_6A.wav","System_Break.wav","Take_You_Break.wav","Tear_Apache_4A.wav","Tear_Break_2.wav","Tear_Break_2A.wav","Technology_Break_9A.wav","Ten_Break_2_7A.wav","Ten_Break_7A.wav","Terrain_Break_2_2A.wav","Terrain_Break_4A.wav","Terrorist_Amen_11A.wav","Travelling_Break_11A.wav","Trippin_Break_2_7A.wav","Trippin_Break_9A.wav","Tronik_Break_4A.wav","True_Break.wav","Vapour_Break.wav","Voyage_Break_5A.wav","Walk_Break_2_12A.wav","Walk_Break_3_9A.wav","Walk_Break_8A.wav","WarPeace_Break.wav","War_Break_5A.wav","Warhead_Break_2A.wav","Warhead_Break_2_9A.wav","Warned_Break_4A.wav","Warning_Compound_11A.wav","Warning_Copter_11A.wav","Way_Break.wav","Wheel_Up_2_Bad.wav","Wheel_Up_Amen_6A.wav","Worries_Break_1A.wav","Your_Amen_2_9A.wav","Your_Amen_4A.wav","Your_Break_8B.wav","Zone_Break.wav","Zone_Break_2_5A.wav"
-  ]
+  "_base": "https://raw.githubusercontent.com/sonidosingapura/blu-mar-ten/main/Breaks/",
+  "bmt_breaks_1": {
+    "c3": "Adrift_Break.wav"
+  },
+  "bmt_adrift_break": {
+    "c3": "Adrift_Break.wav"
+  },
+  "bmt_breaks_2": {
+    "c3": "Alzir_Break_4A.wav"
+  },
+  "bmt_alzir_break": {
+    "f3": "Alzir_Break_4A.wav"
+  },
+  "bmt_breaks_3": {
+    "c2": "Angles_Break.wav"
+  },
+  "bmt_angles_break": {
+    "c2": "Angles_Break.wav"
+  },
+  "bmt_breaks_4": {
+    "c1": "Apollo_4A.wav"
+  },
+  "bmt_apollo": {
+    "f1": "Apollo_4A.wav"
+  },
+  "bmt_breaks_5": {
+    "c3": "Arson_Fill_4A.wav"
+  },
+  "bmt_arson_fill": {
+    "f3": "Arson_Fill_4A.wav"
+  },
+  "bmt_breaks_6": {
+    "c2": "Atlantis_Amen.wav"
+  },
+  "bmt_atlantis_amen": {
+    "c2": "Atlantis_Amen.wav"
+  },
+  "bmt_breaks_7": {
+    "c3": "Back_Break.wav"
+  },
+  "bmt_back_break": {
+    "c3": "Back_Break.wav"
+  },
+  "bmt_breaks_8": {
+    "c3": "Back_Break_2_7B.wav"
+  },
+  "bmt_back_break_2": {
+    "f3": "Back_Break_2_7B.wav"
+  },
+  "bmt_breaks_9": {
+    "c3": "Back_Break_3_7B.wav"
+  },
+  "bmt_back_break_3": {
+    "f3": "Back_Break_3_7B.wav"
+  },
+  "bmt_breaks_10": {
+    "c2": "Bad_Break_8A.wav"
+  },
+  "bmt_bad_break": {
+    "a2": "Bad_Break_8A.wav"
+  },
+  "bmt_breaks_11": {
+    "c4": "Beep_Break.wav"
+  },
+  "bmt_beep_break": {
+    "c4": "Beep_Break.wav"
+  },
+  "bmt_breaks_12": {
+    "c3": "Beta_Break.wav"
+  },
+  "bmt_beta_break": {
+    "c3": "Beta_Break.wav"
+  },
+  "bmt_breaks_13": {
+    "c2": "Blaze_Break_11A.wav"
+  },
+  "bmt_blaze_break": {
+    "gb2": "Blaze_Break_11A.wav"
+  },
+  "bmt_breaks_14": {
+    "c4": "Blaze_Break_2.wav"
+  },
+  "bmt_blaze_break_2": {
+    "c4": "Blaze_Break_2.wav"
+  },
+  "bmt_breaks_15": {
+    "c3": "Blue_Break_4A.wav"
+  },
+  "bmt_blue_break": {
+    "f3": "Blue_Break_4A.wav"
+  },
+  "bmt_breaks_16": {
+    "c4": "Bonanza_Break.wav"
+  },
+  "bmt_bonanza_break": {
+    "c4": "Bonanza_Break.wav"
+  },
+  "bmt_breaks_17": {
+    "c3": "Boo_Break_5A.wav"
+  },
+  "bmt_boo_break": {
+    "c3": "Boo_Break_5A.wav"
+  },
+  "bmt_breaks_18": {
+    "c4": "Boo_Worm_Break_9A.wav"
+  },
+  "bmt_boo_worm_break": {
+    "e4": "Boo_Worm_Break_9A.wav"
+  },
+  "bmt_breaks_19": {
+    "c3": "Bouncer_Break_6A.wav"
+  },
+  "bmt_bouncer_break": {
+    "g3": "Bouncer_Break_6A.wav"
+  },
+  "bmt_breaks_20": {
+    "c3": "Box_Break_2_6B.wav"
+  },
+  "bmt_box_break_2": {
+    "bb3": "Box_Break_2_6B.wav"
+  },
+  "bmt_breaks_21": {
+    "c2": "Box_Break_3_2B.wav"
+  },
+  "bmt_box_break_3": {
+    "gb2": "Box_Break_3_2B.wav"
+  },
+  "bmt_breaks_22": {
+    "c3": "Box_Break_4_5A.wav"
+  },
+  "bmt_box_break_4": {
+    "c3": "Box_Break_4_5A.wav"
+  },
+  "bmt_breaks_23": {
+    "c3": "Box_Break_5.wav"
+  },
+  "bmt_box_break_5": {
+    "c3": "Box_Break_5.wav"
+  },
+  "bmt_breaks_24": {
+    "c3": "Box_Break_6A.wav"
+  },
+  "bmt_box_break": {
+    "g3": "Box_Break_6A.wav"
+  },
+  "bmt_breaks_25": {
+    "c3": "Breeze_Break_2A.wav"
+  },
+  "bmt_breeze_break": {
+    "eb3": "Breeze_Break_2A.wav"
+  },
+  "bmt_breaks_26": {
+    "c3": "Bringing_Me_Break_7A.wav"
+  },
+  "bmt_bringing_me_break": {
+    "d3": "Bringing_Me_Break_7A.wav"
+  },
+  "bmt_breaks_27": {
+    "c2": "Bronx_Break.wav"
+  },
+  "bmt_bronx_break": {
+    "c2": "Bronx_Break.wav"
+  },
+  "bmt_breaks_28": {
+    "c2": "Brut_Force_Break.wav"
+  },
+  "bmt_brut_force_break": {
+    "c2": "Brut_Force_Break.wav"
+  },
+  "bmt_breaks_29": {
+    "c2": "Brut_Force_Fuller_Break_6A.wav"
+  },
+  "bmt_brut_force_fuller_break": {
+    "g2": "Brut_Force_Fuller_Break_6A.wav"
+  },
+  "bmt_breaks_30": {
+    "c3": "Bulldozer_Amen.wav"
+  },
+  "bmt_bulldozer_amen": {
+    "c3": "Bulldozer_Amen.wav"
+  },
+  "bmt_breaks_31": {
+    "c3": "Bulldozer_Amen_2_2A.wav"
+  },
+  "bmt_bulldozer_amen_2": {
+    "eb3": "Bulldozer_Amen_2_2A.wav"
+  },
+  "bmt_breaks_32": {
+    "c3": "Calling_Break_10A.wav"
+  },
+  "bmt_calling_break": {
+    "b3": "Calling_Break_10A.wav"
+  },
+  "bmt_breaks_33": {
+    "c2": "Calling_Reverse_Break_7A.wav"
+  },
+  "bmt_calling_reverse_break": {
+    "d2": "Calling_Reverse_Break_7A.wav"
+  },
+  "bmt_breaks_34": {
+    "c3": "Camo_Break_3A.wav"
+  },
+  "bmt_camo_break": {
+    "bb3": "Camo_Break_3A.wav"
+  },
+  "bmt_breaks_35": {
+    "c3": "Careless_Break_4A.wav"
+  },
+  "bmt_careless_break": {
+    "f3": "Careless_Break_4A.wav"
+  },
+  "bmt_breaks_36": {
+    "c3": "Centuries_Break.wav"
+  },
+  "bmt_centuries_break": {
+    "c3": "Centuries_Break.wav"
+  },
+  "bmt_breaks_37": {
+    "c2": "Champion_Break_7A.wav"
+  },
+  "bmt_champion_break": {
+    "d2": "Champion_Break_7A.wav"
+  },
+  "bmt_breaks_38": {
+    "c2": "Change_Break_6A.wav"
+  },
+  "bmt_change_break": {
+    "g2": "Change_Break_6A.wav"
+  },
+  "bmt_breaks_39": {
+    "c3": "Check_Break_11A.wav"
+  },
+  "bmt_check_break": {
+    "gb3": "Check_Break_11A.wav"
+  },
+  "bmt_breaks_40": {
+    "c3": "Chopper_Break_6A.wav"
+  },
+  "bmt_chopper_break": {
+    "g3": "Chopper_Break_6A.wav"
+  },
+  "bmt_breaks_41": {
+    "c3": "Connected_Break_7B.wav"
+  },
+  "bmt_connected_break": {
+    "f3": "Connected_Break_7B.wav"
+  },
+  "bmt_breaks_42": {
+    "c3": "Control_Amen.wav"
+  },
+  "bmt_control_amen": {
+    "c3": "Control_Amen.wav"
+  },
+  "bmt_breaks_43": {
+    "c3": "Control_Amen_2.wav"
+  },
+  "bmt_control_amen_2": {
+    "c3": "Control_Amen_2.wav"
+  },
+  "bmt_breaks_44": {
+    "c3": "Control_Break_2.wav"
+  },
+  "bmt_control_break_2": {
+    "c3": "Control_Break_2.wav"
+  },
+  "bmt_breaks_45": {
+    "c4": "Control_Break_9A.wav"
+  },
+  "bmt_control_break": {
+    "e4": "Control_Break_9A.wav"
+  },
+  "bmt_breaks_46": {
+    "c3": "Control_Kick_Break_2A.wav"
+  },
+  "bmt_control_kick_break": {
+    "eb3": "Control_Kick_Break_2A.wav"
+  },
+  "bmt_breaks_47": {
+    "c3": "Control_Kicks_1A.wav"
+  },
+  "bmt_control_kicks": {
+    "ab3": "Control_Kicks_1A.wav"
+  },
+  "bmt_breaks_48": {
+    "c4": "Control_Stutter_Break_7A.wav"
+  },
+  "bmt_control_stutter_break": {
+    "d4": "Control_Stutter_Break_7A.wav"
+  },
+  "bmt_breaks_49": {
+    "c3": "Control_Vocal_Break_1A.wav"
+  },
+  "bmt_control_vocal_break": {
+    "ab3": "Control_Vocal_Break_1A.wav"
+  },
+  "bmt_breaks_50": {
+    "c3": "Cool_Amen_7A.wav"
+  },
+  "bmt_cool_amen": {
+    "d3": "Cool_Amen_7A.wav"
+  },
+  "bmt_breaks_51": {
+    "c3": "Cool_Break_7A.wav"
+  },
+  "bmt_cool_break": {
+    "d3": "Cool_Break_7A.wav"
+  },
+  "bmt_breaks_52": {
+    "c2": "Cosmik_Break_11A.wav"
+  },
+  "bmt_cosmik_break": {
+    "gb2": "Cosmik_Break_11A.wav"
+  },
+  "bmt_breaks_53": {
+    "c2": "Cumulus_Break_4A.wav"
+  },
+  "bmt_cumulus_break": {
+    "f2": "Cumulus_Break_4A.wav"
+  },
+  "bmt_breaks_54": {
+    "c3": "Darkside_Break_7A.wav"
+  },
+  "bmt_darkside_break": {
+    "d3": "Darkside_Break_7A.wav"
+  },
+  "bmt_breaks_55": {
+    "c2": "Dayz_Break_9A.wav"
+  },
+  "bmt_dayz_break": {
+    "e2": "Dayz_Break_9A.wav"
+  },
+  "bmt_breaks_56": {
+    "c3": "Desire_Break_4A.wav"
+  },
+  "bmt_desire_break": {
+    "f3": "Desire_Break_4A.wav"
+  },
+  "bmt_breaks_57": {
+    "c2": "Detroit_Break_5A.wav"
+  },
+  "bmt_detroit_break": {
+    "c2": "Detroit_Break_5A.wav"
+  },
+  "bmt_breaks_58": {
+    "c3": "Detroit_Percussion_4A.wav"
+  },
+  "bmt_detroit_percussion": {
+    "f3": "Detroit_Percussion_4A.wav"
+  },
+  "bmt_breaks_59": {
+    "c2": "Difference_Break_1_9A.wav"
+  },
+  "bmt_difference_break_1": {
+    "e2": "Difference_Break_1_9A.wav"
+  },
+  "bmt_breaks_60": {
+    "c3": "Difference_Break_2_6A.wav"
+  },
+  "bmt_difference_break_2": {
+    "g3": "Difference_Break_2_6A.wav"
+  },
+  "bmt_breaks_61": {
+    "c3": "Dispatch_Break_2_2A.wav"
+  },
+  "bmt_dispatch_break_2": {
+    "eb3": "Dispatch_Break_2_2A.wav"
+  },
+  "bmt_breaks_62": {
+    "c4": "Dispatch_Break_6B.wav"
+  },
+  "bmt_dispatch_break": {
+    "bb4": "Dispatch_Break_6B.wav"
+  },
+  "bmt_breaks_63": {
+    "c3": "Drumz_Amen.wav"
+  },
+  "bmt_drumz_amen": {
+    "c3": "Drumz_Amen.wav"
+  },
+  "bmt_breaks_64": {
+    "c3": "Drumz_Amen_Compound_11A.wav"
+  },
+  "bmt_drumz_amen_compound": {
+    "gb3": "Drumz_Amen_Compound_11A.wav"
+  },
+  "bmt_breaks_65": {
+    "c2": "Effect_Break_2_12A.wav"
+  },
+  "bmt_effect_break_2": {
+    "db2": "Effect_Break_2_12A.wav"
+  },
+  "bmt_breaks_66": {
+    "c2": "Effect_Break_3_7A.wav"
+  },
+  "bmt_effect_break_3": {
+    "d2": "Effect_Break_3_7A.wav"
+  },
+  "bmt_breaks_67": {
+    "c4": "Effect_Break_7A.wav"
+  },
+  "bmt_effect_break": {
+    "d4": "Effect_Break_7A.wav"
+  },
+  "bmt_breaks_68": {
+    "c4": "Enchanted_Break_5A.wav"
+  },
+  "bmt_enchanted_break": {
+    "c4": "Enchanted_Break_5A.wav"
+  },
+  "bmt_breaks_69": {
+    "c3": "Essential_Break_8A.wav"
+  },
+  "bmt_essential_break": {
+    "a3": "Essential_Break_8A.wav"
+  },
+  "bmt_breaks_70": {
+    "c4": "Fairlight_Break_9A.wav"
+  },
+  "bmt_fairlight_break": {
+    "e4": "Fairlight_Break_9A.wav"
+  },
+  "bmt_breaks_71": {
+    "c4": "Firin_Line_Break_3B.wav"
+  },
+  "bmt_firin_line_break": {
+    "db4": "Firin_Line_Break_3B.wav"
+  },
+  "bmt_breaks_72": {
+    "c3": "First_Contact_Amen.wav"
+  },
+  "bmt_first_contact_amen": {
+    "c3": "First_Contact_Amen.wav"
+  },
+  "bmt_breaks_73": {
+    "c2": "Flutes_Break_12A.wav"
+  },
+  "bmt_flutes_break": {
+    "db2": "Flutes_Break_12A.wav"
+  },
+  "bmt_breaks_74": {
+    "c4": "Fountain_Break_4A.wav"
+  },
+  "bmt_fountain_break": {
+    "f4": "Fountain_Break_4A.wav"
+  },
+  "bmt_breaks_75": {
+    "c3": "Friday_Break_9A.wav"
+  },
+  "bmt_friday_break": {
+    "e3": "Friday_Break_9A.wav"
+  },
+  "bmt_breaks_76": {
+    "c4": "Futureproof_Amen.wav"
+  },
+  "bmt_futureproof_amen": {
+    "c4": "Futureproof_Amen.wav"
+  },
+  "bmt_breaks_77": {
+    "c3": "Games_Amen.wav"
+  },
+  "bmt_games_amen": {
+    "c3": "Games_Amen.wav"
+  },
+  "bmt_breaks_78": {
+    "c2": "Gene_Break_12A.wav"
+  },
+  "bmt_gene_break": {
+    "db2": "Gene_Break_12A.wav"
+  },
+  "bmt_breaks_79": {
+    "c2": "Gene_Break_2.wav"
+  },
+  "bmt_gene_break_2": {
+    "c2": "Gene_Break_2.wav"
+  },
+  "bmt_breaks_80": {
+    "c2": "God_Chord_Break_4A.wav"
+  },
+  "bmt_god_chord_break": {
+    "f2": "God_Chord_Break_4A.wav"
+  },
+  "bmt_breaks_81": {
+    "c3": "Good_Times_Break.wav"
+  },
+  "bmt_good_times_break": {
+    "c3": "Good_Times_Break.wav"
+  },
+  "bmt_breaks_82": {
+    "c3": "Gravitational_Break.wav"
+  },
+  "bmt_gravitational_break": {
+    "c3": "Gravitational_Break.wav"
+  },
+  "bmt_breaks_83": {
+    "c3": "Groove_Therapy_Break_4A.wav"
+  },
+  "bmt_groove_therapy_break": {
+    "f3": "Groove_Therapy_Break_4A.wav"
+  },
+  "bmt_breaks_84": {
+    "c4": "Guess_Break_1A.wav"
+  },
+  "bmt_guess_break": {
+    "ab4": "Guess_Break_1A.wav"
+  },
+  "bmt_breaks_85": {
+    "c3": "Haze_Break_6A.wav"
+  },
+  "bmt_haze_break": {
+    "g3": "Haze_Break_6A.wav"
+  },
+  "bmt_breaks_86": {
+    "c3": "Haze_Hybrid_Break.wav"
+  },
+  "bmt_haze_hybrid_break": {
+    "c3": "Haze_Hybrid_Break.wav"
+  },
+  "bmt_breaks_87": {
+    "c3": "Heaven_Break_5A.wav"
+  },
+  "bmt_heaven_break": {
+    "c3": "Heaven_Break_5A.wav"
+  },
+  "bmt_breaks_88": {
+    "c3": "Heaven_Carl_Break_5A.wav"
+  },
+  "bmt_heaven_carl_break": {
+    "c3": "Heaven_Carl_Break_5A.wav"
+  },
+  "bmt_breaks_89": {
+    "c2": "Heli_Bongos.wav"
+  },
+  "bmt_heli_bongos": {
+    "c2": "Heli_Bongos.wav"
+  },
+  "bmt_breaks_90": {
+    "c2": "Heli_Break_2A.wav"
+  },
+  "bmt_heli_break": {
+    "eb2": "Heli_Break_2A.wav"
+  },
+  "bmt_breaks_91": {
+    "c3": "Horn_Break.wav"
+  },
+  "bmt_horn_break": {
+    "c3": "Horn_Break.wav"
+  },
+  "bmt_breaks_92": {
+    "c3": "Hurt_U_So_Break_1A.wav"
+  },
+  "bmt_hurt_u_so_break": {
+    "ab3": "Hurt_U_So_Break_1A.wav"
+  },
+  "bmt_breaks_93": {
+    "c4": "Imagine_Break_4A.wav"
+  },
+  "bmt_imagine_break": {
+    "f4": "Imagine_Break_4A.wav"
+  },
+  "bmt_breaks_94": {
+    "c3": "Inner_Break_9A.wav"
+  },
+  "bmt_inner_break": {
+    "e3": "Inner_Break_9A.wav"
+  },
+  "bmt_breaks_95": {
+    "c2": "Intro_Amen.wav"
+  },
+  "bmt_intro_amen": {
+    "c2": "Intro_Amen.wav"
+  },
+  "bmt_breaks_96": {
+    "c3": "Jazz_Note_Break_10A.wav"
+  },
+  "bmt_jazz_note_break": {
+    "b3": "Jazz_Note_Break_10A.wav"
+  },
+  "bmt_breaks_97": {
+    "c2": "Jazz_Note_Break_2.wav"
+  },
+  "bmt_jazz_note_break_2": {
+    "c2": "Jazz_Note_Break_2.wav"
+  },
+  "bmt_breaks_98": {
+    "c4": "Jazz_Thing_Break.wav"
+  },
+  "bmt_jazz_thing_break": {
+    "c4": "Jazz_Thing_Break.wav"
+  },
+  "bmt_breaks_99": {
+    "c4": "Jazzy_Break_9A.wav"
+  },
+  "bmt_jazzy_break": {
+    "e4": "Jazzy_Break_9A.wav"
+  },
+  "bmt_breaks_100": {
+    "c2": "Johnny_Amen_11A.wav"
+  },
+  "bmt_johnny_amen": {
+    "gb2": "Johnny_Amen_11A.wav"
+  },
+  "bmt_breaks_101": {
+    "c3": "Killa_Break_4A.wav"
+  },
+  "bmt_killa_break": {
+    "f3": "Killa_Break_4A.wav"
+  },
+  "bmt_breaks_102": {
+    "c3": "Let_Roll_Break.wav"
+  },
+  "bmt_let_roll_break": {
+    "c3": "Let_Roll_Break.wav"
+  },
+  "bmt_breaks_103": {
+    "c3": "Let_There_Break.wav"
+  },
+  "bmt_let_there_break": {
+    "c3": "Let_There_Break.wav"
+  },
+  "bmt_breaks_104": {
+    "c2": "Let_There_Stutter_Break_6A.wav"
+  },
+  "bmt_let_there_stutter_break": {
+    "g2": "Let_There_Stutter_Break_6A.wav"
+  },
+  "bmt_breaks_105": {
+    "c2": "Liberty_Amen.wav"
+  },
+  "bmt_liberty_amen": {
+    "c2": "Liberty_Amen.wav"
+  },
+  "bmt_breaks_106": {
+    "c3": "Lick_Break_1A.wav"
+  },
+  "bmt_lick_break": {
+    "ab3": "Lick_Break_1A.wav"
+  },
+  "bmt_breaks_107": {
+    "c3": "Lights_Break.wav"
+  },
+  "bmt_lights_break": {
+    "c3": "Lights_Break.wav"
+  },
+  "bmt_breaks_108": {
+    "c3": "Limb_Break_9A.wav"
+  },
+  "bmt_limb_break": {
+    "e3": "Limb_Break_9A.wav"
+  },
+  "bmt_breaks_109": {
+    "c3": "Links_Break.wav"
+  },
+  "bmt_links_break": {
+    "c3": "Links_Break.wav"
+  },
+  "bmt_breaks_110": {
+    "c2": "Little_Roller_Amen_7B.wav"
+  },
+  "bmt_little_roller_amen": {
+    "f2": "Little_Roller_Amen_7B.wav"
+  },
+  "bmt_breaks_111": {
+    "c2": "London_Break_8A.wav"
+  },
+  "bmt_london_break": {
+    "a2": "London_Break_8A.wav"
+  },
+  "bmt_breaks_112": {
+    "c3": "Mach_Break_11A.wav"
+  },
+  "bmt_mach_break": {
+    "gb3": "Mach_Break_11A.wav"
+  },
+  "bmt_breaks_113": {
+    "c3": "Machines_Break_11A.wav"
+  },
+  "bmt_machines_break": {
+    "gb3": "Machines_Break_11A.wav"
+  },
+  "bmt_breaks_114": {
+    "c2": "Maintain_Break_7A.wav"
+  },
+  "bmt_maintain_break": {
+    "d2": "Maintain_Break_7A.wav"
+  },
+  "bmt_breaks_115": {
+    "c3": "Marbles_Break_6A.wav"
+  },
+  "bmt_marbles_break": {
+    "g3": "Marbles_Break_6A.wav"
+  },
+  "bmt_breaks_116": {
+    "c3": "Massive_Amen_2A.wav"
+  },
+  "bmt_massive_amen": {
+    "eb3": "Massive_Amen_2A.wav"
+  },
+  "bmt_breaks_117": {
+    "c3": "Massive_Break.wav"
+  },
+  "bmt_massive_break": {
+    "c3": "Massive_Break.wav"
+  },
+  "bmt_breaks_118": {
+    "c2": "Maximum_Booty_Break.wav"
+  },
+  "bmt_maximum_booty_break": {
+    "c2": "Maximum_Booty_Break.wav"
+  },
+  "bmt_breaks_119": {
+    "c3": "Metropolis_Break_7A.wav"
+  },
+  "bmt_metropolis_break": {
+    "d3": "Metropolis_Break_7A.wav"
+  },
+  "bmt_breaks_120": {
+    "c4": "Moths_Break_4A.wav"
+  },
+  "bmt_moths_break": {
+    "f4": "Moths_Break_4A.wav"
+  },
+  "bmt_breaks_121": {
+    "c3": "Mutant_Break_7B.wav"
+  },
+  "bmt_mutant_break": {
+    "f3": "Mutant_Break_7B.wav"
+  },
+  "bmt_breaks_122": {
+    "c3": "My_Sound_Break_1_2A.wav"
+  },
+  "bmt_my_sound_break_1": {
+    "eb3": "My_Sound_Break_1_2A.wav"
+  },
+  "bmt_breaks_123": {
+    "c3": "My_Sound_Break_2_8A.wav"
+  },
+  "bmt_my_sound_break_2": {
+    "a3": "My_Sound_Break_2_8A.wav"
+  },
+  "bmt_breaks_124": {
+    "c4": "My_Sound_Break_3_9A.wav"
+  },
+  "bmt_my_sound_break_3": {
+    "e4": "My_Sound_Break_3_9A.wav"
+  },
+  "bmt_breaks_125": {
+    "c3": "Mystical_Break.wav"
+  },
+  "bmt_mystical_break": {
+    "c3": "Mystical_Break.wav"
+  },
+  "bmt_breaks_126": {
+    "c3": "Mystique_Break_7A.wav"
+  },
+  "bmt_mystique_break": {
+    "d3": "Mystique_Break_7A.wav"
+  },
+  "bmt_breaks_127": {
+    "c3": "Night_Break_7A.wav"
+  },
+  "bmt_night_break": {
+    "d3": "Night_Break_7A.wav"
+  },
+  "bmt_breaks_128": {
+    "c3": "Night_Compound_Break_7A.wav"
+  },
+  "bmt_night_compound_break": {
+    "d3": "Night_Compound_Break_7A.wav"
+  },
+  "bmt_breaks_129": {
+    "c3": "Oh_Break_1A.wav"
+  },
+  "bmt_oh_break": {
+    "ab3": "Oh_Break_1A.wav"
+  },
+  "bmt_breaks_130": {
+    "c2": "Overcast_Break_4A.wav"
+  },
+  "bmt_overcast_break": {
+    "f2": "Overcast_Break_4A.wav"
+  },
+  "bmt_breaks_131": {
+    "c3": "Parallel_World_Break_12A.wav"
+  },
+  "bmt_parallel_world_break": {
+    "db3": "Parallel_World_Break_12A.wav"
+  },
+  "bmt_breaks_132": {
+    "c3": "Peace_Sign_Break_2A.wav"
+  },
+  "bmt_peace_sign_break": {
+    "eb3": "Peace_Sign_Break_2A.wav"
+  },
+  "bmt_breaks_133": {
+    "c4": "Pesh_Break_7A.wav"
+  },
+  "bmt_pesh_break": {
+    "d4": "Pesh_Break_7A.wav"
+  },
+  "bmt_breaks_134": {
+    "c3": "Physical_Break_2.wav"
+  },
+  "bmt_physical_break_2": {
+    "c3": "Physical_Break_2.wav"
+  },
+  "bmt_breaks_135": {
+    "c2": "Physical_Break_4A.wav"
+  },
+  "bmt_physical_break": {
+    "f2": "Physical_Break_4A.wav"
+  },
+  "bmt_breaks_136": {
+    "c2": "Pin_Up_Break.wav"
+  },
+  "bmt_pin_up_break": {
+    "c2": "Pin_Up_Break.wav"
+  },
+  "bmt_breaks_137": {
+    "c2": "Piper_Break_4A.wav"
+  },
+  "bmt_piper_break": {
+    "f2": "Piper_Break_4A.wav"
+  },
+  "bmt_breaks_138": {
+    "c3": "Place_Break_5A.wav"
+  },
+  "bmt_place_break": {
+    "c3": "Place_Break_5A.wav"
+  },
+  "bmt_breaks_139": {
+    "c4": "Playboy_Break_6B.wav"
+  },
+  "bmt_playboy_break": {
+    "bb4": "Playboy_Break_6B.wav"
+  },
+  "bmt_breaks_140": {
+    "c3": "Possible_Worlds_Break_5A.wav"
+  },
+  "bmt_possible_worlds_break": {
+    "c3": "Possible_Worlds_Break_5A.wav"
+  },
+  "bmt_breaks_141": {
+    "c3": "Pressin_Break_8A.wav"
+  },
+  "bmt_pressin_break": {
+    "a3": "Pressin_Break_8A.wav"
+  },
+  "bmt_breaks_142": {
+    "c4": "Prog_Amen_8A.wav"
+  },
+  "bmt_prog_amen": {
+    "a4": "Prog_Amen_8A.wav"
+  },
+  "bmt_breaks_143": {
+    "c4": "Prog_Break.wav"
+  },
+  "bmt_prog_break": {
+    "c4": "Prog_Break.wav"
+  },
+  "bmt_breaks_144": {
+    "c3": "Promenade_Break.wav"
+  },
+  "bmt_promenade_break": {
+    "c3": "Promenade_Break.wav"
+  },
+  "bmt_breaks_145": {
+    "c2": "Quest_Break.wav"
+  },
+  "bmt_quest_break": {
+    "c2": "Quest_Break.wav"
+  },
+  "bmt_breaks_146": {
+    "c2": "Rainfall_Lite_Break.wav"
+  },
+  "bmt_rainfall_lite_break": {
+    "c2": "Rainfall_Lite_Break.wav"
+  },
+  "bmt_breaks_147": {
+    "c2": "Reach_Break_4A.wav"
+  },
+  "bmt_reach_break": {
+    "f2": "Reach_Break_4A.wav"
+  },
+  "bmt_breaks_148": {
+    "c2": "Reckon_Break_9A.wav"
+  },
+  "bmt_reckon_break": {
+    "e2": "Reckon_Break_9A.wav"
+  },
+  "bmt_breaks_149": {
+    "c3": "Reel_Funk_Amen_2A.wav"
+  },
+  "bmt_reel_funk_amen": {
+    "eb3": "Reel_Funk_Amen_2A.wav"
+  },
+  "bmt_breaks_150": {
+    "c3": "Reel_Funk_Roller_12A.wav"
+  },
+  "bmt_reel_funk_roller": {
+    "db3": "Reel_Funk_Roller_12A.wav"
+  },
+  "bmt_breaks_151": {
+    "c3": "Reflections_Break_7A.wav"
+  },
+  "bmt_reflections_break": {
+    "d3": "Reflections_Break_7A.wav"
+  },
+  "bmt_breaks_152": {
+    "c4": "Repetoire_Break_6A.wav"
+  },
+  "bmt_repetoire_break": {
+    "g4": "Repetoire_Break_6A.wav"
+  },
+  "bmt_breaks_153": {
+    "c3": "Resolution_Break_5A.wav"
+  },
+  "bmt_resolution_break": {
+    "c3": "Resolution_Break_5A.wav"
+  },
+  "bmt_breaks_154": {
+    "c2": "Revelation_Amen_2A.wav"
+  },
+  "bmt_revelation_amen": {
+    "eb2": "Revelation_Amen_2A.wav"
+  },
+  "bmt_breaks_155": {
+    "c3": "Ricochet_Break_9A.wav"
+  },
+  "bmt_ricochet_break": {
+    "e3": "Ricochet_Break_9A.wav"
+  },
+  "bmt_breaks_156": {
+    "c3": "Right_Break_6A.wav"
+  },
+  "bmt_right_break": {
+    "g3": "Right_Break_6A.wav"
+  },
+  "bmt_breaks_157": {
+    "c4": "Rise_Amen_2A.wav"
+  },
+  "bmt_rise_amen": {
+    "eb4": "Rise_Amen_2A.wav"
+  },
+  "bmt_breaks_158": {
+    "c2": "Rock_Amen_12A.wav"
+  },
+  "bmt_rock_amen": {
+    "db2": "Rock_Amen_12A.wav"
+  },
+  "bmt_breaks_159": {
+    "c3": "Rock_Amen_2_12A.wav"
+  },
+  "bmt_rock_amen_2": {
+    "db3": "Rock_Amen_2_12A.wav"
+  },
+  "bmt_breaks_160": {
+    "c3": "Roll_On_Roll_2_10A.wav"
+  },
+  "bmt_roll_on_roll_2": {
+    "b3": "Roll_On_Roll_2_10A.wav"
+  },
+  "bmt_breaks_161": {
+    "c3": "Roll_On_Roll_3.wav"
+  },
+  "bmt_roll_on_roll_3": {
+    "c3": "Roll_On_Roll_3.wav"
+  },
+  "bmt_breaks_162": {
+    "c2": "Roll_On_Roll_9A.wav"
+  },
+  "bmt_roll_on_roll": {
+    "e2": "Roll_On_Roll_9A.wav"
+  },
+  "bmt_breaks_163": {
+    "c2": "Rumble_Break_10A.wav"
+  },
+  "bmt_rumble_break": {
+    "b2": "Rumble_Break_10A.wav"
+  },
+  "bmt_breaks_164": {
+    "c3": "Searchin_Break_2_9A.wav"
+  },
+  "bmt_searchin_break_2": {
+    "e3": "Searchin_Break_2_9A.wav"
+  },
+  "bmt_breaks_165": {
+    "c3": "Searchin_Break_3_9A.wav"
+  },
+  "bmt_searchin_break_3": {
+    "e3": "Searchin_Break_3_9A.wav"
+  },
+  "bmt_breaks_166": {
+    "c4": "Searchin_Break_5A.wav"
+  },
+  "bmt_searchin_break": {
+    "c4": "Searchin_Break_5A.wav"
+  },
+  "bmt_breaks_167": {
+    "c4": "Seatown_Break_6B.wav"
+  },
+  "bmt_seatown_break": {
+    "bb4": "Seatown_Break_6B.wav"
+  },
+  "bmt_breaks_168": {
+    "c2": "Secrets_Amen_7A.wav"
+  },
+  "bmt_secrets_amen": {
+    "d2": "Secrets_Amen_7A.wav"
+  },
+  "bmt_breaks_169": {
+    "c2": "Session_Break_8A.wav"
+  },
+  "bmt_session_break": {
+    "a2": "Session_Break_8A.wav"
+  },
+  "bmt_breaks_170": {
+    "c3": "Shock_Break.wav"
+  },
+  "bmt_shock_break": {
+    "c3": "Shock_Break.wav"
+  },
+  "bmt_breaks_171": {
+    "c4": "Shock_Filter_Break.wav"
+  },
+  "bmt_shock_filter_break": {
+    "c4": "Shock_Filter_Break.wav"
+  },
+  "bmt_breaks_172": {
+    "c4": "Shoes_Break_4A.wav"
+  },
+  "bmt_shoes_break": {
+    "f4": "Shoes_Break_4A.wav"
+  },
+  "bmt_breaks_173": {
+    "c3": "Sight_Break_6A.wav"
+  },
+  "bmt_sight_break": {
+    "g3": "Sight_Break_6A.wav"
+  },
+  "bmt_breaks_174": {
+    "c2": "Sky_Break_9A.wav"
+  },
+  "bmt_sky_break": {
+    "e2": "Sky_Break_9A.wav"
+  },
+  "bmt_breaks_175": {
+    "c2": "Solar_Break_11A.wav"
+  },
+  "bmt_solar_break": {
+    "gb2": "Solar_Break_11A.wav"
+  },
+  "bmt_breaks_176": {
+    "c2": "Sonic_Amen_7A.wav"
+  },
+  "bmt_sonic_amen": {
+    "d2": "Sonic_Amen_7A.wav"
+  },
+  "bmt_breaks_177": {
+    "c3": "Sonic_Break_2_4A.wav"
+  },
+  "bmt_sonic_break_2": {
+    "f3": "Sonic_Break_2_4A.wav"
+  },
+  "bmt_breaks_178": {
+    "c3": "Sonic_Break_4A.wav"
+  },
+  "bmt_sonic_break": {
+    "f3": "Sonic_Break_4A.wav"
+  },
+  "bmt_breaks_179": {
+    "c4": "Sound_Control_Break.wav"
+  },
+  "bmt_sound_control_break": {
+    "c4": "Sound_Control_Break.wav"
+  },
+  "bmt_breaks_180": {
+    "c4": "Sound_Murderer_Amen_9A.wav"
+  },
+  "bmt_sound_murderer_amen": {
+    "e4": "Sound_Murderer_Amen_9A.wav"
+  },
+  "bmt_breaks_181": {
+    "c3": "Sovreign_Break_7B.wav"
+  },
+  "bmt_sovreign_break": {
+    "f3": "Sovreign_Break_7B.wav"
+  },
+  "bmt_breaks_182": {
+    "c2": "Space_Age_Break_5A.wav"
+  },
+  "bmt_space_age_break": {
+    "c2": "Space_Age_Break_5A.wav"
+  },
+  "bmt_breaks_183": {
+    "c3": "Stepper_Amen.wav"
+  },
+  "bmt_stepper_amen": {
+    "c3": "Stepper_Amen.wav"
+  },
+  "bmt_breaks_184": {
+    "c3": "Stepper_Break.wav"
+  },
+  "bmt_stepper_break": {
+    "c3": "Stepper_Break.wav"
+  },
+  "bmt_breaks_185": {
+    "c2": "Still_Break_7A.wav"
+  },
+  "bmt_still_break": {
+    "d2": "Still_Break_7A.wav"
+  },
+  "bmt_breaks_186": {
+    "c3": "Stone_Break.wav"
+  },
+  "bmt_stone_break": {
+    "c3": "Stone_Break.wav"
+  },
+  "bmt_breaks_187": {
+    "c3": "Sunset_Break_6A.wav"
+  },
+  "bmt_sunset_break": {
+    "g3": "Sunset_Break_6A.wav"
+  },
+  "bmt_breaks_188": {
+    "c2": "System_Break.wav"
+  },
+  "bmt_system_break": {
+    "c2": "System_Break.wav"
+  },
+  "bmt_breaks_189": {
+    "c3": "Take_You_Break.wav"
+  },
+  "bmt_take_you_break": {
+    "c3": "Take_You_Break.wav"
+  },
+  "bmt_breaks_190": {
+    "c3": "Tear_Apache_4A.wav"
+  },
+  "bmt_tear_apache": {
+    "f3": "Tear_Apache_4A.wav"
+  },
+  "bmt_breaks_191": {
+    "c3": "Tear_Break_2.wav"
+  },
+  "bmt_tear_break_2": {
+    "c3": "Tear_Break_2.wav"
+  },
+  "bmt_breaks_192": {
+    "c3": "Tear_Break_2A.wav"
+  },
+  "bmt_tear_break": {
+    "eb3": "Tear_Break_2A.wav"
+  },
+  "bmt_breaks_193": {
+    "c2": "Technology_Break_9A.wav"
+  },
+  "bmt_technology_break": {
+    "e2": "Technology_Break_9A.wav"
+  },
+  "bmt_breaks_194": {
+    "c3": "Ten_Break_2_7A.wav"
+  },
+  "bmt_ten_break_2": {
+    "d3": "Ten_Break_2_7A.wav"
+  },
+  "bmt_breaks_195": {
+    "c2": "Ten_Break_7A.wav"
+  },
+  "bmt_ten_break": {
+    "d2": "Ten_Break_7A.wav"
+  },
+  "bmt_breaks_196": {
+    "c3": "Terrain_Break_2_2A.wav"
+  },
+  "bmt_terrain_break_2": {
+    "eb3": "Terrain_Break_2_2A.wav"
+  },
+  "bmt_breaks_197": {
+    "c3": "Terrain_Break_4A.wav"
+  },
+  "bmt_terrain_break": {
+    "f3": "Terrain_Break_4A.wav"
+  },
+  "bmt_breaks_198": {
+    "c3": "Terrorist_Amen_11A.wav"
+  },
+  "bmt_terrorist_amen": {
+    "gb3": "Terrorist_Amen_11A.wav"
+  },
+  "bmt_breaks_199": {
+    "c2": "Travelling_Break_11A.wav"
+  },
+  "bmt_travelling_break": {
+    "gb2": "Travelling_Break_11A.wav"
+  },
+  "bmt_breaks_200": {
+    "c3": "Trippin_Break_2_7A.wav"
+  },
+  "bmt_trippin_break_2": {
+    "d3": "Trippin_Break_2_7A.wav"
+  },
+  "bmt_breaks_201": {
+    "c3": "Trippin_Break_9A.wav"
+  },
+  "bmt_trippin_break": {
+    "e3": "Trippin_Break_9A.wav"
+  },
+  "bmt_breaks_202": {
+    "c2": "Tronik_Break_4A.wav"
+  },
+  "bmt_tronik_break": {
+    "f2": "Tronik_Break_4A.wav"
+  },
+  "bmt_breaks_203": {
+    "c3": "True_Break.wav"
+  },
+  "bmt_true_break": {
+    "c3": "True_Break.wav"
+  },
+  "bmt_breaks_204": {
+    "c3": "Vapour_Break.wav"
+  },
+  "bmt_vapour_break": {
+    "c3": "Vapour_Break.wav"
+  },
+  "bmt_breaks_205": {
+    "c3": "Voyage_Break_5A.wav"
+  },
+  "bmt_voyage_break": {
+    "c3": "Voyage_Break_5A.wav"
+  },
+  "bmt_breaks_206": {
+    "c2": "Walk_Break_2_12A.wav"
+  },
+  "bmt_walk_break_2": {
+    "db2": "Walk_Break_2_12A.wav"
+  },
+  "bmt_breaks_207": {
+    "c2": "Walk_Break_3_9A.wav"
+  },
+  "bmt_walk_break_3": {
+    "e2": "Walk_Break_3_9A.wav"
+  },
+  "bmt_breaks_208": {
+    "c3": "Walk_Break_8A.wav"
+  },
+  "bmt_walk_break": {
+    "a3": "Walk_Break_8A.wav"
+  },
+  "bmt_breaks_209": {
+    "c3": "War_Break_5A.wav"
+  },
+  "bmt_war_break": {
+    "c3": "War_Break_5A.wav"
+  },
+  "bmt_breaks_210": {
+    "c3": "Warhead_Break_2_9A.wav"
+  },
+  "bmt_warhead_break_2": {
+    "e3": "Warhead_Break_2_9A.wav"
+  },
+  "bmt_breaks_211": {
+    "c3": "Warhead_Break_2A.wav"
+  },
+  "bmt_warhead_break": {
+    "eb3": "Warhead_Break_2A.wav"
+  },
+  "bmt_breaks_212": {
+    "c3": "Warned_Break_4A.wav"
+  },
+  "bmt_warned_break": {
+    "f3": "Warned_Break_4A.wav"
+  },
+  "bmt_breaks_213": {
+    "c3": "Warning_Compound_11A.wav"
+  },
+  "bmt_warning_compound": {
+    "gb3": "Warning_Compound_11A.wav"
+  },
+  "bmt_breaks_214": {
+    "c2": "Warning_Copter_11A.wav"
+  },
+  "bmt_warning_copter": {
+    "gb2": "Warning_Copter_11A.wav"
+  },
+  "bmt_breaks_215": {
+    "c3": "WarPeace_Break.wav"
+  },
+  "bmt_warpeace_break": {
+    "c3": "WarPeace_Break.wav"
+  },
+  "bmt_breaks_216": {
+    "c3": "Way_Break.wav"
+  },
+  "bmt_way_break": {
+    "c3": "Way_Break.wav"
+  },
+  "bmt_breaks_217": {
+    "c3": "Wheel_Up_2_Bad.wav"
+  },
+  "bmt_wheel_up_2_bad": {
+    "c3": "Wheel_Up_2_Bad.wav"
+  },
+  "bmt_breaks_218": {
+    "c3": "Wheel_Up_Amen_6A.wav"
+  },
+  "bmt_wheel_up_amen": {
+    "g3": "Wheel_Up_Amen_6A.wav"
+  },
+  "bmt_breaks_219": {
+    "c2": "Worries_Break_1A.wav"
+  },
+  "bmt_worries_break": {
+    "ab2": "Worries_Break_1A.wav"
+  },
+  "bmt_breaks_220": {
+    "c3": "Your_Amen_2_9A.wav"
+  },
+  "bmt_your_amen_2": {
+    "e3": "Your_Amen_2_9A.wav"
+  },
+  "bmt_breaks_221": {
+    "c3": "Your_Amen_4A.wav"
+  },
+  "bmt_your_amen": {
+    "f3": "Your_Amen_4A.wav"
+  },
+  "bmt_breaks_222": {
+    "c3": "Your_Break_8B.wav"
+  },
+  "bmt_your_break": {
+    "c3": "Your_Break_8B.wav"
+  },
+  "bmt_breaks_223": {
+    "c3": "Zone_Break.wav"
+  },
+  "bmt_zone_break": {
+    "c3": "Zone_Break.wav"
+  },
+  "bmt_breaks_224": {
+    "c2": "Zone_Break_2_5A.wav"
+  },
+  "bmt_zone_break_2": {
+    "c2": "Zone_Break_2_5A.wav"
+  }
 }

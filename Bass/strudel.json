@@ -1,6 +1,345 @@
 {
-  "_base":"https://raw.githubusercontent.com/sonidosingapura/blu-mar-ten/main/",
-  "bass": [
-    "19_Bass_6A.wav","Arabian_Sub_6A.wav","Aura_Bass_9B.wav","Beta_Bass_11A.wav","Blue_Bass_8A.wav","Boo_Bass_1A.wav","Bouncer_Bass_2B.wav","Calm_Bass_8A.wav","Chain_Bass_2_9A.wav","Chain_Bass_4A.wav","Champion_Sub_10A.wav","Difference_Bass_1A.wav","Dred_Bass_4A.wav","Drumz_Reese.wav","Drumz_Sub_3B.wav","Dubplate_Bass_5A.wav","Gang_Sub.wav","Ganga_Bass_1A.wav","Ghost_Sub_9A.wav","Haze_Bass_6B.wav","Hearing_Bass_4A.wav","Hurt_U_So_Bass_10A.wav","Illicit_Bass_9B.wav","Jazzy_Bass_10A.wav","Let_Roll_Bass_2B.wav","Logik_Bass_9A.wav","London_Smooth_Sub.wav","London_Sub_1A.wav","Love_Bass_11B.wav","Meltdown_Bass_9A.wav","Metal_Bass_6A.wav","Moomin_808_5A.wav","Night_Bass_1A.wav","Null_Bass_10B.wav","Physical_Bass_8A.wav","Pressin_Sub_4A.wav","Rock_Bass_6B.wav","Secrets_Bass_4A.wav","Shoes_Bass_5A.wav","Sweet_Bass_6A.wav","Swift_Bass_12B.wav","Take_You_Bass_1A.wav","Technology_Bass_7A.wav","Terrorist_Reese_3A.wav","Times_Bass_7A.wav","Town_808_Bass_1A.wav","Town_Bass_4A.wav","Tronik_Bass_5B.wav","Type_Bass_4B.wav","Walk_Bass_5A.wav","What_Ya_Gonna_Sub_1A.wav","Wheel_Up_Sub.wav","Who_Run_Bass_8A.wav","Will_They_Bass.wav","Will_They_Hi_Bass_5B.wav","Worries_Sub_5A.wav","Your_Bass_9A.wav"
-  ]
+  "_base": "https://raw.githubusercontent.com/sonidosingapura/blu-mar-ten/main/Bass/",
+  "bmt_bass_1": {
+    "g1": "19_Bass_6A.wav"
+  },
+  "bmt_19_bass": {
+    "g1": "19_Bass_6A.wav"
+  },
+  "bmt_bass_2": {
+    "g1": "Arabian_Sub_6A.wav"
+  },
+  "bmt_arabian_sub": {
+    "g1": "Arabian_Sub_6A.wav"
+  },
+  "bmt_bass_3": {
+    "g2": "Aura_Bass_9B.wav"
+  },
+  "bmt_aura_bass": {
+    "g2": "Aura_Bass_9B.wav"
+  },
+  "bmt_bass_4": {
+    "gb3": "Beta_Bass_11A.wav"
+  },
+  "bmt_beta_bass": {
+    "gb3": "Beta_Bass_11A.wav"
+  },
+  "bmt_bass_5": {
+    "a2": "Blue_Bass_8A.wav"
+  },
+  "bmt_blue_bass": {
+    "a2": "Blue_Bass_8A.wav"
+  },
+  "bmt_bass_6": {
+    "ab2": "Boo_Bass_1A.wav"
+  },
+  "bmt_boo_bass": {
+    "ab2": "Boo_Bass_1A.wav"
+  },
+  "bmt_bass_7": {
+    "gb1": "Bouncer_Bass_2B.wav"
+  },
+  "bmt_bouncer_bass": {
+    "gb1": "Bouncer_Bass_2B.wav"
+  },
+  "bmt_bass_8": {
+    "a2": "Calm_Bass_8A.wav"
+  },
+  "bmt_calm_bass": {
+    "a2": "Calm_Bass_8A.wav"
+  },
+  "bmt_bass_9": {
+    "e1": "Chain_Bass_2_9A.wav"
+  },
+  "bmt_chain_bass_2": {
+    "e1": "Chain_Bass_2_9A.wav"
+  },
+  "bmt_bass_10": {
+    "f1": "Chain_Bass_4A.wav"
+  },
+  "bmt_chain_bass": {
+    "f1": "Chain_Bass_4A.wav"
+  },
+  "bmt_bass_11": {
+    "b1": "Champion_Sub_10A.wav"
+  },
+  "bmt_champion_sub": {
+    "b1": "Champion_Sub_10A.wav"
+  },
+  "bmt_bass_12": {
+    "ab1": "Difference_Bass_1A.wav"
+  },
+  "bmt_difference_bass": {
+    "ab1": "Difference_Bass_1A.wav"
+  },
+  "bmt_bass_13": {
+    "f2": "Dred_Bass_4A.wav"
+  },
+  "bmt_dred_bass": {
+    "f2": "Dred_Bass_4A.wav"
+  },
+  "bmt_bass_14": {
+    "c2": "Drumz_Reese.wav"
+  },
+  "bmt_drumz_reese": {
+    "c2": "Drumz_Reese.wav"
+  },
+  "bmt_bass_15": {
+    "db3": "Drumz_Sub_3B.wav"
+  },
+  "bmt_drumz_sub": {
+    "db3": "Drumz_Sub_3B.wav"
+  },
+  "bmt_bass_16": {
+    "c3": "Dubplate_Bass_5A.wav"
+  },
+  "bmt_dubplate_bass": {
+    "c3": "Dubplate_Bass_5A.wav"
+  },
+  "bmt_bass_17": {
+    "c1": "Gang_Sub.wav"
+  },
+  "bmt_gang_sub": {
+    "c1": "Gang_Sub.wav"
+  },
+  "bmt_bass_18": {
+    "ab3": "Ganga_Bass_1A.wav"
+  },
+  "bmt_ganga_bass": {
+    "ab3": "Ganga_Bass_1A.wav"
+  },
+  "bmt_bass_19": {
+    "e1": "Ghost_Sub_9A.wav"
+  },
+  "bmt_ghost_sub": {
+    "e1": "Ghost_Sub_9A.wav"
+  },
+  "bmt_bass_20": {
+    "bb2": "Haze_Bass_6B.wav"
+  },
+  "bmt_haze_bass": {
+    "bb2": "Haze_Bass_6B.wav"
+  },
+  "bmt_bass_21": {
+    "f2": "Hearing_Bass_4A.wav"
+  },
+  "bmt_hearing_bass": {
+    "f2": "Hearing_Bass_4A.wav"
+  },
+  "bmt_bass_22": {
+    "b1": "Hurt_U_So_Bass_10A.wav"
+  },
+  "bmt_hurt_u_so_bass": {
+    "b1": "Hurt_U_So_Bass_10A.wav"
+  },
+  "bmt_bass_23": {
+    "g1": "Illicit_Bass_9B.wav"
+  },
+  "bmt_illicit_bass": {
+    "g1": "Illicit_Bass_9B.wav"
+  },
+  "bmt_bass_24": {
+    "b1": "Jazzy_Bass_10A.wav"
+  },
+  "bmt_jazzy_bass": {
+    "b1": "Jazzy_Bass_10A.wav"
+  },
+  "bmt_bass_25": {
+    "gb1": "Let_Roll_Bass_2B.wav"
+  },
+  "bmt_let_roll_bass": {
+    "gb1": "Let_Roll_Bass_2B.wav"
+  },
+  "bmt_bass_26": {
+    "e1": "Logik_Bass_9A.wav"
+  },
+  "bmt_logik_bass": {
+    "e1": "Logik_Bass_9A.wav"
+  },
+  "bmt_bass_27": {
+    "c1": "London_Smooth_Sub.wav"
+  },
+  "bmt_london_smooth_sub": {
+    "c1": "London_Smooth_Sub.wav"
+  },
+  "bmt_bass_28": {
+    "ab1": "London_Sub_1A.wav"
+  },
+  "bmt_london_sub": {
+    "ab1": "London_Sub_1A.wav"
+  },
+  "bmt_bass_29": {
+    "a2": "Love_Bass_11B.wav"
+  },
+  "bmt_love_bass": {
+    "a2": "Love_Bass_11B.wav"
+  },
+  "bmt_bass_30": {
+    "e2": "Meltdown_Bass_9A.wav"
+  },
+  "bmt_meltdown_bass": {
+    "e2": "Meltdown_Bass_9A.wav"
+  },
+  "bmt_bass_31": {
+    "g3": "Metal_Bass_6A.wav"
+  },
+  "bmt_metal_bass": {
+    "g3": "Metal_Bass_6A.wav"
+  },
+  "bmt_bass_32": {
+    "c1": "Moomin_808_5A.wav"
+  },
+  "bmt_moomin_808": {
+    "c1": "Moomin_808_5A.wav"
+  },
+  "bmt_bass_33": {
+    "ab3": "Night_Bass_1A.wav"
+  },
+  "bmt_night_bass": {
+    "ab3": "Night_Bass_1A.wav"
+  },
+  "bmt_bass_34": {
+    "d1": "Null_Bass_10B.wav"
+  },
+  "bmt_null_bass": {
+    "d1": "Null_Bass_10B.wav"
+  },
+  "bmt_bass_35": {
+    "a1": "Physical_Bass_8A.wav"
+  },
+  "bmt_physical_bass": {
+    "a1": "Physical_Bass_8A.wav"
+  },
+  "bmt_bass_36": {
+    "f3": "Pressin_Sub_4A.wav"
+  },
+  "bmt_pressin_sub": {
+    "f3": "Pressin_Sub_4A.wav"
+  },
+  "bmt_bass_37": {
+    "bb2": "Rock_Bass_6B.wav"
+  },
+  "bmt_rock_bass": {
+    "bb2": "Rock_Bass_6B.wav"
+  },
+  "bmt_bass_38": {
+    "f1": "Secrets_Bass_4A.wav"
+  },
+  "bmt_secrets_bass": {
+    "f1": "Secrets_Bass_4A.wav"
+  },
+  "bmt_bass_39": {
+    "c1": "Shoes_Bass_5A.wav"
+  },
+  "bmt_shoes_bass": {
+    "c1": "Shoes_Bass_5A.wav"
+  },
+  "bmt_bass_40": {
+    "g2": "Sweet_Bass_6A.wav"
+  },
+  "bmt_sweet_bass": {
+    "g2": "Sweet_Bass_6A.wav"
+  },
+  "bmt_bass_41": {
+    "e1": "Swift_Bass_12B.wav"
+  },
+  "bmt_swift_bass": {
+    "e1": "Swift_Bass_12B.wav"
+  },
+  "bmt_bass_42": {
+    "ab2": "Take_You_Bass_1A.wav"
+  },
+  "bmt_take_you_bass": {
+    "ab2": "Take_You_Bass_1A.wav"
+  },
+  "bmt_bass_43": {
+    "d3": "Technology_Bass_7A.wav"
+  },
+  "bmt_technology_bass": {
+    "d3": "Technology_Bass_7A.wav"
+  },
+  "bmt_bass_44": {
+    "bb3": "Terrorist_Reese_3A.wav"
+  },
+  "bmt_terrorist_reese": {
+    "bb3": "Terrorist_Reese_3A.wav"
+  },
+  "bmt_bass_45": {
+    "d1": "Times_Bass_7A.wav"
+  },
+  "bmt_times_bass": {
+    "d1": "Times_Bass_7A.wav"
+  },
+  "bmt_bass_46": {
+    "ab1": "Town_808_Bass_1A.wav"
+  },
+  "bmt_town_808_bass": {
+    "ab1": "Town_808_Bass_1A.wav"
+  },
+  "bmt_bass_47": {
+    "f3": "Town_Bass_4A.wav"
+  },
+  "bmt_town_bass": {
+    "f3": "Town_Bass_4A.wav"
+  },
+  "bmt_bass_48": {
+    "eb2": "Tronik_Bass_5B.wav"
+  },
+  "bmt_tronik_bass": {
+    "eb2": "Tronik_Bass_5B.wav"
+  },
+  "bmt_bass_49": {
+    "ab1": "Type_Bass_4B.wav"
+  },
+  "bmt_type_bass": {
+    "ab1": "Type_Bass_4B.wav"
+  },
+  "bmt_bass_50": {
+    "c1": "Walk_Bass_5A.wav"
+  },
+  "bmt_walk_bass": {
+    "c1": "Walk_Bass_5A.wav"
+  },
+  "bmt_bass_51": {
+    "ab2": "What_Ya_Gonna_Sub_1A.wav"
+  },
+  "bmt_what_ya_gonna_sub": {
+    "ab2": "What_Ya_Gonna_Sub_1A.wav"
+  },
+  "bmt_bass_52": {
+    "c2": "Wheel_Up_Sub.wav"
+  },
+  "bmt_wheel_up_sub": {
+    "c2": "Wheel_Up_Sub.wav"
+  },
+  "bmt_bass_53": {
+    "a1": "Who_Run_Bass_8A.wav"
+  },
+  "bmt_who_run_bass": {
+    "a1": "Who_Run_Bass_8A.wav"
+  },
+  "bmt_bass_54": {
+    "c1": "Will_They_Bass.wav"
+  },
+  "bmt_will_they_bass": {
+    "c1": "Will_They_Bass.wav"
+  },
+  "bmt_bass_55": {
+    "eb2": "Will_They_Hi_Bass_5B.wav"
+  },
+  "bmt_will_they_hi_bass": {
+    "eb2": "Will_They_Hi_Bass_5B.wav"
+  },
+  "bmt_bass_56": {
+    "c1": "Worries_Sub_5A.wav"
+  },
+  "bmt_worries_sub": {
+    "c1": "Worries_Sub_5A.wav"
+  },
+  "bmt_bass_57": {
+    "e1": "Your_Bass_9A.wav"
+  },
+  "bmt_your_bass": {
+    "e1": "Your_Bass_9A.wav"
+  }
 }

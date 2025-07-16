@@ -1,0 +1,762 @@
+{
+  "1": {
+    "name": "19_Pad",
+    "filename": "19_Pad_6A.wav",
+    "length": 4.75,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 4
+  },
+  "2": {
+    "name": "31_Secs_Pad",
+    "filename": "31_Secs_Pad_10A.wav",
+    "length": 1.36,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 2
+  },
+  "3": {
+    "name": "360_Pad",
+    "filename": "360_Pad_6B.wav",
+    "length": 10.38,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6B",
+    "key": "Bb",
+    "bars": 4
+  },
+  "4": {
+    "name": "Apollo",
+    "filename": "Apollo_11A.wav",
+    "length": 2.98,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 2
+  },
+  "5": {
+    "name": "Apollo_VCF_Pad",
+    "filename": "Apollo_VCF_Pad_10B.wav",
+    "length": 5.74,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10B",
+    "key": "D",
+    "bars": 4
+  },
+  "6": {
+    "name": "Aura_Arp_Pad",
+    "filename": "Aura_Arp_Pad_6A.wav",
+    "length": 2.12,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 2
+  },
+  "7": {
+    "name": "Back_Pad",
+    "filename": "Back_Pad_8A.wav",
+    "length": 3.25,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 2
+  },
+  "8": {
+    "name": "Bang_Pad",
+    "filename": "Bang_Pad_2A.wav",
+    "length": 2.05,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "9": {
+    "name": "Boo_Pad",
+    "filename": "Boo_Pad_10B.wav",
+    "length": 4.05,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10B",
+    "key": "D",
+    "bars": 4
+  },
+  "10": {
+    "name": "Bringing_Me_Pad",
+    "filename": "Bringing_Me_Pad_11A.wav",
+    "length": 2.07,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 2
+  },
+  "11": {
+    "name": "Bulldozer_Pad",
+    "filename": "Bulldozer_Pad_5B.wav",
+    "length": 11.09,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5B",
+    "key": "Eb",
+    "bars": 4
+  },
+  "12": {
+    "name": "Careless_Pad",
+    "filename": "Careless_Pad_6A.wav",
+    "length": 4.39,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 4
+  },
+  "13": {
+    "name": "Connected_Modu_Pad",
+    "filename": "Connected_Modu_Pad_6A.wav",
+    "length": 4.12,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 4
+  },
+  "14": {
+    "name": "Connected_Pad",
+    "filename": "Connected_Pad_6A.wav",
+    "length": 4.31,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 4
+  },
+  "15": {
+    "name": "Dred_Pad",
+    "filename": "Dred_Pad_1B.wav",
+    "length": 5.51,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1B",
+    "key": "B",
+    "bars": 4
+  },
+  "16": {
+    "name": "Drumz_BassPad",
+    "filename": "Drumz_BassPad_1B.wav",
+    "length": 1.05,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1B",
+    "key": "B",
+    "bars": 2
+  },
+  "17": {
+    "name": "Emotion_Pad",
+    "filename": "Emotion_Pad_8B.wav",
+    "length": 1.99,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8B",
+    "key": "C",
+    "bars": 2
+  },
+  "18": {
+    "name": "Enchanted_Pad",
+    "filename": "Enchanted_Pad_2B.wav",
+    "length": 2.13,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2B",
+    "key": "Gb",
+    "bars": 2
+  },
+  "19": {
+    "name": "Face_Pads",
+    "filename": "Face_Pads_7A.wav",
+    "length": 4.08,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 4
+  },
+  "20": {
+    "name": "Feenin_Pad",
+    "filename": "Feenin_Pad_3A.wav",
+    "length": 2.29,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 2
+  },
+  "21": {
+    "name": "Fight_Pad",
+    "filename": "Fight_Pad_5A.wav",
+    "length": 11.14,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "22": {
+    "name": "Fluid_Pad",
+    "filename": "Fluid_Pad_7A.wav",
+    "length": 2.07,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "23": {
+    "name": "Freedom_Pad",
+    "filename": "Freedom_Pad_5A.wav",
+    "length": 6.47,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "24": {
+    "name": "Global_Kids_Pad",
+    "filename": "Global_Kids_Pad_9A.wav",
+    "length": 22.72,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 4
+  },
+  "25": {
+    "name": "God_Chord_Pad",
+    "filename": "God_Chord_Pad_6A.wav",
+    "length": 3.78,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 4
+  },
+  "26": {
+    "name": "Gravitational_Pad",
+    "filename": "Gravitational_Pad_9A.wav",
+    "length": 6.16,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 4
+  },
+  "27": {
+    "name": "Greetings_Pad",
+    "filename": "Greetings_Pad_7A.wav",
+    "length": 1.45,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "28": {
+    "name": "Grey_Pad",
+    "filename": "Grey_Pad_11A.wav",
+    "length": 5.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 4
+  },
+  "29": {
+    "name": "Groove_Therapy_Lo_Pad",
+    "filename": "Groove_Therapy_Lo_Pad_2A.wav",
+    "length": 1.28,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "30": {
+    "name": "Groove_Therapy_Pad",
+    "filename": "Groove_Therapy_Pad_11B.wav",
+    "length": 2.6,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11B",
+    "key": "A",
+    "bars": 2
+  },
+  "31": {
+    "name": "High_Point_Pad",
+    "filename": "High_Point_Pad_6B.wav",
+    "length": 11.24,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6B",
+    "key": "Bb",
+    "bars": 4
+  },
+  "32": {
+    "name": "Hoovers_Pad",
+    "filename": "Hoovers_Pad_1B.wav",
+    "length": 1.62,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1B",
+    "key": "B",
+    "bars": 2
+  },
+  "33": {
+    "name": "Horn_Pad",
+    "filename": "Horn_Pad_2A.wav",
+    "length": 1.38,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "34": {
+    "name": "I_Spy_Pad",
+    "filename": "I_Spy_Pad_3A.wav",
+    "length": 2.84,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 2
+  },
+  "35": {
+    "name": "Inna_Pad_2",
+    "filename": "Inna_Pad_2_7B.wav",
+    "length": 9.41,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7B",
+    "key": "F",
+    "bars": 4
+  },
+  "36": {
+    "name": "Inna_Pad",
+    "filename": "Inna_Pad_7B.wav",
+    "length": 27.71,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7B",
+    "key": "F",
+    "bars": 4
+  },
+  "37": {
+    "name": "Inner_Pad",
+    "filename": "Inner_Pad_11A.wav",
+    "length": 8.13,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 4
+  },
+  "38": {
+    "name": "LED_Pad",
+    "filename": "LED_Pad_10B.wav",
+    "length": 3.68,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10B",
+    "key": "D",
+    "bars": 2
+  },
+  "39": {
+    "name": "Love_Pad",
+    "filename": "Love_Pad_10A.wav",
+    "length": 1.17,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 2
+  },
+  "40": {
+    "name": "Maintain_Pad",
+    "filename": "Maintain_Pad_9A.wav",
+    "length": 1.31,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "41": {
+    "name": "Metropolis_Pad",
+    "filename": "Metropolis_Pad_3B.wav",
+    "length": 5.74,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3B",
+    "key": "Db",
+    "bars": 4
+  },
+  "42": {
+    "name": "Moomin_Loop_Pad",
+    "filename": "Moomin_Loop_Pad_5A.wav",
+    "length": 2.31,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "43": {
+    "name": "Myriad_Pad",
+    "filename": "Myriad_Pad_10B.wav",
+    "length": 2.69,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10B",
+    "key": "D",
+    "bars": 2
+  },
+  "44": {
+    "name": "Night_Train_Pad",
+    "filename": "Night_Train_Pad_9B.wav",
+    "length": 7.67,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9B",
+    "key": "G",
+    "bars": 4
+  },
+  "45": {
+    "name": "Night_Train_Short_Pad",
+    "filename": "Night_Train_Short_Pad_8A.wav",
+    "length": 1.42,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 2
+  },
+  "46": {
+    "name": "Northern_Breakdown_Pad",
+    "filename": "Northern_Breakdown_Pad_8A.wav",
+    "length": 4.47,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 4
+  },
+  "47": {
+    "name": "Origin_Pad",
+    "filename": "Origin_Pad_9A.wav",
+    "length": 5.95,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 4
+  },
+  "48": {
+    "name": "Pesh_Pad",
+    "filename": "Pesh_Pad_7A.wav",
+    "length": 3.06,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "49": {
+    "name": "Physical_Pad",
+    "filename": "Physical_Pad_10B.wav",
+    "length": 2.09,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10B",
+    "key": "D",
+    "bars": 2
+  },
+  "50": {
+    "name": "Portraits_Pad",
+    "filename": "Portraits_Pad_11A.wav",
+    "length": 2.23,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 2
+  },
+  "51": {
+    "name": "Possible_Worlds_Pad",
+    "filename": "Possible_Worlds_Pad_7A.wav",
+    "length": 7.26,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 4
+  },
+  "52": {
+    "name": "Recharge_Pad",
+    "filename": "Recharge_Pad_7A.wav",
+    "length": 5.45,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 4
+  },
+  "53": {
+    "name": "Reflections_Pad",
+    "filename": "Reflections_Pad_3B.wav",
+    "length": 9.64,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3B",
+    "key": "Db",
+    "bars": 4
+  },
+  "54": {
+    "name": "Revelation_Pad",
+    "filename": "Revelation_Pad_1B.wav",
+    "length": 2.88,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1B",
+    "key": "B",
+    "bars": 2
+  },
+  "55": {
+    "name": "Rock_Pad",
+    "filename": "Rock_Pad_3A.wav",
+    "length": 2.11,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 2
+  },
+  "56": {
+    "name": "Roll_Pad",
+    "filename": "Roll_Pad_8A.wav",
+    "length": 3.01,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 2
+  },
+  "57": {
+    "name": "Seatown_Pad",
+    "filename": "Seatown_Pad_5A.wav",
+    "length": 4.88,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "58": {
+    "name": "Shoes_Pad",
+    "filename": "Shoes_Pad_5B.wav",
+    "length": 5.45,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5B",
+    "key": "Eb",
+    "bars": 4
+  },
+  "59": {
+    "name": "Sign_Pad",
+    "filename": "Sign_Pad_1A.wav",
+    "length": 5.86,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 4
+  },
+  "60": {
+    "name": "Sonic_Pad_2",
+    "filename": "Sonic_Pad_2_5A.wav",
+    "length": 6.57,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "61": {
+    "name": "Sonic_Pad",
+    "filename": "Sonic_Pad_5A.wav",
+    "length": 4.61,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "62": {
+    "name": "Spring_Pad",
+    "filename": "Spring_Pad_1A.wav",
+    "length": 2.66,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 2
+  },
+  "63": {
+    "name": "Stoned_Pad",
+    "filename": "Stoned_Pad_9A.wav",
+    "length": 5.45,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 4
+  },
+  "64": {
+    "name": "Sweet_Pad",
+    "filename": "Sweet_Pad_8A.wav",
+    "length": 1.81,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 2
+  },
+  "65": {
+    "name": "Take_You_Pad",
+    "filename": "Take_You_Pad_5A.wav",
+    "length": 3.41,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "66": {
+    "name": "Tear_Pad",
+    "filename": "Tear_Pad_9B.wav",
+    "length": 2.18,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9B",
+    "key": "G",
+    "bars": 2
+  },
+  "67": {
+    "name": "Ten_Pad",
+    "filename": "Ten_Pad_9B.wav",
+    "length": 4.41,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9B",
+    "key": "G",
+    "bars": 4
+  },
+  "68": {
+    "name": "Terrain_Pad",
+    "filename": "Terrain_Pad_2A.wav",
+    "length": 2.72,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "69": {
+    "name": "Touch_Vocal_Pad",
+    "filename": "Touch_Vocal_Pad_8A.wav",
+    "length": 5.76,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 4
+  },
+  "70": {
+    "name": "Traenon_Pad",
+    "filename": "Traenon_Pad_12A.wav",
+    "length": 4.62,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 4
+  },
+  "71": {
+    "name": "Travelling_Pad",
+    "filename": "Travelling_Pad_10A.wav",
+    "length": 2.64,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 2
+  },
+  "72": {
+    "name": "True_Pad",
+    "filename": "True_Pad_11B.wav",
+    "length": 1.78,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11B",
+    "key": "A",
+    "bars": 2
+  },
+  "73": {
+    "name": "Wash_Pad",
+    "filename": "Wash_Pad_7A.wav",
+    "length": 4.46,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 4
+  },
+  "74": {
+    "name": "Western_Pad",
+    "filename": "Western_Pad.wav",
+    "length": 6.15,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 4
+  },
+  "75": {
+    "name": "What_Ya_Gonna_Pad",
+    "filename": "What_Ya_Gonna_Pad_9B.wav",
+    "length": 3.57,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9B",
+    "key": "G",
+    "bars": 2
+  },
+  "76": {
+    "name": "Your_Pad",
+    "filename": "Your_Pad_10A.wav",
+    "length": 2.42,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 2
+  }
+}

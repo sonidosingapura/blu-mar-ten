@@ -1,0 +1,1202 @@
+{
+  "1": {
+    "name": "Aura_Boom",
+    "filename": "Aura_Boom_4A.wav",
+    "length": 4.53,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 4
+  },
+  "2": {
+    "name": "Aura_Rise",
+    "filename": "Aura_Rise_3A.wav",
+    "length": 2.44,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 2
+  },
+  "3": {
+    "name": "Bad_Hit",
+    "filename": "Bad_Hit_12B.wav",
+    "length": 3.11,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12B",
+    "key": "E",
+    "bars": 2
+  },
+  "4": {
+    "name": "Bad_Stats",
+    "filename": "Bad_Stats_6A.wav",
+    "length": 1.27,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 1
+  },
+  "5": {
+    "name": "Bad_Tight_Dly",
+    "filename": "Bad_Tight_Dly_11A.wav",
+    "length": 1.32,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 1
+  },
+  "6": {
+    "name": "Bang_Blips",
+    "filename": "Bang_Blips_4A.wav",
+    "length": 3.2,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "7": {
+    "name": "Blue_Water_Spin",
+    "filename": "Blue_Water_Spin_4A.wav",
+    "length": 1.5,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 1
+  },
+  "8": {
+    "name": "Bringing_Me_Dolphins",
+    "filename": "Bringing_Me_Dolphins_4A.wav",
+    "length": 7.41,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 4
+  },
+  "9": {
+    "name": "Bronx_Trailer",
+    "filename": "Bronx_Trailer_2A.wav",
+    "length": 5.14,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 4
+  },
+  "10": {
+    "name": "Calm_Breath",
+    "filename": "Calm_Breath_4A.wav",
+    "length": 2.48,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "11": {
+    "name": "Calm_Downer",
+    "filename": "Calm_Downer_7A.wav",
+    "length": 2.1,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "12": {
+    "name": "Calm_Fake_Mentasm",
+    "filename": "Calm_Fake_Mentasm_5A.wav",
+    "length": 1.65,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 1
+  },
+  "13": {
+    "name": "Centuries_Laser",
+    "filename": "Centuries_Laser.wav",
+    "length": 1.49,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "14": {
+    "name": "Centuries_Vocode",
+    "filename": "Centuries_Vocode_5B.wav",
+    "length": 4.39,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5B",
+    "key": "Eb",
+    "bars": 4
+  },
+  "15": {
+    "name": "Chain_FX",
+    "filename": "Chain_FX_10A.wav",
+    "length": 0.51,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 1
+  },
+  "16": {
+    "name": "Chain_Hisser",
+    "filename": "Chain_Hisser_10A.wav",
+    "length": 3.23,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 2
+  },
+  "17": {
+    "name": "Champion_Scratch",
+    "filename": "Champion_Scratch_5A.wav",
+    "length": 0.75,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 1
+  },
+  "18": {
+    "name": "Cool_Bell",
+    "filename": "Cool_Bell_4A.wav",
+    "length": 5.98,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 4
+  },
+  "19": {
+    "name": "Cool_Glass",
+    "filename": "Cool_Glass_5A.wav",
+    "length": 1.3,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 1
+  },
+  "20": {
+    "name": "Cool_Ping",
+    "filename": "Cool_Ping_5A.wav",
+    "length": 1.5,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 1
+  },
+  "21": {
+    "name": "Cosmik_Rev",
+    "filename": "Cosmik_Rev_5A.wav",
+    "length": 2.16,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "22": {
+    "name": "Cryo_Spider_Synth",
+    "filename": "Cryo_Spider_Synth_11A.wav",
+    "length": 3.44,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 2
+  },
+  "23": {
+    "name": "Dispatch_Drone",
+    "filename": "Dispatch_Drone_10A.wav",
+    "length": 7.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 4
+  },
+  "24": {
+    "name": "Dope_Hits",
+    "filename": "Dope_Hits_2A.wav",
+    "length": 1.85,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 1
+  },
+  "25": {
+    "name": "Dream_Brass",
+    "filename": "Dream_Brass_10A.wav",
+    "length": 5.28,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 4
+  },
+  "26": {
+    "name": "Dred_Guns",
+    "filename": "Dred_Guns.wav",
+    "length": 2.02,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "27": {
+    "name": "Drumz_Ana_Hit",
+    "filename": "Drumz_Ana_Hit_8A.wav",
+    "length": 0.92,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 1
+  },
+  "28": {
+    "name": "Effect_Mentasm",
+    "filename": "Effect_Mentasm_12A.wav",
+    "length": 0.94,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 1
+  },
+  "29": {
+    "name": "Enchanted_Water",
+    "filename": "Enchanted_Water_2A.wav",
+    "length": 6.34,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 4
+  },
+  "30": {
+    "name": "Far_Out_Stab",
+    "filename": "Far_Out_Stab_4A.wav",
+    "length": 0.16,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 1
+  },
+  "31": {
+    "name": "Fluid_Clang_Hit",
+    "filename": "Fluid_Clang_Hit_9A.wav",
+    "length": 5.77,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 4
+  },
+  "32": {
+    "name": "Fountain_Burble_Synth",
+    "filename": "Fountain_Burble_Synth_5B.wav",
+    "length": 8.23,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5B",
+    "key": "Eb",
+    "bars": 4
+  },
+  "33": {
+    "name": "Fountain_Splashes",
+    "filename": "Fountain_Splashes_6A.wav",
+    "length": 5.57,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 4
+  },
+  "34": {
+    "name": "Futureproof_Bells",
+    "filename": "Futureproof_Bells_5A.wav",
+    "length": 5.33,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "35": {
+    "name": "Games_Beeps",
+    "filename": "Games_Beeps_6B.wav",
+    "length": 6.75,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6B",
+    "key": "Bb",
+    "bars": 4
+  },
+  "36": {
+    "name": "Ganga_Rewind",
+    "filename": "Ganga_Rewind.wav",
+    "length": 2.23,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "37": {
+    "name": "Gene_Drone",
+    "filename": "Gene_Drone_4A.wav",
+    "length": 8.67,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 4
+  },
+  "38": {
+    "name": "Guess_Wobblescratch",
+    "filename": "Guess_Wobblescratch_5A.wav",
+    "length": 1.8,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 1
+  },
+  "39": {
+    "name": "Haze_Hit",
+    "filename": "Haze_Hit_11B.wav",
+    "length": 2.53,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11B",
+    "key": "A",
+    "bars": 2
+  },
+  "40": {
+    "name": "Headless_Dly",
+    "filename": "Headless_Dly.wav",
+    "length": 4.93,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 4
+  },
+  "41": {
+    "name": "Headless_Hit",
+    "filename": "Headless_Hit_5A.wav",
+    "length": 2.19,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "42": {
+    "name": "Hear_This_Stretch",
+    "filename": "Hear_This_Stretch_7B.wav",
+    "length": 10.74,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7B",
+    "key": "F",
+    "bars": 4
+  },
+  "43": {
+    "name": "Jazz_Thing_Submarine",
+    "filename": "Jazz_Thing_Submarine_4B.wav",
+    "length": 3.06,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4B",
+    "key": "Ab",
+    "bars": 2
+  },
+  "44": {
+    "name": "Jazzy_Mains_Hum",
+    "filename": "Jazzy_Mains_Hum_8B.wav",
+    "length": 1.17,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8B",
+    "key": "C",
+    "bars": 1
+  },
+  "45": {
+    "name": "Johnny_Hit",
+    "filename": "Johnny_Hit.wav",
+    "length": 2.96,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "46": {
+    "name": "Jungle_Monster",
+    "filename": "Jungle_Monster_5A.wav",
+    "length": 1.41,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 1
+  },
+  "47": {
+    "name": "LED_Vocal_Laser",
+    "filename": "LED_Vocal_Laser_11B.wav",
+    "length": 9.33,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11B",
+    "key": "A",
+    "bars": 4
+  },
+  "48": {
+    "name": "Let_Roll_Spring_Bounce",
+    "filename": "Let_Roll_Spring_Bounce_2B.wav",
+    "length": 0.77,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2B",
+    "key": "Gb",
+    "bars": 1
+  },
+  "49": {
+    "name": "Let_Roll_Stretch",
+    "filename": "Let_Roll_Stretch_9A.wav",
+    "length": 1.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 1
+  },
+  "50": {
+    "name": "Links_Perc",
+    "filename": "Links_Perc_5A.wav",
+    "length": 5.99,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "51": {
+    "name": "Logik_8bit_Hit",
+    "filename": "Logik_8bit_Hit_1A.wav",
+    "length": 2.05,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 2
+  },
+  "52": {
+    "name": "Logik_Buzzer",
+    "filename": "Logik_Buzzer_10A.wav",
+    "length": 4.48,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 4
+  },
+  "53": {
+    "name": "London_Hit",
+    "filename": "London_Hit_4A.wav",
+    "length": 1.47,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 1
+  },
+  "54": {
+    "name": "Maintain_Drone",
+    "filename": "Maintain_Drone_8A.wav",
+    "length": 2.42,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 2
+  },
+  "55": {
+    "name": "Maintain_Perc",
+    "filename": "Maintain_Perc_6B.wav",
+    "length": 3.26,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6B",
+    "key": "Bb",
+    "bars": 2
+  },
+  "56": {
+    "name": "Maintain_Rotator",
+    "filename": "Maintain_Rotator.wav",
+    "length": 2.28,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "57": {
+    "name": "Marbles_Slide",
+    "filename": "Marbles_Slide_11A.wav",
+    "length": 1.05,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 1
+  },
+  "58": {
+    "name": "Maximum_Booty_Fader",
+    "filename": "Maximum_Booty_Fader_3A.wav",
+    "length": 2.94,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 2
+  },
+  "59": {
+    "name": "Meltdown_Beep",
+    "filename": "Meltdown_Beep_8B.wav",
+    "length": 0.47,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8B",
+    "key": "C",
+    "bars": 1
+  },
+  "60": {
+    "name": "Metal_Mentasm",
+    "filename": "Metal_Mentasm.wav",
+    "length": 5.36,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 4
+  },
+  "61": {
+    "name": "Metro_Drone",
+    "filename": "Metro_Drone_5A.wav",
+    "length": 3.97,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "62": {
+    "name": "Metropolis_Hiss",
+    "filename": "Metropolis_Hiss.wav",
+    "length": 4.4,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 4
+  },
+  "63": {
+    "name": "Metropolis_Reverse",
+    "filename": "Metropolis_Reverse.wav",
+    "length": 1.45,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "64": {
+    "name": "Mind_Congas",
+    "filename": "Mind_Congas_3A.wav",
+    "length": 2.36,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 2
+  },
+  "65": {
+    "name": "Mind_Drone",
+    "filename": "Mind_Drone_2A.wav",
+    "length": 5.27,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 4
+  },
+  "66": {
+    "name": "Mind_Tube_Vortex",
+    "filename": "Mind_Tube_Vortex_4A.wav",
+    "length": 5.76,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 4
+  },
+  "67": {
+    "name": "Mind_Wah",
+    "filename": "Mind_Wah_9A.wav",
+    "length": 3.97,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "68": {
+    "name": "Mind_Wind_Down",
+    "filename": "Mind_Wind_Down_12A.wav",
+    "length": 1.5,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 1
+  },
+  "69": {
+    "name": "Mute_Hit",
+    "filename": "Mute_Hit_12A.wav",
+    "length": 2.48,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 2
+  },
+  "70": {
+    "name": "Myriad_Beep_Sine",
+    "filename": "Myriad_Beep_Sine_10B.wav",
+    "length": 2.77,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10B",
+    "key": "D",
+    "bars": 2
+  },
+  "71": {
+    "name": "Myriad_Mechanism",
+    "filename": "Myriad_Mechanism_3A.wav",
+    "length": 0.73,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 1
+  },
+  "72": {
+    "name": "Null_Reload",
+    "filename": "Null_Reload_9A.wav",
+    "length": 0.9,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 1
+  },
+  "73": {
+    "name": "Null_Scratch",
+    "filename": "Null_Scratch_2A.wav",
+    "length": 0.24,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 1
+  },
+  "74": {
+    "name": "Oh_Hit",
+    "filename": "Oh_Hit_10B.wav",
+    "length": 0.31,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10B",
+    "key": "D",
+    "bars": 1
+  },
+  "75": {
+    "name": "Overhead_Hiss",
+    "filename": "Overhead_Hiss_6A.wav",
+    "length": 6.22,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 4
+  },
+  "76": {
+    "name": "Parallel_Whales",
+    "filename": "Parallel_Whales_1A.wav",
+    "length": 3.06,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 2
+  },
+  "77": {
+    "name": "Peace_Whip",
+    "filename": "Peace_Whip_7A.wav",
+    "length": 0.76,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 1
+  },
+  "78": {
+    "name": "Physical_Ssshh",
+    "filename": "Physical_Ssshh_7A.wav",
+    "length": 2.95,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "79": {
+    "name": "Place_Laser",
+    "filename": "Place_Laser_5A.wav",
+    "length": 2.76,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "80": {
+    "name": "Portraits_Bird",
+    "filename": "Portraits_Bird_1A.wav",
+    "length": 0.56,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 1
+  },
+  "81": {
+    "name": "Portraits_Laser_Hit",
+    "filename": "Portraits_Laser_Hit_12A.wav",
+    "length": 5.77,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 4
+  },
+  "82": {
+    "name": "Rainfall_Droplet",
+    "filename": "Rainfall_Droplet_12A.wav",
+    "length": 0.36,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 1
+  },
+  "83": {
+    "name": "Reach_Hip_Hit",
+    "filename": "Reach_Hip_Hit_5A.wav",
+    "length": 0.35,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 1
+  },
+  "84": {
+    "name": "Reach_Skid",
+    "filename": "Reach_Skid_8B.wav",
+    "length": 1.47,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8B",
+    "key": "C",
+    "bars": 1
+  },
+  "85": {
+    "name": "Recharge_Hit",
+    "filename": "Recharge_Hit_7A.wav",
+    "length": 1.88,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 1
+  },
+  "86": {
+    "name": "Reflections_Scream",
+    "filename": "Reflections_Scream.wav",
+    "length": 4.37,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 4
+  },
+  "87": {
+    "name": "Renegade_Snares_Perc",
+    "filename": "Renegade_Snares_Perc_8A.wav",
+    "length": 0.81,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 1
+  },
+  "88": {
+    "name": "Renegade_Snares_String",
+    "filename": "Renegade_Snares_String_9B.wav",
+    "length": 2.93,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9B",
+    "key": "G",
+    "bars": 2
+  },
+  "89": {
+    "name": "Roll_On_Organ",
+    "filename": "Roll_On_Organ_9A.wav",
+    "length": 2.85,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "90": {
+    "name": "Secrets_Flute",
+    "filename": "Secrets_Flute_4A.wav",
+    "length": 5.6,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 4
+  },
+  "91": {
+    "name": "Secrets_Scrape",
+    "filename": "Secrets_Scrape_4A.wav",
+    "length": 5.49,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 4
+  },
+  "92": {
+    "name": "Shape_Beep",
+    "filename": "Shape_Beep_2A.wav",
+    "length": 1.07,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 1
+  },
+  "93": {
+    "name": "Shape_Beeps",
+    "filename": "Shape_Beeps_7B.wav",
+    "length": 4.8,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7B",
+    "key": "F",
+    "bars": 4
+  },
+  "94": {
+    "name": "Shape_Rubber",
+    "filename": "Shape_Rubber_1A.wav",
+    "length": 0.68,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 1
+  },
+  "95": {
+    "name": "Shock_Beep",
+    "filename": "Shock_Beep_9A.wav",
+    "length": 1.06,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 1
+  },
+  "96": {
+    "name": "Solution_Breath",
+    "filename": "Solution_Breath_8A.wav",
+    "length": 1.65,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 1
+  },
+  "97": {
+    "name": "Some_Justice_Hit",
+    "filename": "Some_Justice_Hit_4A.wav",
+    "length": 3.07,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "98": {
+    "name": "Sonic_Dolphins",
+    "filename": "Sonic_Dolphins_5A.wav",
+    "length": 4.33,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "99": {
+    "name": "Soul_Atmos",
+    "filename": "Soul_Atmos_7A.wav",
+    "length": 13.19,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 4
+  },
+  "100": {
+    "name": "Soul_Hit",
+    "filename": "Soul_Hit_8A.wav",
+    "length": 0.73,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 1
+  },
+  "101": {
+    "name": "Spring_Metal",
+    "filename": "Spring_Metal_9A.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "102": {
+    "name": "Stepper_Stretch",
+    "filename": "Stepper_Stretch_6A.wav",
+    "length": 1.49,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 1
+  },
+  "103": {
+    "name": "Stone_Drone",
+    "filename": "Stone_Drone_11B.wav",
+    "length": 9.01,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11B",
+    "key": "A",
+    "bars": 4
+  },
+  "104": {
+    "name": "Stranger_Atmos",
+    "filename": "Stranger_Atmos_7A.wav",
+    "length": 11.05,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 4
+  },
+  "105": {
+    "name": "Stranger_Hit",
+    "filename": "Stranger_Hit_4A.wav",
+    "length": 2.87,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "106": {
+    "name": "Terrain_Howl",
+    "filename": "Terrain_Howl_10B.wav",
+    "length": 4.96,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10B",
+    "key": "D",
+    "bars": 4
+  },
+  "107": {
+    "name": "Terrorist_Vox_Hit",
+    "filename": "Terrorist_Vox_Hit_5A.wav",
+    "length": 2.38,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "108": {
+    "name": "Tone_Drone",
+    "filename": "Tone_Drone_6B.wav",
+    "length": 2.51,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6B",
+    "key": "Bb",
+    "bars": 2
+  },
+  "109": {
+    "name": "Town_Vinyl_Crackle",
+    "filename": "Town_Vinyl_Crackle_6A.wav",
+    "length": 5.62,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 4
+  },
+  "110": {
+    "name": "Travelling_Scratch",
+    "filename": "Travelling_Scratch_2A.wav",
+    "length": 1.68,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 1
+  },
+  "111": {
+    "name": "Travelling_Wind_Up",
+    "filename": "Travelling_Wind_Up_10A.wav",
+    "length": 1.51,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 1
+  },
+  "112": {
+    "name": "Tronik_Mentasm",
+    "filename": "Tronik_Mentasm_6B.wav",
+    "length": 0.81,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6B",
+    "key": "Bb",
+    "bars": 1
+  },
+  "113": {
+    "name": "Type_Synth",
+    "filename": "Type_Synth_5B.wav",
+    "length": 1.74,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5B",
+    "key": "Eb",
+    "bars": 1
+  },
+  "114": {
+    "name": "Vapour_Brass_Synth",
+    "filename": "Vapour_Brass_Synth_9A.wav",
+    "length": 6.3,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 4
+  },
+  "115": {
+    "name": "Walk_Whip",
+    "filename": "Walk_Whip_6A.wav",
+    "length": 0.42,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 1
+  },
+  "116": {
+    "name": "War_Scraper",
+    "filename": "War_Scraper_1A.wav",
+    "length": 3.51,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 2
+  },
+  "117": {
+    "name": "Warned_Hit",
+    "filename": "Warned_Hit_1A.wav",
+    "length": 0.69,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 1
+  },
+  "118": {
+    "name": "Warned_Hit_2",
+    "filename": "Warned_Hit_2_4A.wav",
+    "length": 4.93,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 4
+  },
+  "119": {
+    "name": "Wheel_Up_Signal",
+    "filename": "Wheel_Up_Signal_12A.wav",
+    "length": 0.87,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 1
+  },
+  "120": {
+    "name": "Your_Spindown",
+    "filename": "Your_Spindown_2A.wav",
+    "length": 2.14,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  }
+}

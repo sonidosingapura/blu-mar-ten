@@ -1,6 +1,411 @@
 {
-  "_base":"https://raw.githubusercontent.com/sonidosingapura/blu-mar-ten/main/",
-  "vocals": [
-    "All_The_People_Vox_8A.wav","Bad_Boy_10A.wav","Bad_Vox_4A.wav","Blue_Vox_8A.wav","Bouncer_Vox.wav","Bouncer_Vox_2.wav","Calm_Vox_7A.wav","Careless_Synth_and_Vox_5A.wav","Champion_Badman_5A.wav","Champion_Vox_9A.wav","Circles_Vox_4B.wav","Control_Vocal_4A.wav","Control_Vox_8A.wav","Cool_Vox_7A.wav","Dancehall_Stretch_Vox_7A.wav","Dream_Hey.wav","Dream_Vox_6A.wav","Dreams_Vox_11A.wav","Dred_Gunman_6A.wav","Dred_Vox_11A.wav","Effect_Vox_2A.wav","Fire_Vox.wav","Gang_Vox_9A.wav","Gangsta_Vox.wav","Hear_This_Vox.wav","Heaven_Vox_4A.wav","Joe_Smooth_One_Family_4A.wav","Killa_Vox.wav","Let_Roll_Vox_5B.wav","London_Vox_4A.wav","Massive_Vox.wav","Maximum_Ragga_8A.wav","Maximum_Vox_4A.wav","My_Sound_Rude_Boy.wav","My_Sound_Stretch_Vox_7B.wav","Null_Vox.wav","On_Fire_Vox_8A.wav","Peace_Sign_Vox_7B.wav","Peace_Vox_7A.wav","Pin_Up_Vox_5A.wav","Portraits_Female_11A.wav","Pure_Vocal_12A.wav","Reach_Danger_8B.wav","Ricochet_Vox_2A.wav","Rinse_Vox_2_3A.wav","Rinse_Vox_6B.wav","Rise_Stretch_Vox_8A.wav","Rise_Vox_11A.wav","Ruling_Bad_Boy_Tune_9A.wav","Shape_Vox.wav","Six_Million_Vox.wav","Soul_Vox_6A.wav","Sovreign_Vox_10A.wav","Stepper_Vox_9A.wav","Stoned_Vocal_8B.wav","Take_You_Scream_5A.wav","Tear_Vox_11A.wav","Terrain_Vox_11B.wav","Terrorist_Vox_Hit_9A.wav","Town_Underground_Vox.wav","Town_Vox.wav","Way_Bloodclart_4A.wav","Way_Jungle_Techno_4A.wav","Way_Vox.wav","What_Ya_Gonna_Vox.wav","Who_Run_Vox_4A.wav","Worries_Soundboy_7A.wav","Worries_Vox_7A.wav"
-  ]
+  "_base": "https://raw.githubusercontent.com/sonidosingapura/blu-mar-ten/main/Vocals/",
+  "bmt_vocals_1": {
+    "a2": "All_The_People_Vox_8A.wav"
+  },
+  "bmt_all_the_people_vox": {
+    "a2": "All_The_People_Vox_8A.wav"
+  },
+  "bmt_vocals_2": {
+    "b2": "Bad_Boy_10A.wav"
+  },
+  "bmt_bad_boy": {
+    "b2": "Bad_Boy_10A.wav"
+  },
+  "bmt_vocals_3": {
+    "f2": "Bad_Vox_4A.wav"
+  },
+  "bmt_bad_vox": {
+    "f2": "Bad_Vox_4A.wav"
+  },
+  "bmt_vocals_4": {
+    "a2": "Blue_Vox_8A.wav"
+  },
+  "bmt_blue_vox": {
+    "a2": "Blue_Vox_8A.wav"
+  },
+  "bmt_vocals_5": {
+    "c2": "Bouncer_Vox.wav"
+  },
+  "bmt_bouncer_vox": {
+    "c2": "Bouncer_Vox.wav"
+  },
+  "bmt_vocals_6": {
+    "c2": "Bouncer_Vox_2.wav"
+  },
+  "bmt_bouncer_vox_2": {
+    "c2": "Bouncer_Vox_2.wav"
+  },
+  "bmt_vocals_7": {
+    "d2": "Calm_Vox_7A.wav"
+  },
+  "bmt_calm_vox": {
+    "d2": "Calm_Vox_7A.wav"
+  },
+  "bmt_vocals_8": {
+    "c2": "Careless_Synth_and_Vox_5A.wav"
+  },
+  "bmt_careless_synth_and_vox": {
+    "c2": "Careless_Synth_and_Vox_5A.wav"
+  },
+  "bmt_vocals_9": {
+    "c2": "Champion_Badman_5A.wav"
+  },
+  "bmt_champion_badman": {
+    "c2": "Champion_Badman_5A.wav"
+  },
+  "bmt_vocals_10": {
+    "e2": "Champion_Vox_9A.wav"
+  },
+  "bmt_champion_vox": {
+    "e2": "Champion_Vox_9A.wav"
+  },
+  "bmt_vocals_11": {
+    "ab2": "Circles_Vox_4B.wav"
+  },
+  "bmt_circles_vox": {
+    "ab2": "Circles_Vox_4B.wav"
+  },
+  "bmt_vocals_12": {
+    "f2": "Control_Vocal_4A.wav"
+  },
+  "bmt_control_vocal": {
+    "f2": "Control_Vocal_4A.wav"
+  },
+  "bmt_vocals_13": {
+    "a2": "Control_Vox_8A.wav"
+  },
+  "bmt_control_vox": {
+    "a2": "Control_Vox_8A.wav"
+  },
+  "bmt_vocals_14": {
+    "d2": "Cool_Vox_7A.wav"
+  },
+  "bmt_cool_vox": {
+    "d2": "Cool_Vox_7A.wav"
+  },
+  "bmt_vocals_15": {
+    "d2": "Dancehall_Stretch_Vox_7A.wav"
+  },
+  "bmt_dancehall_stretch_vox": {
+    "d2": "Dancehall_Stretch_Vox_7A.wav"
+  },
+  "bmt_vocals_16": {
+    "c2": "Dream_Hey.wav"
+  },
+  "bmt_dream_hey": {
+    "c2": "Dream_Hey.wav"
+  },
+  "bmt_vocals_17": {
+    "g2": "Dream_Vox_6A.wav"
+  },
+  "bmt_dream_vox": {
+    "g2": "Dream_Vox_6A.wav"
+  },
+  "bmt_vocals_18": {
+    "gb2": "Dreams_Vox_11A.wav"
+  },
+  "bmt_dreams_vox": {
+    "gb2": "Dreams_Vox_11A.wav"
+  },
+  "bmt_vocals_19": {
+    "g2": "Dred_Gunman_6A.wav"
+  },
+  "bmt_dred_gunman": {
+    "g2": "Dred_Gunman_6A.wav"
+  },
+  "bmt_vocals_20": {
+    "gb2": "Dred_Vox_11A.wav"
+  },
+  "bmt_dred_vox": {
+    "gb2": "Dred_Vox_11A.wav"
+  },
+  "bmt_vocals_21": {
+    "eb2": "Effect_Vox_2A.wav"
+  },
+  "bmt_effect_vox": {
+    "eb2": "Effect_Vox_2A.wav"
+  },
+  "bmt_vocals_22": {
+    "c2": "Fire_Vox.wav"
+  },
+  "bmt_fire_vox": {
+    "c2": "Fire_Vox.wav"
+  },
+  "bmt_vocals_23": {
+    "e2": "Gang_Vox_9A.wav"
+  },
+  "bmt_gang_vox": {
+    "e2": "Gang_Vox_9A.wav"
+  },
+  "bmt_vocals_24": {
+    "c2": "Gangsta_Vox.wav"
+  },
+  "bmt_gangsta_vox": {
+    "c2": "Gangsta_Vox.wav"
+  },
+  "bmt_vocals_25": {
+    "c2": "Hear_This_Vox.wav"
+  },
+  "bmt_hear_this_vox": {
+    "c2": "Hear_This_Vox.wav"
+  },
+  "bmt_vocals_26": {
+    "f2": "Heaven_Vox_4A.wav"
+  },
+  "bmt_heaven_vox": {
+    "f2": "Heaven_Vox_4A.wav"
+  },
+  "bmt_vocals_27": {
+    "f2": "Joe_Smooth_One_Family_4A.wav"
+  },
+  "bmt_joe_smooth_one_family": {
+    "f2": "Joe_Smooth_One_Family_4A.wav"
+  },
+  "bmt_vocals_28": {
+    "c2": "Killa_Vox.wav"
+  },
+  "bmt_killa_vox": {
+    "c2": "Killa_Vox.wav"
+  },
+  "bmt_vocals_29": {
+    "eb2": "Let_Roll_Vox_5B.wav"
+  },
+  "bmt_let_roll_vox": {
+    "eb2": "Let_Roll_Vox_5B.wav"
+  },
+  "bmt_vocals_30": {
+    "f2": "London_Vox_4A.wav"
+  },
+  "bmt_london_vox": {
+    "f2": "London_Vox_4A.wav"
+  },
+  "bmt_vocals_31": {
+    "c2": "Massive_Vox.wav"
+  },
+  "bmt_massive_vox": {
+    "c2": "Massive_Vox.wav"
+  },
+  "bmt_vocals_32": {
+    "a2": "Maximum_Ragga_8A.wav"
+  },
+  "bmt_maximum_ragga": {
+    "a2": "Maximum_Ragga_8A.wav"
+  },
+  "bmt_vocals_33": {
+    "f2": "Maximum_Vox_4A.wav"
+  },
+  "bmt_maximum_vox": {
+    "f2": "Maximum_Vox_4A.wav"
+  },
+  "bmt_vocals_34": {
+    "c2": "My_Sound_Rude_Boy.wav"
+  },
+  "bmt_my_sound_rude_boy": {
+    "c2": "My_Sound_Rude_Boy.wav"
+  },
+  "bmt_vocals_35": {
+    "f2": "My_Sound_Stretch_Vox_7B.wav"
+  },
+  "bmt_my_sound_stretch_vox": {
+    "f2": "My_Sound_Stretch_Vox_7B.wav"
+  },
+  "bmt_vocals_36": {
+    "c2": "Null_Vox.wav"
+  },
+  "bmt_null_vox": {
+    "c2": "Null_Vox.wav"
+  },
+  "bmt_vocals_37": {
+    "a2": "On_Fire_Vox_8A.wav"
+  },
+  "bmt_on_fire_vox": {
+    "a2": "On_Fire_Vox_8A.wav"
+  },
+  "bmt_vocals_38": {
+    "f2": "Peace_Sign_Vox_7B.wav"
+  },
+  "bmt_peace_sign_vox": {
+    "f2": "Peace_Sign_Vox_7B.wav"
+  },
+  "bmt_vocals_39": {
+    "d2": "Peace_Vox_7A.wav"
+  },
+  "bmt_peace_vox": {
+    "d2": "Peace_Vox_7A.wav"
+  },
+  "bmt_vocals_40": {
+    "c2": "Pin_Up_Vox_5A.wav"
+  },
+  "bmt_pin_up_vox": {
+    "c2": "Pin_Up_Vox_5A.wav"
+  },
+  "bmt_vocals_41": {
+    "gb2": "Portraits_Female_11A.wav"
+  },
+  "bmt_portraits_female": {
+    "gb2": "Portraits_Female_11A.wav"
+  },
+  "bmt_vocals_42": {
+    "db2": "Pure_Vocal_12A.wav"
+  },
+  "bmt_pure_vocal": {
+    "db2": "Pure_Vocal_12A.wav"
+  },
+  "bmt_vocals_43": {
+    "c2": "Reach_Danger_8B.wav"
+  },
+  "bmt_reach_danger": {
+    "c2": "Reach_Danger_8B.wav"
+  },
+  "bmt_vocals_44": {
+    "eb2": "Ricochet_Vox_2A.wav"
+  },
+  "bmt_ricochet_vox": {
+    "eb2": "Ricochet_Vox_2A.wav"
+  },
+  "bmt_vocals_45": {
+    "bb2": "Rinse_Vox_2_3A.wav"
+  },
+  "bmt_rinse_vox_2": {
+    "bb2": "Rinse_Vox_2_3A.wav"
+  },
+  "bmt_vocals_46": {
+    "bb2": "Rinse_Vox_6B.wav"
+  },
+  "bmt_rinse_vox": {
+    "bb2": "Rinse_Vox_6B.wav"
+  },
+  "bmt_vocals_47": {
+    "a2": "Rise_Stretch_Vox_8A.wav"
+  },
+  "bmt_rise_stretch_vox": {
+    "a2": "Rise_Stretch_Vox_8A.wav"
+  },
+  "bmt_vocals_48": {
+    "gb2": "Rise_Vox_11A.wav"
+  },
+  "bmt_rise_vox": {
+    "gb2": "Rise_Vox_11A.wav"
+  },
+  "bmt_vocals_49": {
+    "e2": "Ruling_Bad_Boy_Tune_9A.wav"
+  },
+  "bmt_ruling_bad_boy_tune": {
+    "e2": "Ruling_Bad_Boy_Tune_9A.wav"
+  },
+  "bmt_vocals_50": {
+    "c2": "Shape_Vox.wav"
+  },
+  "bmt_shape_vox": {
+    "c2": "Shape_Vox.wav"
+  },
+  "bmt_vocals_51": {
+    "c2": "Six_Million_Vox.wav"
+  },
+  "bmt_six_million_vox": {
+    "c2": "Six_Million_Vox.wav"
+  },
+  "bmt_vocals_52": {
+    "g2": "Soul_Vox_6A.wav"
+  },
+  "bmt_soul_vox": {
+    "g2": "Soul_Vox_6A.wav"
+  },
+  "bmt_vocals_53": {
+    "b2": "Sovreign_Vox_10A.wav"
+  },
+  "bmt_sovreign_vox": {
+    "b2": "Sovreign_Vox_10A.wav"
+  },
+  "bmt_vocals_54": {
+    "e2": "Stepper_Vox_9A.wav"
+  },
+  "bmt_stepper_vox": {
+    "e2": "Stepper_Vox_9A.wav"
+  },
+  "bmt_vocals_55": {
+    "c2": "Stoned_Vocal_8B.wav"
+  },
+  "bmt_stoned_vocal": {
+    "c2": "Stoned_Vocal_8B.wav"
+  },
+  "bmt_vocals_56": {
+    "c2": "Take_You_Scream_5A.wav"
+  },
+  "bmt_take_you_scream": {
+    "c2": "Take_You_Scream_5A.wav"
+  },
+  "bmt_vocals_57": {
+    "gb2": "Tear_Vox_11A.wav"
+  },
+  "bmt_tear_vox": {
+    "gb2": "Tear_Vox_11A.wav"
+  },
+  "bmt_vocals_58": {
+    "a2": "Terrain_Vox_11B.wav"
+  },
+  "bmt_terrain_vox": {
+    "a2": "Terrain_Vox_11B.wav"
+  },
+  "bmt_vocals_59": {
+    "e2": "Terrorist_Vox_Hit_9A.wav"
+  },
+  "bmt_terrorist_vox_hit": {
+    "e2": "Terrorist_Vox_Hit_9A.wav"
+  },
+  "bmt_vocals_60": {
+    "c2": "Town_Underground_Vox.wav"
+  },
+  "bmt_town_underground_vox": {
+    "c2": "Town_Underground_Vox.wav"
+  },
+  "bmt_vocals_61": {
+    "c2": "Town_Vox.wav"
+  },
+  "bmt_town_vox": {
+    "c2": "Town_Vox.wav"
+  },
+  "bmt_vocals_62": {
+    "f2": "Way_Bloodclart_4A.wav"
+  },
+  "bmt_way_bloodclart": {
+    "f2": "Way_Bloodclart_4A.wav"
+  },
+  "bmt_vocals_63": {
+    "f2": "Way_Jungle_Techno_4A.wav"
+  },
+  "bmt_way_jungle_techno": {
+    "f2": "Way_Jungle_Techno_4A.wav"
+  },
+  "bmt_vocals_64": {
+    "c2": "Way_Vox.wav"
+  },
+  "bmt_way_vox": {
+    "c2": "Way_Vox.wav"
+  },
+  "bmt_vocals_65": {
+    "c2": "What_Ya_Gonna_Vox.wav"
+  },
+  "bmt_what_ya_gonna_vox": {
+    "c2": "What_Ya_Gonna_Vox.wav"
+  },
+  "bmt_vocals_66": {
+    "f2": "Who_Run_Vox_4A.wav"
+  },
+  "bmt_who_run_vox": {
+    "f2": "Who_Run_Vox_4A.wav"
+  },
+  "bmt_vocals_67": {
+    "d2": "Worries_Soundboy_7A.wav"
+  },
+  "bmt_worries_soundboy": {
+    "d2": "Worries_Soundboy_7A.wav"
+  },
+  "bmt_vocals_68": {
+    "d2": "Worries_Vox_7A.wav"
+  },
+  "bmt_worries_vox": {
+    "d2": "Worries_Vox_7A.wav"
+  }
 }

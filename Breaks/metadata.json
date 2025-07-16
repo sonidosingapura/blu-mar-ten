@@ -1,0 +1,2242 @@
+{
+  "1": {
+    "name": "Adrift_Break",
+    "filename": "Adrift_Break.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "2": {
+    "name": "Alzir_Break",
+    "filename": "Alzir_Break_4A.wav",
+    "length": 2.89,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "3": {
+    "name": "Angles_Break",
+    "filename": "Angles_Break.wav",
+    "length": 1.46,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "4": {
+    "name": "Apollo",
+    "filename": "Apollo_4A.wav",
+    "length": 0.53,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 0.5
+  },
+  "5": {
+    "name": "Arson_Fill",
+    "filename": "Arson_Fill_4A.wav",
+    "length": 2.89,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "6": {
+    "name": "Atlantis_Amen",
+    "filename": "Atlantis_Amen.wav",
+    "length": 1.33,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "7": {
+    "name": "Back_Break",
+    "filename": "Back_Break.wav",
+    "length": 2.87,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "8": {
+    "name": "Back_Break_2",
+    "filename": "Back_Break_2_7B.wav",
+    "length": 2.88,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7B",
+    "key": "F",
+    "bars": 2
+  },
+  "9": {
+    "name": "Back_Break_3",
+    "filename": "Back_Break_3_7B.wav",
+    "length": 2.88,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7B",
+    "key": "F",
+    "bars": 2
+  },
+  "10": {
+    "name": "Bad_Break",
+    "filename": "Bad_Break_8A.wav",
+    "length": 1.38,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 1
+  },
+  "11": {
+    "name": "Beep_Break",
+    "filename": "Beep_Break.wav",
+    "length": 5.94,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 4
+  },
+  "12": {
+    "name": "Beta_Break",
+    "filename": "Beta_Break.wav",
+    "length": 2.76,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "13": {
+    "name": "Blaze_Break",
+    "filename": "Blaze_Break_11A.wav",
+    "length": 1.41,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 1
+  },
+  "14": {
+    "name": "Blaze_Break_2",
+    "filename": "Blaze_Break_2.wav",
+    "length": 5.65,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 4
+  },
+  "15": {
+    "name": "Blue_Break",
+    "filename": "Blue_Break_4A.wav",
+    "length": 2.99,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "16": {
+    "name": "Bonanza_Break",
+    "filename": "Bonanza_Break.wav",
+    "length": 5.61,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 4
+  },
+  "17": {
+    "name": "Boo_Break",
+    "filename": "Boo_Break_5A.wav",
+    "length": 2.93,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "18": {
+    "name": "Boo_Worm_Break",
+    "filename": "Boo_Worm_Break_9A.wav",
+    "length": 5.87,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 4
+  },
+  "19": {
+    "name": "Bouncer_Break",
+    "filename": "Bouncer_Break_6A.wav",
+    "length": 3.53,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 2
+  },
+  "20": {
+    "name": "Box_Break_2",
+    "filename": "Box_Break_2_6B.wav",
+    "length": 3.08,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6B",
+    "key": "Bb",
+    "bars": 2
+  },
+  "21": {
+    "name": "Box_Break_3",
+    "filename": "Box_Break_3_2B.wav",
+    "length": 1.55,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2B",
+    "key": "Gb",
+    "bars": 1
+  },
+  "22": {
+    "name": "Box_Break_4",
+    "filename": "Box_Break_4_5A.wav",
+    "length": 3.1,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "23": {
+    "name": "Box_Break_5",
+    "filename": "Box_Break_5.wav",
+    "length": 3.09,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "24": {
+    "name": "Box_Break",
+    "filename": "Box_Break_6A.wav",
+    "length": 3.09,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 2
+  },
+  "25": {
+    "name": "Breeze_Break",
+    "filename": "Breeze_Break_2A.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "26": {
+    "name": "Bringing_Me_Break",
+    "filename": "Bringing_Me_Break_7A.wav",
+    "length": 3.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "27": {
+    "name": "Bronx_Break",
+    "filename": "Bronx_Break.wav",
+    "length": 1.36,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "28": {
+    "name": "Brut_Force_Break",
+    "filename": "Brut_Force_Break.wav",
+    "length": 1.32,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "29": {
+    "name": "Brut_Force_Fuller_Break",
+    "filename": "Brut_Force_Fuller_Break_6A.wav",
+    "length": 1.41,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 1
+  },
+  "30": {
+    "name": "Bulldozer_Amen",
+    "filename": "Bulldozer_Amen.wav",
+    "length": 2.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "31": {
+    "name": "Bulldozer_Amen_2",
+    "filename": "Bulldozer_Amen_2_2A.wav",
+    "length": 2.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "32": {
+    "name": "Calling_Break",
+    "filename": "Calling_Break_10A.wav",
+    "length": 3.03,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 2
+  },
+  "33": {
+    "name": "Calling_Reverse_Break",
+    "filename": "Calling_Reverse_Break_7A.wav",
+    "length": 1.19,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 1
+  },
+  "34": {
+    "name": "Camo_Break",
+    "filename": "Camo_Break_3A.wav",
+    "length": 2.94,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3A",
+    "key": "Bb",
+    "bars": 2
+  },
+  "35": {
+    "name": "Careless_Break",
+    "filename": "Careless_Break_4A.wav",
+    "length": 2.99,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "36": {
+    "name": "Centuries_Break",
+    "filename": "Centuries_Break.wav",
+    "length": 2.89,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "37": {
+    "name": "Champion_Break",
+    "filename": "Champion_Break_7A.wav",
+    "length": 1.49,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 1
+  },
+  "38": {
+    "name": "Change_Break",
+    "filename": "Change_Break_6A.wav",
+    "length": 1.4,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 1
+  },
+  "39": {
+    "name": "Check_Break",
+    "filename": "Check_Break_11A.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 2
+  },
+  "40": {
+    "name": "Chopper_Break",
+    "filename": "Chopper_Break_6A.wav",
+    "length": 2.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 2
+  },
+  "41": {
+    "name": "Connected_Break",
+    "filename": "Connected_Break_7B.wav",
+    "length": 2.88,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7B",
+    "key": "F",
+    "bars": 2
+  },
+  "42": {
+    "name": "Control_Amen",
+    "filename": "Control_Amen.wav",
+    "length": 2.95,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "43": {
+    "name": "Control_Amen_2",
+    "filename": "Control_Amen_2.wav",
+    "length": 2.95,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "44": {
+    "name": "Control_Break_2",
+    "filename": "Control_Break_2.wav",
+    "length": 2.67,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "45": {
+    "name": "Control_Break",
+    "filename": "Control_Break_9A.wav",
+    "length": 5.85,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 4
+  },
+  "46": {
+    "name": "Control_Kick_Break",
+    "filename": "Control_Kick_Break_2A.wav",
+    "length": 3.69,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "47": {
+    "name": "Control_Kicks",
+    "filename": "Control_Kicks_1A.wav",
+    "length": 3.69,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 2
+  },
+  "48": {
+    "name": "Control_Stutter_Break",
+    "filename": "Control_Stutter_Break_7A.wav",
+    "length": 7.39,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 4
+  },
+  "49": {
+    "name": "Control_Vocal_Break",
+    "filename": "Control_Vocal_Break_1A.wav",
+    "length": 3.7,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 2
+  },
+  "50": {
+    "name": "Cool_Amen",
+    "filename": "Cool_Amen_7A.wav",
+    "length": 3.01,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "51": {
+    "name": "Cool_Break",
+    "filename": "Cool_Break_7A.wav",
+    "length": 3.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "52": {
+    "name": "Cosmik_Break",
+    "filename": "Cosmik_Break_11A.wav",
+    "length": 1.45,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 1
+  },
+  "53": {
+    "name": "Cumulus_Break",
+    "filename": "Cumulus_Break_4A.wav",
+    "length": 1.44,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 1
+  },
+  "54": {
+    "name": "Darkside_Break",
+    "filename": "Darkside_Break_7A.wav",
+    "length": 2.77,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "55": {
+    "name": "Dayz_Break",
+    "filename": "Dayz_Break_9A.wav",
+    "length": 1.41,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 1
+  },
+  "56": {
+    "name": "Desire_Break",
+    "filename": "Desire_Break_4A.wav",
+    "length": 3.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "57": {
+    "name": "Detroit_Break",
+    "filename": "Detroit_Break_5A.wav",
+    "length": 1.5,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 1
+  },
+  "58": {
+    "name": "Detroit_Percussion",
+    "filename": "Detroit_Percussion_4A.wav",
+    "length": 3.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "59": {
+    "name": "Difference_Break_1",
+    "filename": "Difference_Break_1_9A.wav",
+    "length": 1.41,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 1
+  },
+  "60": {
+    "name": "Difference_Break_2",
+    "filename": "Difference_Break_2_6A.wav",
+    "length": 2.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 2
+  },
+  "61": {
+    "name": "Dispatch_Break_2",
+    "filename": "Dispatch_Break_2_2A.wav",
+    "length": 2.88,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "62": {
+    "name": "Dispatch_Break",
+    "filename": "Dispatch_Break_6B.wav",
+    "length": 5.76,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6B",
+    "key": "Bb",
+    "bars": 4
+  },
+  "63": {
+    "name": "Drumz_Amen",
+    "filename": "Drumz_Amen.wav",
+    "length": 2.99,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "64": {
+    "name": "Drumz_Amen_Compound",
+    "filename": "Drumz_Amen_Compound_11A.wav",
+    "length": 3.09,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 2
+  },
+  "65": {
+    "name": "Effect_Break_2",
+    "filename": "Effect_Break_2_12A.wav",
+    "length": 1.5,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 1
+  },
+  "66": {
+    "name": "Effect_Break_3",
+    "filename": "Effect_Break_3_7A.wav",
+    "length": 1.5,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 1
+  },
+  "67": {
+    "name": "Effect_Break",
+    "filename": "Effect_Break_7A.wav",
+    "length": 6.06,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 4
+  },
+  "68": {
+    "name": "Enchanted_Break",
+    "filename": "Enchanted_Break_5A.wav",
+    "length": 6.4,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "69": {
+    "name": "Essential_Break",
+    "filename": "Essential_Break_8A.wav",
+    "length": 2.98,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 2
+  },
+  "70": {
+    "name": "Fairlight_Break",
+    "filename": "Fairlight_Break_9A.wav",
+    "length": 5.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 4
+  },
+  "71": {
+    "name": "Firin_Line_Break",
+    "filename": "Firin_Line_Break_3B.wav",
+    "length": 5.93,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "3B",
+    "key": "Db",
+    "bars": 4
+  },
+  "72": {
+    "name": "First_Contact_Amen",
+    "filename": "First_Contact_Amen.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "73": {
+    "name": "Flutes_Break",
+    "filename": "Flutes_Break_12A.wav",
+    "length": 1.49,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 1
+  },
+  "74": {
+    "name": "Fountain_Break",
+    "filename": "Fountain_Break_4A.wav",
+    "length": 5.71,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 4
+  },
+  "75": {
+    "name": "Friday_Break",
+    "filename": "Friday_Break_9A.wav",
+    "length": 2.8,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "76": {
+    "name": "Futureproof_Amen",
+    "filename": "Futureproof_Amen.wav",
+    "length": 5.75,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 4
+  },
+  "77": {
+    "name": "Games_Amen",
+    "filename": "Games_Amen.wav",
+    "length": 2.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "78": {
+    "name": "Gene_Break",
+    "filename": "Gene_Break_12A.wav",
+    "length": 1.41,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 1
+  },
+  "79": {
+    "name": "Gene_Break_2",
+    "filename": "Gene_Break_2.wav",
+    "length": 1.41,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "80": {
+    "name": "God_Chord_Break",
+    "filename": "God_Chord_Break_4A.wav",
+    "length": 1.5,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 1
+  },
+  "81": {
+    "name": "Good_Times_Break",
+    "filename": "Good_Times_Break.wav",
+    "length": 3.02,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "82": {
+    "name": "Gravitational_Break",
+    "filename": "Gravitational_Break.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "83": {
+    "name": "Groove_Therapy_Break",
+    "filename": "Groove_Therapy_Break_4A.wav",
+    "length": 2.81,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "84": {
+    "name": "Guess_Break",
+    "filename": "Guess_Break_1A.wav",
+    "length": 5.64,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 4
+  },
+  "85": {
+    "name": "Haze_Break",
+    "filename": "Haze_Break_6A.wav",
+    "length": 2.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 2
+  },
+  "86": {
+    "name": "Haze_Hybrid_Break",
+    "filename": "Haze_Hybrid_Break.wav",
+    "length": 2.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "87": {
+    "name": "Heaven_Break",
+    "filename": "Heaven_Break_5A.wav",
+    "length": 3.02,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "88": {
+    "name": "Heaven_Carl_Break",
+    "filename": "Heaven_Carl_Break_5A.wav",
+    "length": 2.98,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "89": {
+    "name": "Heli_Bongos",
+    "filename": "Heli_Bongos.wav",
+    "length": 1.46,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "90": {
+    "name": "Heli_Break",
+    "filename": "Heli_Break_2A.wav",
+    "length": 1.46,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 1
+  },
+  "91": {
+    "name": "Horn_Break",
+    "filename": "Horn_Break.wav",
+    "length": 2.93,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "92": {
+    "name": "Hurt_U_So_Break",
+    "filename": "Hurt_U_So_Break_1A.wav",
+    "length": 3.43,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 2
+  },
+  "93": {
+    "name": "Imagine_Break",
+    "filename": "Imagine_Break_4A.wav",
+    "length": 5.73,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 4
+  },
+  "94": {
+    "name": "Inner_Break",
+    "filename": "Inner_Break_9A.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "95": {
+    "name": "Intro_Amen",
+    "filename": "Intro_Amen.wav",
+    "length": 1.51,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "96": {
+    "name": "Jazz_Note_Break",
+    "filename": "Jazz_Note_Break_10A.wav",
+    "length": 3.1,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 2
+  },
+  "97": {
+    "name": "Jazz_Note_Break_2",
+    "filename": "Jazz_Note_Break_2.wav",
+    "length": 1.55,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "98": {
+    "name": "Jazz_Thing_Break",
+    "filename": "Jazz_Thing_Break.wav",
+    "length": 6.19,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 4
+  },
+  "99": {
+    "name": "Jazzy_Break",
+    "filename": "Jazzy_Break_9A.wav",
+    "length": 5.65,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 4
+  },
+  "100": {
+    "name": "Johnny_Amen",
+    "filename": "Johnny_Amen_11A.wav",
+    "length": 1.55,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 1
+  },
+  "101": {
+    "name": "Killa_Break",
+    "filename": "Killa_Break_4A.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "102": {
+    "name": "Let_Roll_Break",
+    "filename": "Let_Roll_Break.wav",
+    "length": 3.06,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "103": {
+    "name": "Let_There_Break",
+    "filename": "Let_There_Break.wav",
+    "length": 2.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "104": {
+    "name": "Let_There_Stutter_Break",
+    "filename": "Let_There_Stutter_Break_6A.wav",
+    "length": 1.42,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 1
+  },
+  "105": {
+    "name": "Liberty_Amen",
+    "filename": "Liberty_Amen.wav",
+    "length": 1.41,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "106": {
+    "name": "Lick_Break",
+    "filename": "Lick_Break_1A.wav",
+    "length": 2.74,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 2
+  },
+  "107": {
+    "name": "Lights_Break",
+    "filename": "Lights_Break.wav",
+    "length": 2.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "108": {
+    "name": "Limb_Break",
+    "filename": "Limb_Break_9A.wav",
+    "length": 2.75,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "109": {
+    "name": "Links_Break",
+    "filename": "Links_Break.wav",
+    "length": 3.1,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "110": {
+    "name": "Little_Roller_Amen",
+    "filename": "Little_Roller_Amen_7B.wav",
+    "length": 1.45,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7B",
+    "key": "F",
+    "bars": 1
+  },
+  "111": {
+    "name": "London_Break",
+    "filename": "London_Break_8A.wav",
+    "length": 1.5,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 1
+  },
+  "112": {
+    "name": "Mach_Break",
+    "filename": "Mach_Break_11A.wav",
+    "length": 2.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 2
+  },
+  "113": {
+    "name": "Machines_Break",
+    "filename": "Machines_Break_11A.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 2
+  },
+  "114": {
+    "name": "Maintain_Break",
+    "filename": "Maintain_Break_7A.wav",
+    "length": 1.45,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 1
+  },
+  "115": {
+    "name": "Marbles_Break",
+    "filename": "Marbles_Break_6A.wav",
+    "length": 2.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 2
+  },
+  "116": {
+    "name": "Massive_Amen",
+    "filename": "Massive_Amen_2A.wav",
+    "length": 2.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "117": {
+    "name": "Massive_Break",
+    "filename": "Massive_Break.wav",
+    "length": 2.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "118": {
+    "name": "Maximum_Booty_Break",
+    "filename": "Maximum_Booty_Break.wav",
+    "length": 1.5,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "119": {
+    "name": "Metropolis_Break",
+    "filename": "Metropolis_Break_7A.wav",
+    "length": 2.88,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "120": {
+    "name": "Moths_Break",
+    "filename": "Moths_Break_4A.wav",
+    "length": 5.79,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 4
+  },
+  "121": {
+    "name": "Mutant_Break",
+    "filename": "Mutant_Break_7B.wav",
+    "length": 2.92,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7B",
+    "key": "F",
+    "bars": 2
+  },
+  "122": {
+    "name": "My_Sound_Break_1",
+    "filename": "My_Sound_Break_1_2A.wav",
+    "length": 2.92,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "123": {
+    "name": "My_Sound_Break_2",
+    "filename": "My_Sound_Break_2_8A.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 2
+  },
+  "124": {
+    "name": "My_Sound_Break_3",
+    "filename": "My_Sound_Break_3_9A.wav",
+    "length": 5.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 4
+  },
+  "125": {
+    "name": "Mystical_Break",
+    "filename": "Mystical_Break.wav",
+    "length": 2.96,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "126": {
+    "name": "Mystique_Break",
+    "filename": "Mystique_Break_7A.wav",
+    "length": 2.93,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "127": {
+    "name": "Night_Break",
+    "filename": "Night_Break_7A.wav",
+    "length": 3.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "128": {
+    "name": "Night_Compound_Break",
+    "filename": "Night_Compound_Break_7A.wav",
+    "length": 3.01,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "129": {
+    "name": "Oh_Break",
+    "filename": "Oh_Break_1A.wav",
+    "length": 2.89,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 2
+  },
+  "130": {
+    "name": "Overcast_Break",
+    "filename": "Overcast_Break_4A.wav",
+    "length": 1.4,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 1
+  },
+  "131": {
+    "name": "Parallel_World_Break",
+    "filename": "Parallel_World_Break_12A.wav",
+    "length": 3.08,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 2
+  },
+  "132": {
+    "name": "Peace_Sign_Break",
+    "filename": "Peace_Sign_Break_2A.wav",
+    "length": 3.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "133": {
+    "name": "Pesh_Break",
+    "filename": "Pesh_Break_7A.wav",
+    "length": 6.14,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 4
+  },
+  "134": {
+    "name": "Physical_Break_2",
+    "filename": "Physical_Break_2.wav",
+    "length": 2.99,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "135": {
+    "name": "Physical_Break",
+    "filename": "Physical_Break_4A.wav",
+    "length": 1.5,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 1
+  },
+  "136": {
+    "name": "Pin_Up_Break",
+    "filename": "Pin_Up_Break.wav",
+    "length": 1.95,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "137": {
+    "name": "Piper_Break",
+    "filename": "Piper_Break_4A.wav",
+    "length": 1.46,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 1
+  },
+  "138": {
+    "name": "Place_Break",
+    "filename": "Place_Break_5A.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "139": {
+    "name": "Playboy_Break",
+    "filename": "Playboy_Break_6B.wav",
+    "length": 6.01,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6B",
+    "key": "Bb",
+    "bars": 4
+  },
+  "140": {
+    "name": "Possible_Worlds_Break",
+    "filename": "Possible_Worlds_Break_5A.wav",
+    "length": 2.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "141": {
+    "name": "Pressin_Break",
+    "filename": "Pressin_Break_8A.wav",
+    "length": 2.95,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 2
+  },
+  "142": {
+    "name": "Prog_Amen",
+    "filename": "Prog_Amen_8A.wav",
+    "length": 5.85,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 4
+  },
+  "143": {
+    "name": "Prog_Break",
+    "filename": "Prog_Break.wav",
+    "length": 5.85,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 4
+  },
+  "144": {
+    "name": "Promenade_Break",
+    "filename": "Promenade_Break.wav",
+    "length": 2.76,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "145": {
+    "name": "Quest_Break",
+    "filename": "Quest_Break.wav",
+    "length": 1.46,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "146": {
+    "name": "Rainfall_Lite_Break",
+    "filename": "Rainfall_Lite_Break.wav",
+    "length": 1.5,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "147": {
+    "name": "Reach_Break",
+    "filename": "Reach_Break_4A.wav",
+    "length": 1.41,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 1
+  },
+  "148": {
+    "name": "Reckon_Break",
+    "filename": "Reckon_Break_9A.wav",
+    "length": 1.41,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 1
+  },
+  "149": {
+    "name": "Reel_Funk_Amen",
+    "filename": "Reel_Funk_Amen_2A.wav",
+    "length": 2.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "150": {
+    "name": "Reel_Funk_Roller",
+    "filename": "Reel_Funk_Roller_12A.wav",
+    "length": 2.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 2
+  },
+  "151": {
+    "name": "Reflections_Break",
+    "filename": "Reflections_Break_7A.wav",
+    "length": 3.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "152": {
+    "name": "Repetoire_Break",
+    "filename": "Repetoire_Break_6A.wav",
+    "length": 5.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 4
+  },
+  "153": {
+    "name": "Resolution_Break",
+    "filename": "Resolution_Break_5A.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "154": {
+    "name": "Revelation_Amen",
+    "filename": "Revelation_Amen_2A.wav",
+    "length": 1.51,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 1
+  },
+  "155": {
+    "name": "Ricochet_Break",
+    "filename": "Ricochet_Break_9A.wav",
+    "length": 2.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "156": {
+    "name": "Right_Break",
+    "filename": "Right_Break_6A.wav",
+    "length": 3.68,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 2
+  },
+  "157": {
+    "name": "Rise_Amen",
+    "filename": "Rise_Amen_2A.wav",
+    "length": 5.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 4
+  },
+  "158": {
+    "name": "Rock_Amen",
+    "filename": "Rock_Amen_12A.wav",
+    "length": 1.37,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 1
+  },
+  "159": {
+    "name": "Rock_Amen_2",
+    "filename": "Rock_Amen_2_12A.wav",
+    "length": 2.74,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 2
+  },
+  "160": {
+    "name": "Roll_On_Roll_2",
+    "filename": "Roll_On_Roll_2_10A.wav",
+    "length": 2.86,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 2
+  },
+  "161": {
+    "name": "Roll_On_Roll_3",
+    "filename": "Roll_On_Roll_3.wav",
+    "length": 2.85,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "162": {
+    "name": "Roll_On_Roll",
+    "filename": "Roll_On_Roll_9A.wav",
+    "length": 1.42,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 1
+  },
+  "163": {
+    "name": "Rumble_Break",
+    "filename": "Rumble_Break_10A.wav",
+    "length": 1.37,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "10A",
+    "key": "B",
+    "bars": 1
+  },
+  "164": {
+    "name": "Searchin_Break_2",
+    "filename": "Searchin_Break_2_9A.wav",
+    "length": 2.74,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "165": {
+    "name": "Searchin_Break_3",
+    "filename": "Searchin_Break_3_9A.wav",
+    "length": 2.74,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "166": {
+    "name": "Searchin_Break",
+    "filename": "Searchin_Break_5A.wav",
+    "length": 5.49,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 4
+  },
+  "167": {
+    "name": "Seatown_Break",
+    "filename": "Seatown_Break_6B.wav",
+    "length": 5.67,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6B",
+    "key": "Bb",
+    "bars": 4
+  },
+  "168": {
+    "name": "Secrets_Amen",
+    "filename": "Secrets_Amen_7A.wav",
+    "length": 1.39,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 1
+  },
+  "169": {
+    "name": "Session_Break",
+    "filename": "Session_Break_8A.wav",
+    "length": 1.46,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 1
+  },
+  "170": {
+    "name": "Shock_Break",
+    "filename": "Shock_Break.wav",
+    "length": 2.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "171": {
+    "name": "Shock_Filter_Break",
+    "filename": "Shock_Filter_Break.wav",
+    "length": 5.65,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 4
+  },
+  "172": {
+    "name": "Shoes_Break",
+    "filename": "Shoes_Break_4A.wav",
+    "length": 5.72,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 4
+  },
+  "173": {
+    "name": "Sight_Break",
+    "filename": "Sight_Break_6A.wav",
+    "length": 2.81,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 2
+  },
+  "174": {
+    "name": "Sky_Break",
+    "filename": "Sky_Break_9A.wav",
+    "length": 1.44,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 1
+  },
+  "175": {
+    "name": "Solar_Break",
+    "filename": "Solar_Break_11A.wav",
+    "length": 1.49,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 1
+  },
+  "176": {
+    "name": "Sonic_Amen",
+    "filename": "Sonic_Amen_7A.wav",
+    "length": 1.49,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 1
+  },
+  "177": {
+    "name": "Sonic_Break_2",
+    "filename": "Sonic_Break_2_4A.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "178": {
+    "name": "Sonic_Break",
+    "filename": "Sonic_Break_4A.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "179": {
+    "name": "Sound_Control_Break",
+    "filename": "Sound_Control_Break.wav",
+    "length": 5.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 4
+  },
+  "180": {
+    "name": "Sound_Murderer_Amen",
+    "filename": "Sound_Murderer_Amen_9A.wav",
+    "length": 5.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 4
+  },
+  "181": {
+    "name": "Sovreign_Break",
+    "filename": "Sovreign_Break_7B.wav",
+    "length": 2.98,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7B",
+    "key": "F",
+    "bars": 2
+  },
+  "182": {
+    "name": "Space_Age_Break",
+    "filename": "Space_Age_Break_5A.wav",
+    "length": 1.37,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 1
+  },
+  "183": {
+    "name": "Stepper_Amen",
+    "filename": "Stepper_Amen.wav",
+    "length": 2.98,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "184": {
+    "name": "Stepper_Break",
+    "filename": "Stepper_Break.wav",
+    "length": 2.96,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "185": {
+    "name": "Still_Break",
+    "filename": "Still_Break_7A.wav",
+    "length": 1.39,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 1
+  },
+  "186": {
+    "name": "Stone_Break",
+    "filename": "Stone_Break.wav",
+    "length": 2.93,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "187": {
+    "name": "Sunset_Break",
+    "filename": "Sunset_Break_6A.wav",
+    "length": 2.87,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 2
+  },
+  "188": {
+    "name": "System_Break",
+    "filename": "System_Break.wav",
+    "length": 1.45,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 1
+  },
+  "189": {
+    "name": "Take_You_Break",
+    "filename": "Take_You_Break.wav",
+    "length": 3.48,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "190": {
+    "name": "Tear_Apache",
+    "filename": "Tear_Apache_4A.wav",
+    "length": 2.84,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "191": {
+    "name": "Tear_Break_2",
+    "filename": "Tear_Break_2.wav",
+    "length": 2.76,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "192": {
+    "name": "Tear_Break",
+    "filename": "Tear_Break_2A.wav",
+    "length": 2.84,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "193": {
+    "name": "Technology_Break",
+    "filename": "Technology_Break_9A.wav",
+    "length": 1.44,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 1
+  },
+  "194": {
+    "name": "Ten_Break_2",
+    "filename": "Ten_Break_2_7A.wav",
+    "length": 3.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "195": {
+    "name": "Ten_Break",
+    "filename": "Ten_Break_7A.wav",
+    "length": 1.51,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 1
+  },
+  "196": {
+    "name": "Terrain_Break_2",
+    "filename": "Terrain_Break_2_2A.wav",
+    "length": 2.8,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "197": {
+    "name": "Terrain_Break",
+    "filename": "Terrain_Break_4A.wav",
+    "length": 2.8,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "198": {
+    "name": "Terrorist_Amen",
+    "filename": "Terrorist_Amen_11A.wav",
+    "length": 3.2,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 2
+  },
+  "199": {
+    "name": "Travelling_Break",
+    "filename": "Travelling_Break_11A.wav",
+    "length": 1.5,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 1
+  },
+  "200": {
+    "name": "Trippin_Break_2",
+    "filename": "Trippin_Break_2_7A.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "7A",
+    "key": "D",
+    "bars": 2
+  },
+  "201": {
+    "name": "Trippin_Break",
+    "filename": "Trippin_Break_9A.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "202": {
+    "name": "Tronik_Break",
+    "filename": "Tronik_Break_4A.wav",
+    "length": 1.77,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 1
+  },
+  "203": {
+    "name": "True_Break",
+    "filename": "True_Break.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "204": {
+    "name": "Vapour_Break",
+    "filename": "Vapour_Break.wav",
+    "length": 2.86,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "205": {
+    "name": "Voyage_Break",
+    "filename": "Voyage_Break_5A.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "206": {
+    "name": "Walk_Break_2",
+    "filename": "Walk_Break_2_12A.wav",
+    "length": 1.4,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "12A",
+    "key": "Db",
+    "bars": 1
+  },
+  "207": {
+    "name": "Walk_Break_3",
+    "filename": "Walk_Break_3_9A.wav",
+    "length": 1.4,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 1
+  },
+  "208": {
+    "name": "Walk_Break",
+    "filename": "Walk_Break_8A.wav",
+    "length": 2.79,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8A",
+    "key": "A",
+    "bars": 2
+  },
+  "209": {
+    "name": "War_Break",
+    "filename": "War_Break_5A.wav",
+    "length": 2.86,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 2
+  },
+  "210": {
+    "name": "Warhead_Break_2",
+    "filename": "Warhead_Break_2_9A.wav",
+    "length": 2.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "211": {
+    "name": "Warhead_Break",
+    "filename": "Warhead_Break_2A.wav",
+    "length": 2.82,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "2A",
+    "key": "Eb",
+    "bars": 2
+  },
+  "212": {
+    "name": "Warned_Break",
+    "filename": "Warned_Break_4A.wav",
+    "length": 2.77,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "213": {
+    "name": "Warning_Compound",
+    "filename": "Warning_Compound_11A.wav",
+    "length": 2.93,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 2
+  },
+  "214": {
+    "name": "Warning_Copter",
+    "filename": "Warning_Copter_11A.wav",
+    "length": 1.46,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "11A",
+    "key": "Gb",
+    "bars": 1
+  },
+  "215": {
+    "name": "WarPeace_Break",
+    "filename": "WarPeace_Break.wav",
+    "length": 2.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "216": {
+    "name": "Way_Break",
+    "filename": "Way_Break.wav",
+    "length": 2.99,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "217": {
+    "name": "Wheel_Up_2_Bad",
+    "filename": "Wheel_Up_2_Bad.wav",
+    "length": 2.81,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "218": {
+    "name": "Wheel_Up_Amen",
+    "filename": "Wheel_Up_Amen_6A.wav",
+    "length": 3.0,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "6A",
+    "key": "G",
+    "bars": 2
+  },
+  "219": {
+    "name": "Worries_Break",
+    "filename": "Worries_Break_1A.wav",
+    "length": 1.43,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "1A",
+    "key": "Ab",
+    "bars": 1
+  },
+  "220": {
+    "name": "Your_Amen_2",
+    "filename": "Your_Amen_2_9A.wav",
+    "length": 2.92,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "9A",
+    "key": "E",
+    "bars": 2
+  },
+  "221": {
+    "name": "Your_Amen",
+    "filename": "Your_Amen_4A.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "4A",
+    "key": "F",
+    "bars": 2
+  },
+  "222": {
+    "name": "Your_Break",
+    "filename": "Your_Break_8B.wav",
+    "length": 2.91,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "8B",
+    "key": "C",
+    "bars": 2
+  },
+  "223": {
+    "name": "Zone_Break",
+    "filename": "Zone_Break.wav",
+    "length": 2.83,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "",
+    "key": "C",
+    "bars": 2
+  },
+  "224": {
+    "name": "Zone_Break_2",
+    "filename": "Zone_Break_2_5A.wav",
+    "length": 1.42,
+    "sample_rate": 44100,
+    "channels": 2,
+    "camelot_key": "5A",
+    "key": "C",
+    "bars": 1
+  }
+}

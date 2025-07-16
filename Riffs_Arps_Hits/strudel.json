@@ -1,6 +1,783 @@
 {
-  "_base":"https://raw.githubusercontent.com/sonidosingapura/blu-mar-ten/main/",
-  "riffs_arps_hits": [
-    "19_Synth_4A.wav","40_Miles_Glock_9A.wav","40_Miles_Piano_3B.wav","Alpha_Hit_4A.wav","Alzir_Chord_9A.wav","Apollo_Hello_12A.wav","Arabian_Drone_5A.wav","Atlantis_Harp_6A.wav","Awesome_Piano_3B.wav","Bad_Orch_Hit_5A.wav","Beatnik_Riffs_5A.wav","Beep_Rhodes_5B.wav","Bell_Bells_5A.wav","Bell_Bongos_8A.wav","Blue_Synth_8A.wav","Bomb_Rhodes_4A.wav","Bouncer_Stab_1A.wav","Breeze_Chord_7A.wav","Bulldozer_Synths_3A.wav","Calling_Horn_2A.wav","Calm_String_Hit_9A.wav","Camo_Arp_3A.wav","Careless_Synth_5A.wav","Change_Chord_7A.wav","Chase_Chord_11A.wav","Chime_Bells_12B.wav","Connected_Flute_6A.wav","Connected_Trumpet_6A.wav","Control_Loop_7A.wav","Control_Stab_10B.wav","Control_Stab_2_6B.wav","Darkness_Stabs_7A.wav","Deep_Keys_6A.wav","Detroit_Beep_Synth_3A.wav","Detroit_Rush_6B.wav","Detroit_Synth_5B.wav","Different_Chord_8A.wav","Dispatch_Reich_10A.wav","Dope_Keys_2B.wav","Dreams_Chord_12A.wav","Dreams_Pad_11A.wav","Effect_HardChords_5B.wav","Effect_Strings_5A.wav","Essential_Synth_12A.wav","Eterna_Clav_8A.wav","Face_Metal_Hits_7A.wav","Feenin_Piano_2A.wav","Fire_Stab_2B.wav","Firin_Line_Rhodes_10A.wav","Flutes_Flute_12A.wav","Flutes_Rhodes_7A.wav","Freedom_Orgs_9B.wav","Ghost_Strings_12A.wav","Global_Gtr_1A.wav","God_Chord_7A.wav","God_Chord_Duo_5A.wav","God_Chord_Vox_Pads_7A.wav","Gravitational_Chord_9A.wav","Green_Synth_6A.wav","Grey_Chord_11A.wav","Head_Keys_3A.wav","Headless_Strings_5A.wav","Horizontal_Trumpet_7A.wav","Horn_Theme_7B.wav","Jazz_Thing_Hit_6A.wav","Jazzy_Chord_7A.wav","Knives_Stab_10A.wav","Let_There_Brass_5A.wav","Liberty_Chord_8A.wav","Lights_Chord_2A.wav","Link_Rhodes_1_3A.wav","Link_Rhodes_2_3A.wav","Little_Roller_Sharp_Pad_3A.wav","Love_Arp_9A.wav","Mars_Hit_5A.wav","Maximum_Gtr_7A.wav","Miss_Me_Piano_12A.wav","Moomin_Piano_5A.wav","Moves_Rise_2A.wav","Moves_Stutter_Synth_1A.wav","Mystical_Chord_6A.wav","Never_As_Good_Horn_8A.wav","Night_Train_Gate_Riff_7A.wav","Overcast_Guitar_1B.wav","Overhead_Hit_2A.wav","Pesh_Arp_10A.wav","Pin_Up_Piano_7B.wav","Place_Synth_2A.wav","Playboy_Rhodes_9A.wav","Possible_Worlds_Whistle_7A.wav","Promenade_Vox_Synths_11B.wav","Raven_Hit_4A.wav","Reckon_String_9A.wav","Reed_Breath_Flute_5A.wav","Reed_Hit_7A.wav","Reel_Funk_Wah_10B.wav","Repetoire_Flute_2A.wav","Right_Bass_Mentasm_10A.wav","Right_Piano_3A.wav","Roll_Dancehall_12A.wav","Secrets_Hit_7A.wav","Sensi_Signal_4B.wav","Session_Hits_7B.wav","Session_Shout_4A.wav","Sky_Hit_5A.wav","Solar_Chord_12B.wav","Solar_Gtr_String_12B.wav","Solution_Synth_5A.wav","Some_Justice_Hardcore_Hit_10A.wav","Sonic_Burble_5A.wav","Soul_Chord_4B.wav","Sovreign_Guitar_10A.wav","Sovreign_Rhodes_10A.wav","Sovreign_Wah_5A.wav","Spiritual_Keys.wav","Stepper_Keys_2_11A.wav","Stepper_Keys_9A.wav","Sweet_Arp_1A.wav","Sweet_Sunshine_Strum_5A.wav","System_Arps_10B.wav","Tear_Lead_1B.wav","Technology_Ana_Stab_5A.wav","Ten_Wibble_9B.wav","Times_Stab_5B.wav","Tip_Stab_11B.wav","Tone_Tune_Tones_7A.wav","Traenon_Rhodes_11B.wav","Vulture_Chord_9B.wav","War_Reggae_10A.wav","Wash_Flute_8A.wav"
-  ]
+  "_base": "https://raw.githubusercontent.com/sonidosingapura/blu-mar-ten/main/Riffs_Arps_Hits/",
+  "bmt_riffs_1": {
+    "f3": "19_Synth_4A.wav"
+  },
+  "bmt_19_synth": {
+    "f3": "19_Synth_4A.wav"
+  },
+  "bmt_riffs_2": {
+    "e3": "40_Miles_Glock_9A.wav"
+  },
+  "bmt_40_miles_glock": {
+    "e3": "40_Miles_Glock_9A.wav"
+  },
+  "bmt_riffs_3": {
+    "db3": "40_Miles_Piano_3B.wav"
+  },
+  "bmt_40_miles_piano": {
+    "db3": "40_Miles_Piano_3B.wav"
+  },
+  "bmt_riffs_4": {
+    "f4": "Alpha_Hit_4A.wav"
+  },
+  "bmt_alpha_hit": {
+    "f4": "Alpha_Hit_4A.wav"
+  },
+  "bmt_riffs_5": {
+    "e3": "Alzir_Chord_9A.wav"
+  },
+  "bmt_alzir_chord": {
+    "e3": "Alzir_Chord_9A.wav"
+  },
+  "bmt_riffs_6": {
+    "db4": "Apollo_Hello_12A.wav"
+  },
+  "bmt_apollo_hello": {
+    "db4": "Apollo_Hello_12A.wav"
+  },
+  "bmt_riffs_7": {
+    "c4": "Arabian_Drone_5A.wav"
+  },
+  "bmt_arabian_drone": {
+    "c4": "Arabian_Drone_5A.wav"
+  },
+  "bmt_riffs_8": {
+    "g4": "Atlantis_Harp_6A.wav"
+  },
+  "bmt_atlantis_harp": {
+    "g4": "Atlantis_Harp_6A.wav"
+  },
+  "bmt_riffs_9": {
+    "db3": "Awesome_Piano_3B.wav"
+  },
+  "bmt_awesome_piano": {
+    "db3": "Awesome_Piano_3B.wav"
+  },
+  "bmt_riffs_10": {
+    "c3": "Bad_Orch_Hit_5A.wav"
+  },
+  "bmt_bad_orch_hit": {
+    "c3": "Bad_Orch_Hit_5A.wav"
+  },
+  "bmt_riffs_11": {
+    "c4": "Beatnik_Riffs_5A.wav"
+  },
+  "bmt_beatnik_riffs": {
+    "c4": "Beatnik_Riffs_5A.wav"
+  },
+  "bmt_riffs_12": {
+    "eb4": "Beep_Rhodes_5B.wav"
+  },
+  "bmt_beep_rhodes": {
+    "eb4": "Beep_Rhodes_5B.wav"
+  },
+  "bmt_riffs_13": {
+    "c3": "Bell_Bells_5A.wav"
+  },
+  "bmt_bell_bells": {
+    "c3": "Bell_Bells_5A.wav"
+  },
+  "bmt_riffs_14": {
+    "a4": "Bell_Bongos_8A.wav"
+  },
+  "bmt_bell_bongos": {
+    "a4": "Bell_Bongos_8A.wav"
+  },
+  "bmt_riffs_15": {
+    "a3": "Blue_Synth_8A.wav"
+  },
+  "bmt_blue_synth": {
+    "a3": "Blue_Synth_8A.wav"
+  },
+  "bmt_riffs_16": {
+    "f4": "Bomb_Rhodes_4A.wav"
+  },
+  "bmt_bomb_rhodes": {
+    "f4": "Bomb_Rhodes_4A.wav"
+  },
+  "bmt_riffs_17": {
+    "ab3": "Bouncer_Stab_1A.wav"
+  },
+  "bmt_bouncer_stab": {
+    "ab3": "Bouncer_Stab_1A.wav"
+  },
+  "bmt_riffs_18": {
+    "d4": "Breeze_Chord_7A.wav"
+  },
+  "bmt_breeze_chord": {
+    "d4": "Breeze_Chord_7A.wav"
+  },
+  "bmt_riffs_19": {
+    "bb3": "Bulldozer_Synths_3A.wav"
+  },
+  "bmt_bulldozer_synths": {
+    "bb3": "Bulldozer_Synths_3A.wav"
+  },
+  "bmt_riffs_20": {
+    "eb4": "Calling_Horn_2A.wav"
+  },
+  "bmt_calling_horn": {
+    "eb4": "Calling_Horn_2A.wav"
+  },
+  "bmt_riffs_21": {
+    "e3": "Calm_String_Hit_9A.wav"
+  },
+  "bmt_calm_string_hit": {
+    "e3": "Calm_String_Hit_9A.wav"
+  },
+  "bmt_riffs_22": {
+    "bb4": "Camo_Arp_3A.wav"
+  },
+  "bmt_camo_arp": {
+    "bb4": "Camo_Arp_3A.wav"
+  },
+  "bmt_riffs_23": {
+    "c4": "Careless_Synth_5A.wav"
+  },
+  "bmt_careless_synth": {
+    "c4": "Careless_Synth_5A.wav"
+  },
+  "bmt_riffs_24": {
+    "d3": "Change_Chord_7A.wav"
+  },
+  "bmt_change_chord": {
+    "d3": "Change_Chord_7A.wav"
+  },
+  "bmt_riffs_25": {
+    "gb4": "Chase_Chord_11A.wav"
+  },
+  "bmt_chase_chord": {
+    "gb4": "Chase_Chord_11A.wav"
+  },
+  "bmt_riffs_26": {
+    "e3": "Chime_Bells_12B.wav"
+  },
+  "bmt_chime_bells": {
+    "e3": "Chime_Bells_12B.wav"
+  },
+  "bmt_riffs_27": {
+    "g3": "Connected_Flute_6A.wav"
+  },
+  "bmt_connected_flute": {
+    "g3": "Connected_Flute_6A.wav"
+  },
+  "bmt_riffs_28": {
+    "g4": "Connected_Trumpet_6A.wav"
+  },
+  "bmt_connected_trumpet": {
+    "g4": "Connected_Trumpet_6A.wav"
+  },
+  "bmt_riffs_29": {
+    "d3": "Control_Loop_7A.wav"
+  },
+  "bmt_control_loop": {
+    "d3": "Control_Loop_7A.wav"
+  },
+  "bmt_riffs_30": {
+    "d3": "Control_Stab_10B.wav"
+  },
+  "bmt_control_stab": {
+    "d3": "Control_Stab_10B.wav"
+  },
+  "bmt_riffs_31": {
+    "bb3": "Control_Stab_2_6B.wav"
+  },
+  "bmt_control_stab_2": {
+    "bb3": "Control_Stab_2_6B.wav"
+  },
+  "bmt_riffs_32": {
+    "d3": "Darkness_Stabs_7A.wav"
+  },
+  "bmt_darkness_stabs": {
+    "d3": "Darkness_Stabs_7A.wav"
+  },
+  "bmt_riffs_33": {
+    "g4": "Deep_Keys_6A.wav"
+  },
+  "bmt_deep_keys": {
+    "g4": "Deep_Keys_6A.wav"
+  },
+  "bmt_riffs_34": {
+    "bb3": "Detroit_Beep_Synth_3A.wav"
+  },
+  "bmt_detroit_beep_synth": {
+    "bb3": "Detroit_Beep_Synth_3A.wav"
+  },
+  "bmt_riffs_35": {
+    "bb3": "Detroit_Rush_6B.wav"
+  },
+  "bmt_detroit_rush": {
+    "bb3": "Detroit_Rush_6B.wav"
+  },
+  "bmt_riffs_36": {
+    "eb3": "Detroit_Synth_5B.wav"
+  },
+  "bmt_detroit_synth": {
+    "eb3": "Detroit_Synth_5B.wav"
+  },
+  "bmt_riffs_37": {
+    "a3": "Different_Chord_8A.wav"
+  },
+  "bmt_different_chord": {
+    "a3": "Different_Chord_8A.wav"
+  },
+  "bmt_riffs_38": {
+    "b4": "Dispatch_Reich_10A.wav"
+  },
+  "bmt_dispatch_reich": {
+    "b4": "Dispatch_Reich_10A.wav"
+  },
+  "bmt_riffs_39": {
+    "gb3": "Dope_Keys_2B.wav"
+  },
+  "bmt_dope_keys": {
+    "gb3": "Dope_Keys_2B.wav"
+  },
+  "bmt_riffs_40": {
+    "db3": "Dreams_Chord_12A.wav"
+  },
+  "bmt_dreams_chord": {
+    "db3": "Dreams_Chord_12A.wav"
+  },
+  "bmt_riffs_41": {
+    "gb4": "Dreams_Pad_11A.wav"
+  },
+  "bmt_dreams_pad": {
+    "gb4": "Dreams_Pad_11A.wav"
+  },
+  "bmt_riffs_42": {
+    "eb3": "Effect_HardChords_5B.wav"
+  },
+  "bmt_effect_hardchords": {
+    "eb3": "Effect_HardChords_5B.wav"
+  },
+  "bmt_riffs_43": {
+    "c3": "Effect_Strings_5A.wav"
+  },
+  "bmt_effect_strings": {
+    "c3": "Effect_Strings_5A.wav"
+  },
+  "bmt_riffs_44": {
+    "db3": "Essential_Synth_12A.wav"
+  },
+  "bmt_essential_synth": {
+    "db3": "Essential_Synth_12A.wav"
+  },
+  "bmt_riffs_45": {
+    "a3": "Eterna_Clav_8A.wav"
+  },
+  "bmt_eterna_clav": {
+    "a3": "Eterna_Clav_8A.wav"
+  },
+  "bmt_riffs_46": {
+    "d3": "Face_Metal_Hits_7A.wav"
+  },
+  "bmt_face_metal_hits": {
+    "d3": "Face_Metal_Hits_7A.wav"
+  },
+  "bmt_riffs_47": {
+    "eb4": "Feenin_Piano_2A.wav"
+  },
+  "bmt_feenin_piano": {
+    "eb4": "Feenin_Piano_2A.wav"
+  },
+  "bmt_riffs_48": {
+    "gb3": "Fire_Stab_2B.wav"
+  },
+  "bmt_fire_stab": {
+    "gb3": "Fire_Stab_2B.wav"
+  },
+  "bmt_riffs_49": {
+    "b3": "Firin_Line_Rhodes_10A.wav"
+  },
+  "bmt_firin_line_rhodes": {
+    "b3": "Firin_Line_Rhodes_10A.wav"
+  },
+  "bmt_riffs_50": {
+    "db3": "Flutes_Flute_12A.wav"
+  },
+  "bmt_flutes_flute": {
+    "db3": "Flutes_Flute_12A.wav"
+  },
+  "bmt_riffs_51": {
+    "d3": "Flutes_Rhodes_7A.wav"
+  },
+  "bmt_flutes_rhodes": {
+    "d3": "Flutes_Rhodes_7A.wav"
+  },
+  "bmt_riffs_52": {
+    "g3": "Freedom_Orgs_9B.wav"
+  },
+  "bmt_freedom_orgs": {
+    "g3": "Freedom_Orgs_9B.wav"
+  },
+  "bmt_riffs_53": {
+    "db3": "Ghost_Strings_12A.wav"
+  },
+  "bmt_ghost_strings": {
+    "db3": "Ghost_Strings_12A.wav"
+  },
+  "bmt_riffs_54": {
+    "ab3": "Global_Gtr_1A.wav"
+  },
+  "bmt_global_gtr": {
+    "ab3": "Global_Gtr_1A.wav"
+  },
+  "bmt_riffs_55": {
+    "d3": "God_Chord_7A.wav"
+  },
+  "bmt_god_chord": {
+    "d3": "God_Chord_7A.wav"
+  },
+  "bmt_riffs_56": {
+    "c3": "God_Chord_Duo_5A.wav"
+  },
+  "bmt_god_chord_duo": {
+    "c3": "God_Chord_Duo_5A.wav"
+  },
+  "bmt_riffs_57": {
+    "d4": "God_Chord_Vox_Pads_7A.wav"
+  },
+  "bmt_god_chord_vox_pads": {
+    "d4": "God_Chord_Vox_Pads_7A.wav"
+  },
+  "bmt_riffs_58": {
+    "e4": "Gravitational_Chord_9A.wav"
+  },
+  "bmt_gravitational_chord": {
+    "e4": "Gravitational_Chord_9A.wav"
+  },
+  "bmt_riffs_59": {
+    "g3": "Green_Synth_6A.wav"
+  },
+  "bmt_green_synth": {
+    "g3": "Green_Synth_6A.wav"
+  },
+  "bmt_riffs_60": {
+    "gb3": "Grey_Chord_11A.wav"
+  },
+  "bmt_grey_chord": {
+    "gb3": "Grey_Chord_11A.wav"
+  },
+  "bmt_riffs_61": {
+    "bb3": "Head_Keys_3A.wav"
+  },
+  "bmt_head_keys": {
+    "bb3": "Head_Keys_3A.wav"
+  },
+  "bmt_riffs_62": {
+    "c3": "Headless_Strings_5A.wav"
+  },
+  "bmt_headless_strings": {
+    "c3": "Headless_Strings_5A.wav"
+  },
+  "bmt_riffs_63": {
+    "d3": "Horizontal_Trumpet_7A.wav"
+  },
+  "bmt_horizontal_trumpet": {
+    "d3": "Horizontal_Trumpet_7A.wav"
+  },
+  "bmt_riffs_64": {
+    "f4": "Horn_Theme_7B.wav"
+  },
+  "bmt_horn_theme": {
+    "f4": "Horn_Theme_7B.wav"
+  },
+  "bmt_riffs_65": {
+    "g3": "Jazz_Thing_Hit_6A.wav"
+  },
+  "bmt_jazz_thing_hit": {
+    "g3": "Jazz_Thing_Hit_6A.wav"
+  },
+  "bmt_riffs_66": {
+    "d3": "Jazzy_Chord_7A.wav"
+  },
+  "bmt_jazzy_chord": {
+    "d3": "Jazzy_Chord_7A.wav"
+  },
+  "bmt_riffs_67": {
+    "b3": "Knives_Stab_10A.wav"
+  },
+  "bmt_knives_stab": {
+    "b3": "Knives_Stab_10A.wav"
+  },
+  "bmt_riffs_68": {
+    "c4": "Let_There_Brass_5A.wav"
+  },
+  "bmt_let_there_brass": {
+    "c4": "Let_There_Brass_5A.wav"
+  },
+  "bmt_riffs_69": {
+    "a3": "Liberty_Chord_8A.wav"
+  },
+  "bmt_liberty_chord": {
+    "a3": "Liberty_Chord_8A.wav"
+  },
+  "bmt_riffs_70": {
+    "eb3": "Lights_Chord_2A.wav"
+  },
+  "bmt_lights_chord": {
+    "eb3": "Lights_Chord_2A.wav"
+  },
+  "bmt_riffs_71": {
+    "bb4": "Link_Rhodes_1_3A.wav"
+  },
+  "bmt_link_rhodes_1": {
+    "bb4": "Link_Rhodes_1_3A.wav"
+  },
+  "bmt_riffs_72": {
+    "bb4": "Link_Rhodes_2_3A.wav"
+  },
+  "bmt_link_rhodes_2": {
+    "bb4": "Link_Rhodes_2_3A.wav"
+  },
+  "bmt_riffs_73": {
+    "bb3": "Little_Roller_Sharp_Pad_3A.wav"
+  },
+  "bmt_little_roller_sharp_pad": {
+    "bb3": "Little_Roller_Sharp_Pad_3A.wav"
+  },
+  "bmt_riffs_74": {
+    "e3": "Love_Arp_9A.wav"
+  },
+  "bmt_love_arp": {
+    "e3": "Love_Arp_9A.wav"
+  },
+  "bmt_riffs_75": {
+    "c4": "Mars_Hit_5A.wav"
+  },
+  "bmt_mars_hit": {
+    "c4": "Mars_Hit_5A.wav"
+  },
+  "bmt_riffs_76": {
+    "d3": "Maximum_Gtr_7A.wav"
+  },
+  "bmt_maximum_gtr": {
+    "d3": "Maximum_Gtr_7A.wav"
+  },
+  "bmt_riffs_77": {
+    "db3": "Miss_Me_Piano_12A.wav"
+  },
+  "bmt_miss_me_piano": {
+    "db3": "Miss_Me_Piano_12A.wav"
+  },
+  "bmt_riffs_78": {
+    "c4": "Moomin_Piano_5A.wav"
+  },
+  "bmt_moomin_piano": {
+    "c4": "Moomin_Piano_5A.wav"
+  },
+  "bmt_riffs_79": {
+    "eb4": "Moves_Rise_2A.wav"
+  },
+  "bmt_moves_rise": {
+    "eb4": "Moves_Rise_2A.wav"
+  },
+  "bmt_riffs_80": {
+    "ab4": "Moves_Stutter_Synth_1A.wav"
+  },
+  "bmt_moves_stutter_synth": {
+    "ab4": "Moves_Stutter_Synth_1A.wav"
+  },
+  "bmt_riffs_81": {
+    "g3": "Mystical_Chord_6A.wav"
+  },
+  "bmt_mystical_chord": {
+    "g3": "Mystical_Chord_6A.wav"
+  },
+  "bmt_riffs_82": {
+    "a3": "Never_As_Good_Horn_8A.wav"
+  },
+  "bmt_never_as_good_horn": {
+    "a3": "Never_As_Good_Horn_8A.wav"
+  },
+  "bmt_riffs_83": {
+    "d3": "Night_Train_Gate_Riff_7A.wav"
+  },
+  "bmt_night_train_gate_riff": {
+    "d3": "Night_Train_Gate_Riff_7A.wav"
+  },
+  "bmt_riffs_84": {
+    "b4": "Overcast_Guitar_1B.wav"
+  },
+  "bmt_overcast_guitar": {
+    "b4": "Overcast_Guitar_1B.wav"
+  },
+  "bmt_riffs_85": {
+    "eb3": "Overhead_Hit_2A.wav"
+  },
+  "bmt_overhead_hit": {
+    "eb3": "Overhead_Hit_2A.wav"
+  },
+  "bmt_riffs_86": {
+    "b3": "Pesh_Arp_10A.wav"
+  },
+  "bmt_pesh_arp": {
+    "b3": "Pesh_Arp_10A.wav"
+  },
+  "bmt_riffs_87": {
+    "f3": "Pin_Up_Piano_7B.wav"
+  },
+  "bmt_pin_up_piano": {
+    "f3": "Pin_Up_Piano_7B.wav"
+  },
+  "bmt_riffs_88": {
+    "eb3": "Place_Synth_2A.wav"
+  },
+  "bmt_place_synth": {
+    "eb3": "Place_Synth_2A.wav"
+  },
+  "bmt_riffs_89": {
+    "e4": "Playboy_Rhodes_9A.wav"
+  },
+  "bmt_playboy_rhodes": {
+    "e4": "Playboy_Rhodes_9A.wav"
+  },
+  "bmt_riffs_90": {
+    "d4": "Possible_Worlds_Whistle_7A.wav"
+  },
+  "bmt_possible_worlds_whistle": {
+    "d4": "Possible_Worlds_Whistle_7A.wav"
+  },
+  "bmt_riffs_91": {
+    "a4": "Promenade_Vox_Synths_11B.wav"
+  },
+  "bmt_promenade_vox_synths": {
+    "a4": "Promenade_Vox_Synths_11B.wav"
+  },
+  "bmt_riffs_92": {
+    "f3": "Raven_Hit_4A.wav"
+  },
+  "bmt_raven_hit": {
+    "f3": "Raven_Hit_4A.wav"
+  },
+  "bmt_riffs_93": {
+    "e4": "Reckon_String_9A.wav"
+  },
+  "bmt_reckon_string": {
+    "e4": "Reckon_String_9A.wav"
+  },
+  "bmt_riffs_94": {
+    "c4": "Reed_Breath_Flute_5A.wav"
+  },
+  "bmt_reed_breath_flute": {
+    "c4": "Reed_Breath_Flute_5A.wav"
+  },
+  "bmt_riffs_95": {
+    "d4": "Reed_Hit_7A.wav"
+  },
+  "bmt_reed_hit": {
+    "d4": "Reed_Hit_7A.wav"
+  },
+  "bmt_riffs_96": {
+    "d3": "Reel_Funk_Wah_10B.wav"
+  },
+  "bmt_reel_funk_wah": {
+    "d3": "Reel_Funk_Wah_10B.wav"
+  },
+  "bmt_riffs_97": {
+    "eb3": "Repetoire_Flute_2A.wav"
+  },
+  "bmt_repetoire_flute": {
+    "eb3": "Repetoire_Flute_2A.wav"
+  },
+  "bmt_riffs_98": {
+    "b3": "Right_Bass_Mentasm_10A.wav"
+  },
+  "bmt_right_bass_mentasm": {
+    "b3": "Right_Bass_Mentasm_10A.wav"
+  },
+  "bmt_riffs_99": {
+    "bb3": "Right_Piano_3A.wav"
+  },
+  "bmt_right_piano": {
+    "bb3": "Right_Piano_3A.wav"
+  },
+  "bmt_riffs_100": {
+    "db3": "Roll_Dancehall_12A.wav"
+  },
+  "bmt_roll_dancehall": {
+    "db3": "Roll_Dancehall_12A.wav"
+  },
+  "bmt_riffs_101": {
+    "d3": "Secrets_Hit_7A.wav"
+  },
+  "bmt_secrets_hit": {
+    "d3": "Secrets_Hit_7A.wav"
+  },
+  "bmt_riffs_102": {
+    "ab4": "Sensi_Signal_4B.wav"
+  },
+  "bmt_sensi_signal": {
+    "ab4": "Sensi_Signal_4B.wav"
+  },
+  "bmt_riffs_103": {
+    "f4": "Session_Hits_7B.wav"
+  },
+  "bmt_session_hits": {
+    "f4": "Session_Hits_7B.wav"
+  },
+  "bmt_riffs_104": {
+    "f3": "Session_Shout_4A.wav"
+  },
+  "bmt_session_shout": {
+    "f3": "Session_Shout_4A.wav"
+  },
+  "bmt_riffs_105": {
+    "c3": "Sky_Hit_5A.wav"
+  },
+  "bmt_sky_hit": {
+    "c3": "Sky_Hit_5A.wav"
+  },
+  "bmt_riffs_106": {
+    "e4": "Solar_Chord_12B.wav"
+  },
+  "bmt_solar_chord": {
+    "e4": "Solar_Chord_12B.wav"
+  },
+  "bmt_riffs_107": {
+    "e4": "Solar_Gtr_String_12B.wav"
+  },
+  "bmt_solar_gtr_string": {
+    "e4": "Solar_Gtr_String_12B.wav"
+  },
+  "bmt_riffs_108": {
+    "c3": "Solution_Synth_5A.wav"
+  },
+  "bmt_solution_synth": {
+    "c3": "Solution_Synth_5A.wav"
+  },
+  "bmt_riffs_109": {
+    "b3": "Some_Justice_Hardcore_Hit_10A.wav"
+  },
+  "bmt_some_justice_hardcore_hit": {
+    "b3": "Some_Justice_Hardcore_Hit_10A.wav"
+  },
+  "bmt_riffs_110": {
+    "c3": "Sonic_Burble_5A.wav"
+  },
+  "bmt_sonic_burble": {
+    "c3": "Sonic_Burble_5A.wav"
+  },
+  "bmt_riffs_111": {
+    "ab3": "Soul_Chord_4B.wav"
+  },
+  "bmt_soul_chord": {
+    "ab3": "Soul_Chord_4B.wav"
+  },
+  "bmt_riffs_112": {
+    "b3": "Sovreign_Guitar_10A.wav"
+  },
+  "bmt_sovreign_guitar": {
+    "b3": "Sovreign_Guitar_10A.wav"
+  },
+  "bmt_riffs_113": {
+    "b3": "Sovreign_Rhodes_10A.wav"
+  },
+  "bmt_sovreign_rhodes": {
+    "b3": "Sovreign_Rhodes_10A.wav"
+  },
+  "bmt_riffs_114": {
+    "c3": "Sovreign_Wah_5A.wav"
+  },
+  "bmt_sovreign_wah": {
+    "c3": "Sovreign_Wah_5A.wav"
+  },
+  "bmt_riffs_115": {
+    "c4": "Spiritual_Keys.wav"
+  },
+  "bmt_spiritual_keys": {
+    "c4": "Spiritual_Keys.wav"
+  },
+  "bmt_riffs_116": {
+    "gb3": "Stepper_Keys_2_11A.wav"
+  },
+  "bmt_stepper_keys_2": {
+    "gb3": "Stepper_Keys_2_11A.wav"
+  },
+  "bmt_riffs_117": {
+    "e3": "Stepper_Keys_9A.wav"
+  },
+  "bmt_stepper_keys": {
+    "e3": "Stepper_Keys_9A.wav"
+  },
+  "bmt_riffs_118": {
+    "ab3": "Sweet_Arp_1A.wav"
+  },
+  "bmt_sweet_arp": {
+    "ab3": "Sweet_Arp_1A.wav"
+  },
+  "bmt_riffs_119": {
+    "c3": "Sweet_Sunshine_Strum_5A.wav"
+  },
+  "bmt_sweet_sunshine_strum": {
+    "c3": "Sweet_Sunshine_Strum_5A.wav"
+  },
+  "bmt_riffs_120": {
+    "d4": "System_Arps_10B.wav"
+  },
+  "bmt_system_arps": {
+    "d4": "System_Arps_10B.wav"
+  },
+  "bmt_riffs_121": {
+    "b3": "Tear_Lead_1B.wav"
+  },
+  "bmt_tear_lead": {
+    "b3": "Tear_Lead_1B.wav"
+  },
+  "bmt_riffs_122": {
+    "c3": "Technology_Ana_Stab_5A.wav"
+  },
+  "bmt_technology_ana_stab": {
+    "c3": "Technology_Ana_Stab_5A.wav"
+  },
+  "bmt_riffs_123": {
+    "g3": "Ten_Wibble_9B.wav"
+  },
+  "bmt_ten_wibble": {
+    "g3": "Ten_Wibble_9B.wav"
+  },
+  "bmt_riffs_124": {
+    "eb3": "Times_Stab_5B.wav"
+  },
+  "bmt_times_stab": {
+    "eb3": "Times_Stab_5B.wav"
+  },
+  "bmt_riffs_125": {
+    "a3": "Tip_Stab_11B.wav"
+  },
+  "bmt_tip_stab": {
+    "a3": "Tip_Stab_11B.wav"
+  },
+  "bmt_riffs_126": {
+    "d3": "Tone_Tune_Tones_7A.wav"
+  },
+  "bmt_tone_tune_tones": {
+    "d3": "Tone_Tune_Tones_7A.wav"
+  },
+  "bmt_riffs_127": {
+    "a4": "Traenon_Rhodes_11B.wav"
+  },
+  "bmt_traenon_rhodes": {
+    "a4": "Traenon_Rhodes_11B.wav"
+  },
+  "bmt_riffs_128": {
+    "g3": "Vulture_Chord_9B.wav"
+  },
+  "bmt_vulture_chord": {
+    "g3": "Vulture_Chord_9B.wav"
+  },
+  "bmt_riffs_129": {
+    "b3": "War_Reggae_10A.wav"
+  },
+  "bmt_war_reggae": {
+    "b3": "War_Reggae_10A.wav"
+  },
+  "bmt_riffs_130": {
+    "a4": "Wash_Flute_8A.wav"
+  },
+  "bmt_wash_flute": {
+    "a4": "Wash_Flute_8A.wav"
+  }
 }
